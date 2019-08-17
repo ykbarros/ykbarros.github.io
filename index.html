@@ -1,14 +1,17 @@
 ---
-# This block is called the fronat matter. It's needed at the header to render liquid tags in jekyll.
+# This block is called the front matter. It's needed at the header to render liquid tags in jekyll.
+# Front matter is used to set variables for the page.
+
+title: Yeji Kim-Barros
 ---
 
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Home</title>
+    <title> {{ page.title }} </title>
   </head>
   <body>
-    <h1>{{ "Hello World!" | downcase }}</h1>
+    <h1>{{ "Hello Steven Barros!" | downcase }}</h1>
   </body>
 </html>
