@@ -11,3 +11,5 @@ linkedin_url: https://www.linkedin.com/in/yejikimbarros/
 
 # Build settings
 markdown: kramdown
+plugins:
+- jekyll-seo-tag
