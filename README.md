@@ -12,3 +12,5 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml`
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
+## Additional Notes for Me...
+- https://search.creativecommons.org/photos/492b294f-60fc-4825-a853-b8affa5f95c5 for the background image.
