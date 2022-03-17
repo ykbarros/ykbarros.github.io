@@ -17,6 +17,10 @@ favicon: 'assets/images/favicon.ico'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics:
+# Add Google Tag Manager Container Id
+google:
+  tag_manager:
+    container_id: GTM-WM9PWMJ
 # Contact form settings
 email: yeji@kimbarros.com
 contact_page_description: "I want to listen and understand how you're thinking about becoming (or staying) a great leader. Please reach out."
