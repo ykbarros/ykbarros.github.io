@@ -1,8 +1,8 @@
 # Site setings
-title: Yeji Kim-Barros
+title: Advice for a new manager from Yeji Kim-Barros
 name: 'Yeji'
 description: 'Leadership & Management'
-meta_description: 'Explore compassionate and empowering leadership'
+meta_description: 'Learn how to be compassionate and empowering as a first time leader'
 baseurl: "" # the subpath of your site, e.g. /blog/
 production_url: "https://kimbarros.com" # the base hostname & protocol for your site
 
@@ -10,16 +10,16 @@ production_url: "https://kimbarros.com" # the base hostname & protocol for your 
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  image: 'AuthorImage.png'
+  greetings: "Hiya, I'm Yeji. I've been in product and people development for the past 10 years. I want to share what I've learned. Nice to meet you!"
 favicon: 'assets/images/favicon.ico'
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+# disqus: 'justgoodthemes'
+# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics:
 # Contact form settings
 email: yeji@kimbarros.com
-contact_page_description: "I've been told I'm a pretty good listener. Got a question? Send me a note, let's talk."
+contact_page_description: "I want to listen and understand how you're thinking about becoming (or staying) a great leader. Please reach out."
 thankyou_page_description: "Thanks for your message. I'll get back to you shortly. Cheers!"
 # Social links
 twitter: #''
@@ -40,8 +40,6 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
   - text: Contact Me
     url: /contact
   - text: Search
