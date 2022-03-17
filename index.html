@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
 ---
 <main id="main" class="site-main">
 
 {% if page.url == "/" %}
 <div class="hero inner">
     <p class="hero-text">{{ site.author.greetings }}</p>
-</div>        
+</div>
 {% endif %}
 
 {% if page.url == "/" %}
@@ -39,5 +38,3 @@ title: Home
     {% include newsletter-box.html %}
 {% endif %}
 </main>
-
-
