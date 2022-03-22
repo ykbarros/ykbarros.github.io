@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Be a First-time Manager'
-tags: [JavaScript, Tips]
+tags: [How-to, Communication, Relationships]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/graph.jpg
 featured: true
