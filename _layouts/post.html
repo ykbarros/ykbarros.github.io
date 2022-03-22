@@ -38,7 +38,7 @@ post_class: post-template
                 <div class="post-share">
                     <span class="post-share-title">Share this article:</span>
                     <a target="_blank" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}">Twitter</a>
-                    <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}{{ page.url | remove_first: '/' }}">LinkedIn</a>
+                    <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}/{{ page.url | remove_first: '/' }}">LinkedIn</a>
                 </div><!-- .share-post -->
             </footer>
             {% include disqus.html %}
