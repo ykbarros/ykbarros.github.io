@@ -36,7 +36,7 @@ post_class: post-template
             </div>
             <footer class="post-footer">
                 <div class="post-share">
-                    <span class="post-share-title">Share:</span>
+                    <span class="post-share-title">Share this article:</span>
                     <a target="_blank" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}">Twitter</a>
                     <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}{{ page.url | remove_first: '/' }}">LinkedIn</a>
                 </div><!-- .share-post -->
@@ -46,6 +46,8 @@ post_class: post-template
         {% if site.mailchimp_url %}
             {% include newsletter-box.html %}
         {% endif %}
+        <!-- Created MVP newsletter template from default so I don't have to pay for MailChimp yet. -->
+        {% include mvp-newsletter-box.html %}
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
             {% if page.previous.url %}
