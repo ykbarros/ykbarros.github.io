@@ -34,9 +34,9 @@ The same applies to being a people manager. Probe to understand motives and thou
 <mark>Try this:</mark> Instead of asking "What are you prioritizing?" ask: "How are you thinking through prioritization?" This provides you with informative data points and opportunities for more dialogues:
 1. How they prioritize tasks.
 2. How they perceive their contribution.
-3. How well you've conveyed your expectations.
+3. How well you've conveyed your expectations, goals, and the vision.
 4. Segue to align on prioritization.
-5. Opportunity to assess and balance workload and care for your direct reports’ mental health.
+5. Check and balance workload and care for your direct reports’ mental health.
 
 ## Convey your thoughts simply
 When I had to read Ernest Hemingway in high school, I found it a chore. How did he become a respected writer? By stitching together common words into short sentences? Balderdash! A complete gobbledygook! A disparaging example of American literature! The inner critic in me thought he had zero flourish and bland rhetoric. Wrong.
