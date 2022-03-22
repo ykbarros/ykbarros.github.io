@@ -2,6 +2,7 @@
 layout: post
 title: 'How to Be a First-time Manager'
 tags: [How-to, Communication, Relationships]
+categories: How-to
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/graph.jpg
 featured: true
