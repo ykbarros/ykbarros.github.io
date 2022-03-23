@@ -1,6 +1,7 @@
-FMYI (Mostly a note for myself)
-Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
+# FMYI (Mostly a note for myself)
+1. Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
 Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally and pushing the built html statics to master to be served by GitHub to my site.
+2. Blog tags to consider
 
 # Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
 1. Checkout blog-staging on git to write the blog post.
