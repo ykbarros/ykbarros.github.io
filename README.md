@@ -1,8 +1,8 @@
-## Blog Publishing FYI (Mostly a note for myself)
+# FMYI (Mostly a note for *my*self)
 
 Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally and pushing the built html statics to master to be served by GitHub to my site.
 
-## Steps
+## Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
 
 1. Checkout blog-staging on git to write the blog post.
 2. Commit and push blog-staging branch to origin.
@@ -11,3 +11,33 @@ Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally a
 5. Checkout master. 
 6. Write over with the copied info from step 4.
 7. Commit and push master branch to origin.
+
+## Blog Tags to Consider
+
+1. How-to
+2. Readings
+3. Thoughts
+
+Sub-categories:
+
+1. Communication
+  - Conflict resolution
+  - Change management
+  - Meeting management
+2. Motivation
+  - Employee engagement
+  - Employee empowerment
+  - Stress management & mental health
+  - Leading innovation
+  - Team performance and wellbeing
+3. Planning
+  - Time management
+  - Execution management
+  - Delegation
+  - Productivity
+  - Manage v. Lead
+4. Relationships
+  - Building trust
+  - Effective coaching and feedback
+  - Goal setting
+  - Collaboration on problem solving
