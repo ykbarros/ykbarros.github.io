@@ -16,7 +16,7 @@ favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics:
+ga_analytics: UA-223736039-1
 # Add Google Tag Manager Container Id
 google:
   tag_manager:
