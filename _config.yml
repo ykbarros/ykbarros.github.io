@@ -4,6 +4,7 @@ description: 'Compassionate leadership'
 meta_description: 'Learn how to be compassionate and empowering as a first time leader'
 baseurl: "" # the subpath of your site, e.g. /blog/
 production_url: "https://kimbarros.com" # the base hostname & protocol for your site
+url: "https://kimbarros.com"
 
 # Engagement settings
 logo:
