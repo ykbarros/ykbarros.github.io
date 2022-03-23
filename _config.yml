@@ -53,6 +53,7 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-google-tag-manager
 
 # Pagination
 paginate: 5
