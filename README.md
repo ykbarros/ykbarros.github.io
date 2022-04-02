@@ -1,7 +1,8 @@
 # FMYI (Mostly a note for myself)
 1. Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
 Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally and pushing the built html statics to master to be served by GitHub to my site.
-2. Blog tags to consider
+2. Blog tags
+3. Formats
 
 # Steps to publish (TL;DR: Work on blog-staging, copy locally built site elsewhere, push built to master)
 1. Checkout blog-staging on git to write the blog post.
@@ -39,3 +40,21 @@ Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally a
   - Effective coaching and feedback
   - Goal setting
   - Collaboration on problem solving
+
+# Formats to Consider
+- How-to
+  - Listicles
+  - How To's
+  - "Flips": snappy learnings on each flip
+  - "Table of contents": series of blogs that are stitched together in view. Lengthier than Flips
+- Manager-toolkit
+  - Infographics
+  - Quizzes
+  - Checklists
+  - Case studies
+- Further-learning
+  - Resources review & analysis: books, videos, podcast episodes, articles
+- My-view
+  - Q&A
+  - Stories
+  - "Tiny thought"
