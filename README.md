@@ -54,7 +54,5 @@ Because of the Jekyll plug-ins, I'm opting on building the jekyll site locally a
   - Case studies
 - Further-learning
   - Resources review & analysis: books, videos, podcast episodes, articles
-- My-view
-  - Q&A
-  - Stories
-  - "Tiny thought"
+- Q&A
+- Stories
