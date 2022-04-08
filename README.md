@@ -4,6 +4,7 @@ Master branch is served on kimbarros.com. The site is built using Jekyll; becaus
 2. `master` to serve up built jekyll site (site built locally).
 
 Other lingering Thoughts I didn't have a space for elsewhere...
+
 **Formats to consider:**
 - How-to
   - Listicles
