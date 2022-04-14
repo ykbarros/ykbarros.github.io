@@ -66,6 +66,10 @@ permalink: /:title
 # Other
 markdown: kramdown
 
+# Kramdown
+kramdown:
+    auto_ids: true
+
 # Sass
 sass:
   sass_dir: _sass

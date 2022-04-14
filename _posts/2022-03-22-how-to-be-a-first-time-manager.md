@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to Be a First-time Manager'
+title: 'How to be a first-time manager'
 tags: [How-to, Communication, Relationships]
 categories: How-to
 featured_image_thumbnail:
