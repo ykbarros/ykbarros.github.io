@@ -141,12 +141,12 @@ Based on this distillation, I've put together 103 questions that can be used in 
 4. What's the last movie/book/podcast/song you enjoyed?
 5. How's your fur/plant/human baby?
 6. How’s your [insert hobby] going?
-7. Is a hotdog a sandwich?[^*]
-8.  What's your opinion on Hawaiian pizza?[^*]
-9. Are fruits legitimate toppings for an ice cream sundae?[^*]
-10. What's the best style of pizza?[^*]
+7. Is a hotdog a sandwich?[^1]
+8.  What's your opinion on Hawaiian pizza?[^1]
+9. Are fruits legitimate toppings for an ice cream sundae?[^1]
+10. What's the best style of pizza?[^1]
 
-[^*]: I pulled these questions from old questions I've asked at work before. I'm seeing a pattern here: I love food and I like to sow mild discord.
+[^1]: I pulled these questions from old questions I've asked at work before. I'm seeing a pattern here: I love food and I like to sow mild discord.
 
 ## Recurring questions
 1. Any follow-ups from our last one-on-one?
