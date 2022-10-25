@@ -1,0 +1,76 @@
+# Site setings
+name: 'Yeji Kim-Barros'
+description: 'Product Thoughts'
+meta_description: 'Product management journaling'
+baseurl: "" # the subpath of your site, e.g. /blog/
+production_url: "https://kimbarros.com" # the base hostname & protocol for your site
+url: "https://kimbarros.com"
+
+# Engagement settings
+logo:
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'AuthorImage.png'
+  greetings: "I've left graveyards of wiki pages at my old jobs on product discovery and validation. But I don't want graveyards anymore. Instead, I'm growing a garden."
+favicon: 'assets/images/favicon.ico'
+# disqus: 'justgoodthemes'
+# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+# Add your GA Tracking Id
+ga_analytics: UA-223736039-1
+# Add Google Tag Manager Container Id
+google:
+  tag_manager:
+    container_id: GTM-WM9PWMJ
+# Contact form settings
+email: yeji@kimbarros.com
+contact_page_description: 
+thankyou_page_description: "Thanks for your message. I'll get back to you shortly. Cheers!"
+# Social links
+twitter: #''
+facebook: #''
+codepen: #''
+dribbble: #''
+medium: #'@username'
+instagram: #''
+pinterest: #''
+linkedin: 'yejikimbarros'
+producthunt: #'@username'
+quora: #'username'
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Contact Me
+    url: /contact
+  - text: Search
+    url: /search
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-google-tag-manager
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Kramdown
+kramdown:
+    auto_ids: true
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
