@@ -1,7 +1,7 @@
 # Site setings
 name: 'Yeji Kim-Barros'
-description: 'Compassionate leadership'
-meta_description: 'Learn how to be compassionate and empowering as a first time leader'
+description: 'Product Thoughts'
+meta_description: 'Product management journaling'
 baseurl: "" # the subpath of your site, e.g. /blog/
 production_url: "https://kimbarros.com" # the base hostname & protocol for your site
 url: "https://kimbarros.com"
@@ -11,7 +11,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'AuthorImage.png'
-  greetings: "Hiya, I'm Yeji. I've been in product and people management for the past 10 years. I want to share what I've learned. Nice to meet you!"
+  greetings: "I've left graveyards of wiki pages at my old jobs on product discovery and validation. But I don't want graveyards anymore. Instead, I'm growing a garden."
 favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
@@ -23,7 +23,7 @@ google:
     container_id: GTM-WM9PWMJ
 # Contact form settings
 email: yeji@kimbarros.com
-contact_page_description: "I want to listen and understand how you're thinking about becoming (or staying) a great leader. Please reach out."
+contact_page_description:
 thankyou_page_description: "Thanks for your message. I'll get back to you shortly. Cheers!"
 # Social links
 twitter: #''
