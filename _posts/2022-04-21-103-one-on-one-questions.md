@@ -5,7 +5,7 @@ tags: [Manager-toolkit, Communication, Relationships]
 categories: Manager-toolkit
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/question.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

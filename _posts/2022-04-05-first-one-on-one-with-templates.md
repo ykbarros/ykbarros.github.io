@@ -5,7 +5,7 @@ tags: [How-to, Communication, Relationships]
 categories: How-to
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/one-on-one.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
