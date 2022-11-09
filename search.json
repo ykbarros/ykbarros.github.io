@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Pivoting my blog",
+      "category" : "",
+      "tags"     : "Story, Product-management, Focus-and-direction",
+      "url"      : "/pivoting-towards-0-1-product",
+      "date"     : "November 8, 2022"
+    } ,
+  
+    {
       "title"    : "103 One-on-one questions",
       "category" : "",
       "tags"     : "Manager-toolkit, Communication, Relationships",
