@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "3 Startup lessons from immigrant parents",
+      "category" : "",
+      "tags"     : "Mental-model, Startup",
+      "url"      : "/3-startup-lessons-from-immigrant-parents",
+      "date"     : "January 3, 2023"
+    } ,
+  
+    {
       "title"    : "Avoiding the shiny object syndrome",
       "category" : "",
       "tags"     : "Mental-model, Product-management, Focus-and-direction",
@@ -11,7 +19,7 @@
     {
       "title"    : "Pivoting my blog",
       "category" : "",
-      "tags"     : "Story, Product-management, Focus-and-direction",
+      "tags"     : "Personal-essay, Product-management, Focus-and-direction",
       "url"      : "/pivoting-towards-0-1-product",
       "date"     : "November 8, 2022"
     } ,
@@ -43,7 +51,7 @@
     {
       "title"    : "What is the point of one-on-one meetings?",
       "category" : "",
-      "tags"     : "Story, Relationships",
+      "tags"     : "Personal-essay, Relationships",
       "url"      : "/why-have-one-on-one-meetings",
       "date"     : "April 4, 2022"
     } ,
