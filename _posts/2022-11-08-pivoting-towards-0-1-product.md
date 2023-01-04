@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Pivoting my blog'
-tags: [Story, Product-management, Focus-and-direction]
-categories: Story
+tags: [Personal-essay, Product-management, Focus-and-direction]
+categories: Personal-essay
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/pivot.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

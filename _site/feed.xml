@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeji Kim-Barros</title>
+    <description>Product Thoughts</description>
+    <link>https://kimbarros.com/</link>
+    <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Jan 2023 21:36:30 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2023 21:36:30 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>3 Startup lessons from immigrant parents</title>
+        <description>&lt;p&gt;Starting a one-woman project feels daunting. I didn’t know where to start after declaring which problem I’d like to focus on. So I retreated to my childhood memory. What did my non-English speaking, immigrant parents do to start their businesses in the U.S.?&lt;/p&gt;
+
+&lt;p&gt;To be clear, their success wasn’t quite the &lt;em&gt;American Dream&lt;/em&gt; tale that most republicans drool over. We wouldn’t have made their cut as the poster child of the “model immigrant” nonsense. They fought a lot. We struggled. I got so sick and tired of eating eggs every day that it took me over a decade to start appreciating them again. Here is what my parents did. This is where I’ll start, too.&lt;/p&gt;
+
+&lt;h2 id=&quot;network&quot;&gt;Network&lt;/h2&gt;
+
+&lt;p&gt;It helped that they didn’t start from absolute zero. They had help. They sought advice from their newfound friends in the Korean community. It wasn’t labeled as an “informational interview,” but it might as well have been. They got advice on pricing, known competitors, and how to bring in customers.&lt;/p&gt;
+
+&lt;h2 id=&quot;reduce-risk&quot;&gt;Reduce risk&lt;/h2&gt;
+
+&lt;p&gt;By learning from others’ successes and failures, they were able to fast track some of the work. To borrow phrases from gaming, they knew their opening hand and their “build order.” This was important for them. It enabled my parents to work on the right thing and reduced the risk they were taking.&lt;/p&gt;
+
+&lt;h2 id=&quot;wear-a-lot-of-hats&quot;&gt;Wear a lot of hats&lt;/h2&gt;
+
+&lt;p&gt;If I had a penny for every time I heard my parents say “we can’t take time off. No one can keep the business going while we’re away,” I would be a millionaire by now. After I married into a family who also had a small business, I got to hear it in both Korean and Portuguese!&lt;/p&gt;
+
+&lt;p&gt;My parents and my in-laws are extremely hard workers. They kept their shops open 7 days a week. They had a half day off on Thanksgiving. They worked on Christmas Eve. They wore all the hats at all hours. That was their problem. Even as they scaled, none of them thought much about which hat to wear. Or which hat to give away to someone else. A major fashion faux pas.&lt;/p&gt;
+
+&lt;p&gt;I’m going to dream big. I don’t want to be employed by my project. I want to be the owner and founder.&lt;/p&gt;
+
+&lt;p&gt;I’ll have to give more thought on how I can network, reduce risk, and sustainably wear a lot of hats.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2023 00:00:00 -0500</pubDate>
+        <link>https://kimbarros.com/3-startup-lessons-from-immigrant-parents</link>
+        <guid isPermaLink="true">https://kimbarros.com/3-startup-lessons-from-immigrant-parents</guid>
+        
+        <category>Mental-model</category>
+        
+        <category>Startup</category>
+        
+        
+        <category>Mental-model</category>
+        
+      </item>
+    
+      <item>
+        <title>Avoiding the shiny object syndrome</title>
+        <description>&lt;p&gt;I have always said, “Ideas are easy. Execution is what matters,” countless times. When I was working as a product manager, I was good at ruthlessly prioritizing the minimum valuable product in spite of ambiguity. One of my big product practice crusades has been around scope creep. You can’t front load everything and chase every idea all at once. Because if everything is important, then nothing is important.&lt;/p&gt;
+
+&lt;p&gt;So why is it so hard right now? Never mind scope creep on one idea. I keep branching into multiple product ideas that are so disparate that I’ve found myself on WebMD and Psychology Today to check if I have adult-onset ADHD. I’m convinced I at least have a mild case of “I can’t get into a flow and do one thing for a long time because I threw discipline out the window after high school.” It doesn’t roll off the tongue like ADHD.&lt;/p&gt;
+
+&lt;p&gt;My theory on why I can’t follow through at the moment is as follows. Working as a product person at a company, I work with the company vision. No matter how ambiguous the product vision and roadmap might be, I have an inkling of where I need to get to eventually. Without this focus, I’m turning my attention towards every problem that I am passionate about.&lt;/p&gt;
+
+&lt;h2 id=&quot;heuristics-for-attention-prioritization&quot;&gt;Heuristics for attention prioritization&lt;/h2&gt;
+
+&lt;p&gt;To help focus, I spent some time thinking about how to prioritize my attention today. And I’ve decided to borrow some of my heuristics from the kitchen.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Front-burner&lt;/strong&gt;: This is the main meal I’m cooking right now. It’s the primary project that is receiving my attention because it’s on power boil.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Back-burner&lt;/strong&gt;: This is the side dish I’ve got on simmer. It’s a secondary project that may get my attention once in awhile because I gotta stir it occasionally.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pantry&lt;/strong&gt;: This stores anything and everything from pots and pans to my unopened tub of gochujang and my extra jar of cornichon. It’s miscellaneous references, fleeting ideas, inspirational podcasts, and any other random thoughts that may be used in my meal—or used to cook a whole new meal down the line.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compost&lt;/strong&gt;: This is the disposal. In goes whatever that spoiled in the pantry or if I burnt the food. It’s abandoned ideas that I will choose not to pursue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/yejiwork-organization.png&quot; alt=&quot;My work prioritized and organized in notion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With this mental model in mind, I was able to comb through a list of 70-something ideas that I had jotted down. Most have now been shelved in the pantry or chucked away into the compost bin. I’ve decided to add on side dish to the back-burner, though. I’ve always been passionate about all things analog; so I want to try making stationery. Yes, it’s a saturated market. Yes, it’ll likely lead to nowhere. So why am I toiling with this?&lt;/p&gt;
+
+&lt;p&gt;First, I want to use my time doing something I enjoy. Both as a product creator and as a user. I feel grateful that I’m currently in a weird limbo where I don’t feel &lt;em&gt;compelled&lt;/em&gt; to be productive and to produce outputs all the damn time. So I’ll capitalize on this moment. I’ll eventually have to figure out how to bring in income to live my life. But for now, I’ll happily work on my entrepreneurial discipline and routine by building something I enjoy.&lt;/p&gt;
+
+&lt;p&gt;Second, I’ve only ever managed digital product. The extra side dish I’m whipping up is a physical product. It’ll be interesting to explore how product validations compare and contrast between physical and digital product management. And the shininess of the new challenge also intrigues me, too.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
+        <link>https://kimbarros.com/avoiding-the-shiny-object-syndrome</link>
+        <guid isPermaLink="true">https://kimbarros.com/avoiding-the-shiny-object-syndrome</guid>
+        
+        <category>Mental-model</category>
+        
+        <category>Product-management</category>
+        
+        <category>Focus-and-direction</category>
+        
+        
+        <category>Mental-model</category>
+        
+      </item>
+    
+      <item>
+        <title>Pivoting my blog</title>
+        <description>&lt;p&gt;As soon as I started writing, I took a hiatus from contributing to my blog. Short story: I’m going to shelf my original intentions for this blog and shift my focus towards a different problem.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happened&quot;&gt;What happened?&lt;/h2&gt;
+
+&lt;p&gt;My posts got some traction; I was happy that some of the newsletter signups came from people I’ve never met. I was on cloud nine when I had a chance to speak to them (they weren’t bots signing up!). Then I was crushed.&lt;/p&gt;
+
+&lt;p&gt;I reached out to the subscribers and asked, “How did you get here? Why did you sign up?” I expected their answers to be something like: “I’m a first time manager and wanted to see how I can be better.”&lt;/p&gt;
+
+&lt;p&gt;Instead, what I got was:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“My manager doesn’t know what they’re doing. I hate waking up in the morning to go to work. I’m so frustrated and I wanted to see if what they’re doing is legit.”&lt;/li&gt;
+  &lt;li&gt;“I thought I could learn to manage up and make my manager better so they stop micromanaging me.”&lt;/li&gt;
+  &lt;li&gt;“I’ve never had a good manager and I want to know what a good manager looks like.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Well, shit. That’s not the target audience I had in mind.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No matter. With the user interviews behind me, I decided to double down and see if there was a way to solve a newfound problem: how do you turn a turd manager into gold?&lt;/p&gt;
+
+&lt;p&gt;This led to countless problem statements, questions, and HBR articles. And I didn’t even consider the implications of gender and race! Needless to say, it was quite the mental gymnastics with hours of mind mapping. I’ll narrate my thought process in three parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/rabbit-hole.jpg&quot; alt=&quot;Alice in Wonderland rabbit hole picture&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;part-1-exploration-of-organizational-paradigms&quot;&gt;Part 1: Exploration of organizational paradigms&lt;/h2&gt;
+
+&lt;p&gt;I stopped researching the topic shortly before considering gender and race implications around leadership. This is because I felt that there are practices, irrespective of social inequities, that need paradigm shifts to turn a turd manager into gold. I’ll name just two for brevity.&lt;/p&gt;
+
+&lt;h3 id=&quot;promotion-into-management&quot;&gt;Promotion into management&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/en/Peter_principle&quot; target=&quot;_blank&quot;&gt;The Peter principle&lt;/a&gt; posits that people are promoted based on their success in their previous role until they arrive at a role where they are incompetent and are no longer promoted. People peak at their level of incompetence, and, eventually, roles are occupied by employees who are incompetent at their job.&lt;/p&gt;
+
+&lt;p&gt;The problem is that to maintain stasis, you need the right amount of incompetence. You can’t be too incompetent. You’ll be fired. But if you’re too competent, that’s not great either. Too efficient at your job because you created Excel macros to automate the work then went off to a yoga class? Let’s hope your manager doesn’t get insecure, goes on a power trip, and enforces presenteeism. Rocking the hierarchy boat happens at either end of competence.&lt;/p&gt;
+
+&lt;h3 id=&quot;leadership-development&quot;&gt;Leadership development&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bloomleaders.com/blog/2018/10/9/interesting-statistics-about-effective-leadership&quot; target=&quot;_blank&quot;&gt;Only 5% of businesses have implemented leadership development at all levels&lt;/a&gt;. Ever the optimist, I hope that this number is higher since this research was published in 2015. Even with a whopping 400% increase, that’s only 25% of businesses cultivating leaders within their organizations. I’m optimistic, but I’m not 400%-increase optimistic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My takeaway is that many people are promoted into a manager role and not equipped to perform well.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So how do we hire the right person in the first place? How do we onboard them? How do we set the right expectations? How do we convey company goals? How do we relate the company mission to the leaders? How do we allocate responsibilities? How do we hold people accountable?&lt;/p&gt;
+
+&lt;p&gt;But, more importantly for the organization: “how do all these questions help hit our targets we’ve got now? Or, generously, a year from now?”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Note: as someone who set out to take a year off from the corporate world to retreat into reflecting, reading, and writing, let me say: a year is wicked short.)&lt;/em&gt; And therein lies the good ole’ paradigm that need shifting.&lt;/p&gt;
+
+&lt;p&gt;Problems that call for commitment towards effective development require long-term thinking in a short-sighted world. We want immediate gratification. I don’t want Prime later. &lt;a href=&quot;https://www.youtube.com/watch?v=BGEAiUeiaKs&amp;amp;t=68s&quot; target=&quot;_blank&quot;&gt;I want Prime now&lt;/a&gt;. And I hit a brick wall. I don’t know how to subdivide and tackle these problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;part-2-who-cares&quot;&gt;Part 2: Who cares?&lt;/h2&gt;
+
+&lt;p&gt;Under this massive “problem tree” canopy, one more node of notion started propagating. I don’t think enough people care about this problem. Here, I’m defining care in two different ways.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;(&lt;em&gt;noun&lt;/em&gt;) Conscientious: Are there &lt;em&gt;serious attention and consideration being applied&lt;/em&gt; towards solving this problem? (By the way, throwing money at the problem is &lt;strong&gt;not&lt;/strong&gt; it.)&lt;/li&gt;
+  &lt;li&gt;(&lt;em&gt;verb&lt;/em&gt;) Foster: Is this problem &lt;em&gt;being looked after and tended&lt;/em&gt; to its needs?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This led me down a neighboring rabbit hole as I pondered about what it means to practice care and be caring.&lt;/p&gt;
+
+&lt;p&gt;For instance, do people generally care much at all in their daily lives? How often do people take time to consider how they might apply their attention towards something or someone they value? And do they frequently look after something and someone they cherish? &lt;strong&gt;When was the last time &lt;em&gt;you&lt;/em&gt; did something that may not be ideal to do now, but would be good for you much later?&lt;/strong&gt; If people aren’t even doing that for their loved ones as a part of their ritual, I don’t blame them for not extending care anywhere else.&lt;/p&gt;
+
+&lt;p&gt;“But wait!” you may interject as you read this. “Self-care has really taken off recently. We want to make sure we look after ourselves, so we can look after others and be more empathetic.”&lt;/p&gt;
+
+&lt;h2 id=&quot;part-3-bastardization-of-how-people-care&quot;&gt;Part 3: Bastardization of how people care&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/google-trend-self-care.png&quot; alt=&quot;Google Trends graph that shows an upward trend for people searching the term self-care&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is true. Self-care is a topic that has gathered more interest over time. You can see that from the &lt;a href=&quot;https://trends.google.com/trends/explore?date=all&amp;amp;q=%2Fm%2F0cs1l4&quot; target=&quot;_blank&quot;&gt;Google Trends&lt;/a&gt; data shown above. Maybe that &lt;em&gt;does&lt;/em&gt; mean we’re more willing to exercise self-care (and by extension, practice some of its “sister” activities like self-reflection and self-compassion). In fact, you can find ways to practice self-care in many blog posts these days. I’ll include some below.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spa day with exfoliating scrub, face mask, and hair mask!&lt;/li&gt;
+  &lt;li&gt;Get mani-pedi to feel more put together!!&lt;/li&gt;
+  &lt;li&gt;Get a haircut!!!&lt;/li&gt;
+  &lt;li&gt;Take a long, hot shower!!!!&lt;/li&gt;
+  &lt;li&gt;Watch your favorite movie!!!!&lt;/li&gt;
+  &lt;li&gt;Do sudoku or a crossword puzzle!!!!!&lt;/li&gt;
+  &lt;li&gt;A bubble bath with a glass of wine!!!!!!&lt;/li&gt;
+  &lt;li&gt;Wear cozy sweaters!!!!!!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/self-care-trending-pics.png&quot; alt=&quot;Collection of images that describe self-care&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not vilifying these activities. &lt;strong&gt;It’s good to self-indulge.&lt;/strong&gt; I put on my face mask and watched clips of the &lt;em&gt;Twilight&lt;/em&gt; saga so I could mock the atrocities unfolding on the screen just last night. &lt;strong&gt;But self-indulge does not make for self-care.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Real self-care isn’t massages and green juices; it’s choosing to create a life that you don’t feel the need to regularly check out of.”
+&lt;cite&gt; -From &lt;a href=&quot;https://www.psychologytoday.com/us/blog/your-emotional-meter/202104/what-it-really-means-take-care-yourself&quot; target=&quot;_blank&quot;&gt;Psychology Today&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And so, after the months-long expedition down the rabbit holes, I finally reached my destination (maybe a layover? Because this may just be a connecting flight). &lt;strong&gt;I want to figure out how people can truly self-care.&lt;/strong&gt; Not the flashy Instagram story of someone mashing up avocados and putting kale into a blender with #selfcare. I mean figuring out &lt;em&gt;a way for people to take small moments in their day to intentionally, attentively, and consistently exercise self-care.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With this new goal in mind, I’m also shifting the focus of my blog from its original focus to chronicle my process towards the new problem I plan on chasing. In doing so, I am hoping to kill two birds with one stone by adding one more job: There have been many times in my career when I wanted relatable and practical advice for product management. But so much product management literature is fluff. People don’t benefit from an aimless, self-promotional blurb posted on LinkedIn, Medium, or Twitter. Frameworks are nice to see, but seeing how it can apply in real life helps a heck of a lot more. So maybe my process, warts and all, may prove to be more applicable to some.&lt;/p&gt;
+
+&lt;p&gt;At the very least, the blog will prove to be an effective way for future employers to review my candidacy. I’ll be sure to drop these 🚩in the posts so you can just Ctrl-F for it. You’re welcome.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;em&gt;Too sarcastic. May not take things seriously enough.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
+        <link>https://kimbarros.com/pivoting-towards-0-1-product</link>
+        <guid isPermaLink="true">https://kimbarros.com/pivoting-towards-0-1-product</guid>
+        
+        <category>Personal-essay</category>
+        
+        <category>Product-management</category>
+        
+        <category>Focus-and-direction</category>
+        
+        
+        <category>Personal-essay</category>
+        
+      </item>
+    
+      <item>
+        <title>103 One-on-one questions</title>
+        <description>&lt;p&gt;In my &lt;a href=&quot;/one-on-one-with-examples&quot; target=&quot;_blank&quot;&gt;previous post on how to hold one-on-ones&lt;/a&gt;, I abstracted different conversations that may come up into categories and types. As a refresher, I’ve noted them again here.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Categories&lt;/th&gt;
+      &lt;th&gt;Types&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Work progress&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Employee engagement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Mental and physical well-being&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussions&lt;/td&gt;
+      &lt;td&gt;Company and team goals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussions&lt;/td&gt;
+      &lt;td&gt;Relationship management&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Continued growth and development&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Performance goals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Upward to manager&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Upward to organization&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Based on this distillation, I’ve put together 103 questions that can be used in your one-on-ones with your direct report. If you’d like more actionable posts to add to your manager toolkit, &lt;a href=&quot;https://airtable.com/shrqyi0V7M1NZC58L&quot; target=&quot;_blank&quot;&gt;subscribe to receive notifications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-progress-check-in&quot;&gt;Work progress check-in&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How are you doing?&lt;/li&gt;
+  &lt;li&gt;How was the past week/2-weeks/month?&lt;/li&gt;
+  &lt;li&gt;What’s been the most exciting progress you’ve made?&lt;/li&gt;
+  &lt;li&gt;What’s been the most frustrating experience in the past week/2 weeks/month? How can I help? What can we start or stop doing to make it less frustrating?&lt;/li&gt;
+  &lt;li&gt;What are the roadblocks you’re stuck on?&lt;/li&gt;
+  &lt;li&gt;What’s getting in the way of making your work easier (e.g., clunky processes, too many tasks to juggle at once, slow decision making)?&lt;/li&gt;
+  &lt;li&gt;What’s your biggest time suck?&lt;/li&gt;
+  &lt;li&gt;Do you feel comfortable asking for help? Why or why not?&lt;/li&gt;
+  &lt;li&gt;When was the last time you wished you had some help, but didn’t get it? What happened?&lt;/li&gt;
+  &lt;li&gt;What can I do to help?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;engagement-check-in&quot;&gt;Engagement check-in&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;What do you least prefer doing? Why?&lt;/li&gt;
+  &lt;li&gt;What keeps you engaged and energized? Why?&lt;/li&gt;
+  &lt;li&gt;What do you do when you’re not as engaged or energized?&lt;/li&gt;
+  &lt;li&gt;Do you feel like you have enough agency to work independently? How can we empower you further?&lt;/li&gt;
+  &lt;li&gt;Do you feel like you have enough time to reflect on your work? Tell me more.&lt;/li&gt;
+  &lt;li&gt;Do you feel challenged at work? In what way? How do you feel about those challenges?&lt;/li&gt;
+  &lt;li&gt;Do you feel heard?&lt;/li&gt;
+  &lt;li&gt;When is the last time you’ve seen changes in the team/organization based on what you and others have voiced?&lt;/li&gt;
+  &lt;li&gt;Do you feel respected?&lt;/li&gt;
+  &lt;li&gt;Are there any discussions you feel you should be included in but are missing out on?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;well-being-check-in&quot;&gt;Well-being check-in&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Are you happy here?&lt;/li&gt;
+  &lt;li&gt;Are you happy with your current work?&lt;/li&gt;
+  &lt;li&gt;How would you rate your work/life balance right now?&lt;/li&gt;
+  &lt;li&gt;Is your current pace of work sustainable?&lt;/li&gt;
+  &lt;li&gt;What’s something we can change at work that would drastically improve your quality of life?&lt;/li&gt;
+  &lt;li&gt;Are you taking any time off soon to unwind?&lt;/li&gt;
+  &lt;li&gt;Do you have sufficient time blocked off in the day to work without distractions?&lt;/li&gt;
+  &lt;li&gt;Are there any meetings that I can take off your plate? Or remove entirely?&lt;/li&gt;
+  &lt;li&gt;What can I do to reduce Sunday scaries?&lt;/li&gt;
+  &lt;li&gt;Have you had enough down time to do something you enjoy outside of work?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;group-goals-discussion&quot;&gt;Group goals discussion&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How do you think our team is bringing value?&lt;/li&gt;
+  &lt;li&gt;Tell me how we’ve set our objectives. Does it make sense?&lt;/li&gt;
+  &lt;li&gt;How do you think our previous objectives went? Do you think we achieved what we set out to do?&lt;/li&gt;
+  &lt;li&gt;Let’s review the company and team roadmap, objectives, and priorities. (Okay, so this isn’t really a question, but important nonetheless!)&lt;/li&gt;
+  &lt;li&gt;Based on your understanding of the roadmap/objectives/priorities, what do you think are the next steps?&lt;/li&gt;
+  &lt;li&gt;Are you clear on how your role fits into the group goals?&lt;/li&gt;
+  &lt;li&gt;Are the expectations clear and realistic?&lt;/li&gt;
+  &lt;li&gt;What are your takeaways on the most important work our team must do?&lt;/li&gt;
+  &lt;li&gt;Do you feel connected to the company and team goals? How so?&lt;/li&gt;
+  &lt;li&gt;What are some things I can help clarify?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;relationship-management-discussion&quot;&gt;Relationship management discussion&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How do you feel about working with [teammates]?&lt;/li&gt;
+  &lt;li&gt;Who’s the most difficult to work with? Why?&lt;/li&gt;
+  &lt;li&gt;Who’s the easiest to work with? Why?&lt;/li&gt;
+  &lt;li&gt;How do you feel about collaboration with your teammates/stakeholders?&lt;/li&gt;
+  &lt;li&gt;Is everyone contributing to the work?&lt;/li&gt;
+  &lt;li&gt;Do you feel like you’re on the same page with your teammates?&lt;/li&gt;
+  &lt;li&gt;What’s the most difficult part of working with the team?&lt;/li&gt;
+  &lt;li&gt;What are some things I and/or the other managers can do to make this project easier for everyone involved?&lt;/li&gt;
+  &lt;li&gt;What do you need from your teammates/stakeholders to keep you motivated at work?&lt;/li&gt;
+  &lt;li&gt;Do you receive timely and clear feedback from your peers and stakeholders?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;continued-growth-and-development&quot;&gt;Continued growth and development&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;I’m curious about [an action or a decision taken]. Can you take me through your thought process?&lt;/li&gt;
+  &lt;li&gt;What are some other things you can do next time?&lt;/li&gt;
+  &lt;li&gt;How do you like to receive feedback?&lt;/li&gt;
+  &lt;li&gt;Do you feel like you’re receiving enough feedback?&lt;/li&gt;
+  &lt;li&gt;What is the last feedback you got from me that stuck with you? Why did it stick? What can I do to give you similar feedback going forward?&lt;/li&gt;
+  &lt;li&gt;Do you have any concerns when it comes to opportunities you have here?&lt;/li&gt;
+  &lt;li&gt;What are some skills you’d like to develop?&lt;/li&gt;
+  &lt;li&gt;What are some experiences you’d like to be exposed to?&lt;/li&gt;
+  &lt;li&gt;Do you feel like you’ve had enough time to upskill in the last week/month/quarter/year?&lt;/li&gt;
+  &lt;li&gt;When was the last time you had a chance to upskill?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;performance-goals&quot;&gt;Performance goals&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How are you tracking your goals?&lt;/li&gt;
+  &lt;li&gt;How are you progressing with your goals?&lt;/li&gt;
+  &lt;li&gt;Are there any roadblocks you’re facing with your goals?&lt;/li&gt;
+  &lt;li&gt;Do the short-term goals still seem reasonable?&lt;/li&gt;
+  &lt;li&gt;How do you feel about your long-term goals?&lt;/li&gt;
+  &lt;li&gt;What part of your current job is most relevant to your long-term goals?&lt;/li&gt;
+  &lt;li&gt;What kind of opportunities can we discuss that can bring you closer to your long-term goals?&lt;/li&gt;
+  &lt;li&gt;What are your goals for the next quarter/year?&lt;/li&gt;
+  &lt;li&gt;What outcomes do you want to realize in 2/5/10 years?&lt;/li&gt;
+  &lt;li&gt;What can we start, continue, or stop doing to help you achieve your long-term goals?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;manager-feedback&quot;&gt;Manager feedback&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How can I better support you?&lt;/li&gt;
+  &lt;li&gt;Tell me the last time I said something that didn’t make sense. What happened?&lt;/li&gt;
+  &lt;li&gt;Do you find my communication simple and easy to understand? If not, what can I improve?&lt;/li&gt;
+  &lt;li&gt;Do you feel that I’m providing you with enough context on our company and team’s vision, mission, and objectives?&lt;/li&gt;
+  &lt;li&gt;Have I made goals and expectations clear for you?&lt;/li&gt;
+  &lt;li&gt;Do you feel empowered?&lt;/li&gt;
+  &lt;li&gt;Do you feel like we’ve spent enough time discussing your career development?&lt;/li&gt;
+  &lt;li&gt;When was the last time you felt lost? What could I have done to help?&lt;/li&gt;
+  &lt;li&gt;What can I start, continue, and stop doing to improve our relationship?&lt;/li&gt;
+  &lt;li&gt;What is your ideal management style? What’s one thing I can do now to mirror your ideal style?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;organization-feedback&quot;&gt;Organization feedback&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How can the company better support you?&lt;/li&gt;
+  &lt;li&gt;Do you find the company town halls/all-hands to be inspiring? Do you leave with a clear understanding of where we’re going as an organization?&lt;/li&gt;
+  &lt;li&gt;Do you have the right equipment and support needed to succeed at your job?&lt;/li&gt;
+  &lt;li&gt;What are your favorite parts of our company culture? Team culture?&lt;/li&gt;
+  &lt;li&gt;Are there any “traditions” you’ve seen in other teams or companies that would be great to adopt here?&lt;/li&gt;
+  &lt;li&gt;What’s your biggest gripe about our company? Our team?&lt;/li&gt;
+  &lt;li&gt;Do you feel like the organization takes your opinion seriously?&lt;/li&gt;
+  &lt;li&gt;What can our team start/continue/stop doing to be more effective?&lt;/li&gt;
+  &lt;li&gt;What does your ideal company or team culture look like?&lt;/li&gt;
+  &lt;li&gt;What do you think is our biggest problem at this organization?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;water-cooler-chat&quot;&gt;Water cooler chat&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;How’s life?&lt;/li&gt;
+  &lt;li&gt;What’s the most exciting thing happening outside of work?&lt;/li&gt;
+  &lt;li&gt;When is your next vacation? What will you do? Or what do you want to do?&lt;/li&gt;
+  &lt;li&gt;What’s the last movie/book/podcast/song you enjoyed?&lt;/li&gt;
+  &lt;li&gt;How’s your fur/plant/human baby?&lt;/li&gt;
+  &lt;li&gt;How’s your [insert hobby] going?&lt;/li&gt;
+  &lt;li&gt;Is a hotdog a sandwich?&lt;/li&gt;
+  &lt;li&gt;What’s your opinion on Hawaiian pizza?&lt;/li&gt;
+  &lt;li&gt;Are fruits legitimate toppings for an ice cream sundae?&lt;/li&gt;
+  &lt;li&gt;What’s the best style of pizza?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I pulled these questions from old questions I’ve asked at work before. I’m seeing a pattern here: I love food and I like to sow mild discord.&lt;/p&gt;
+
+&lt;h2 id=&quot;recurring-questions&quot;&gt;Recurring questions&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Any follow-ups from our last one-on-one?&lt;/li&gt;
+  &lt;li&gt;What do I need to do before our next one-on-one?&lt;/li&gt;
+  &lt;li&gt;What do you need to do before our next one-on-one?&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 21 Apr 2022 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/103-one-on-one-questions</link>
+        <guid isPermaLink="true">https://kimbarros.com/103-one-on-one-questions</guid>
+        
+        <category>Manager-toolkit</category>
+        
+        <category>Communication</category>
+        
+        <category>Relationships</category>
+        
+        
+        <category>Manager-toolkit</category>
+        
+      </item>
+    
+      <item>
+        <title>How to hold regular one-on-ones (with examples)</title>
+        <description>&lt;p&gt;There are several topics to cover in one-on-ones. The very first one, for me, typically has more pomp and circumstance—you can read more about it in &lt;a href=&quot;/first-one-on-one-with-templates&quot; target=&quot;_blank&quot;&gt;another blog post&lt;/a&gt; dedicated to holding your first one-on-one. After that, keeping the momentum and continuing to build rapport and trust are key to making one-on-ones valuable.&lt;/p&gt;
+
+&lt;h2 id=&quot;one-on-one-best-practices&quot;&gt;One-on-one best practices&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Set expectations on the structure&lt;/strong&gt;: The key is to have &lt;em&gt;enough&lt;/em&gt; expectations on what each party will prepare and share in a one-on-one. However, structure doesn’t mean you need to be dogmatic about the exact format or agenda.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prepare in advance&lt;/strong&gt;: It’s important that the meeting is co-owned by both you and your direct report. While it’s helpful to declare that one-on-one time is “for the direct report,” you also need to do your job and lead.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Share and collaborate&lt;/strong&gt;: Make the meeting notes a living document. Sharing and collaborating on the same document naturally builds accountability because you can both refer to the same record of past discussions and hold each other accountable on action items to follow up on.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ask open-ended questions&lt;/strong&gt;: Closed-ended questions lead to answers lacking in substance and nuance. “Was that feedback helpful?” yields either a yes or a no, but neither response provides useful information. By asking open-ended questions, you can explore, discover, and learn together.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ask neutral questions&lt;/strong&gt;: Non-neutral questions carry assumptions and implications. In certain contexts, they can even be accusatory. “What have you done to improve your lack of assertiveness?” comes from the questioner’s own assumption that you lack assertiveness. It puts the responder on the defensive. By asking neutral questions, you can encourage more candid responses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;one-on-one-topics&quot;&gt;One-on-one topics&lt;/h2&gt;
+&lt;p&gt;One-on-ones look different from one week to another. Despite this, there are some &lt;em&gt;constants&lt;/em&gt;. Although the content of these permanent fixtures may vary from time to time, their essence remains the same. For me, they are water cooler chats, follow-throughs, and assignments.&lt;/p&gt;
+
+&lt;p&gt;I love occasional water cooler chats. With more organizations going hybrid or fully remote, though, water cooler chats risk disrupting someone’s flow (anyone else irritated by a Slack message that only says “hello”?). That’s why one-on-ones make a great place for water cooler chats. It’s already penciled in. This allows for time to decompress, builds trust, and brings people out of their shells.&lt;/p&gt;
+
+&lt;p&gt;With follow-throughs and assignments, the intention is to keep both parties accountable. One-on-ones will yield action items that you or your direct report will need to fulfill. Clarifying the division of labor and following up on work you are each responsible for will promote greater collaboration and strengthen the relationship.&lt;/p&gt;
+
+&lt;p&gt;Beyond the &lt;em&gt;constants&lt;/em&gt; there are the &lt;em&gt;variables&lt;/em&gt;. By and large, they fall under three categories: check-ins, feedback, and discussions. I’ve broken down the three categories further into types noted below.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Categories&lt;/th&gt;
+      &lt;th&gt;Types&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Work progress&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Employee engagement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Check-in&lt;/td&gt;
+      &lt;td&gt;Mental and physical well-being&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Continued growth and development&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Performance goals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Upward to manager&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feedback&lt;/td&gt;
+      &lt;td&gt;Upward to organization&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussions&lt;/td&gt;
+      &lt;td&gt;Company and team goals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussions&lt;/td&gt;
+      &lt;td&gt;Relationship management&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Check-ins&lt;/strong&gt; include overseeing the contributions an employee makes and how they feel about those contributions along the way. Most managers excel at accomplishing the former, but neglect the latter. Making sure the team member feels heard and supported is a crucial component of employee satisfaction and retention. Check-ins on tactical &lt;em&gt;and&lt;/em&gt; the emotional lead to achieving a great, long-lasting, committed work relationship.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You cannot win without tactical things but the emotion makes the difference.” &lt;cite&gt;- Jurgen Klopp&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One clarification: “keeping the employee engaged and motivated” does not mean getting my team members to &lt;em&gt;love&lt;/em&gt; their jobs. Love and passion for the job is not a prerequisite for engagement and motivation. I prefer commitment over passion for continued engagement and motivation. Love is not what keeps you going at work when your project goes awry for a year. Love is not what makes you give more than four weeks’ notice when you only need to give two. Love is not what makes you embrace a coworker’s mistake and assume good intentions. That’s commitment. It’s you committing to your colleagues and to yourself on the work you must achieve together. So I focus on keeping people engaged, motivated, and committed to their work through attentive listening, constant support, and active follow-throughs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feedback&lt;/strong&gt; can often permeate other parts of a one-on-one. Having a constant feedback loop (of giving feedback and improving based on the feedback) that ebbs and flows is the best way to promote continued growth. I had a colleague who had a spreadsheet of opportunity areas and examples for his direct reports. But he was saving them all for their annual performance reviews. He was &lt;em&gt;so&lt;/em&gt; close to being the paragon of guiding leadership. I did, however, steal his spreadsheet idea to create a “coaching repository” for all my direct reports.&lt;/p&gt;
+
+&lt;p&gt;Having feedback conversations “as-needed” is great in theory, but the nature of this talk is ripe for procrastination and evasion. Critiques are uncomfortable. But you can’t be a good manager by only celebrating the wins together. You have to study the mistakes, defeats, and failures together. So intentionally set aside time during your one-on-ones to give feedback to your direct report. Brainstorm opportunities to expand their experiences. This way, you are reserving time to discuss their goals, motivations, and progress deliberately without being swept up in the everyday frenzy of work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussions&lt;/strong&gt; is a broad category. There are more types of discussions than what’s noted here. I chose to call out two types in particular: company and team goals and relationship management.&lt;/p&gt;
+
+&lt;p&gt;Understanding company and team goals allow for greater commitment and motivation. I see this as a critical discussion that pairs with employee engagement check-ins. Early in my career, I found myself interviewing at a place that resembled a scene from &lt;em&gt;Office Space&lt;/em&gt;. I was waiting outside a conference room before my interview when I noticed one of the software developers looking over his shoulder. I started talking to him and asked what kind of project he’s working on. He explained the technical details of the implementation. “How’s it going to help the business?” I asked. “Make more money, I guess?” Then he asked me if I knew what a &lt;em&gt;code monkey&lt;/em&gt; was. He was probably having a bad Monday. Also, thanks to him, I ended up not taking that job.&lt;/p&gt;
+
+&lt;p&gt;With respect to relationship management, remember that no man is an island. No matter what role you’re in, you and your direct reports will need the support of others (and vice versa) to achieve a goal: relationship management (sometimes, it can feel like ego management) is pivotal for success. We so often dismiss what we can do to improve our relationship management skill as a “soft skill” in favor of cultivating “hard skills” that can easily translate onto our resume. But the nastiest clashes I’ve seen at work weren’t related to lack of “hard skills,” but rather arose from a lack or misuse of so-called “soft skills.” Discussing and showing how to manage different personalities can greatly improve employee engagement and satisfaction by giving employees the skills they need to navigate their work relationships.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-are-one-on-ones-structured&quot;&gt;How are one-on-ones structured?&lt;/h2&gt;
+&lt;p&gt;Having a structure is helpful to setting expectations. Expectations allow more space for reflective thinking and prioritizing the agenda. My only gripe is that &lt;em&gt;structure&lt;/em&gt; sounds rigid and dogmatic; I’ll instead suggest you “timebox” the agenda. Timeboxing is a time management technique where you set a fixed amount of time to a planned task. For a one-on-one, timeboxing means allocating a fixed amount of time for someone to have the floor. If there are more to discuss, then the topic can carry over to the next one-on-one.&lt;/p&gt;
+
+&lt;p&gt;For example, with 30-minute one-on-ones, you can timebox the meeting as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;5 minutes for water cooler chats, review follow-ups from last time (at the beginning), and solidify action items for next time (at the end);&lt;/li&gt;
+  &lt;li&gt;15 minutes for the employee to cover their agenda; then&lt;/li&gt;
+  &lt;li&gt;10 minutes for you to cover your agenda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This order accomplishes a couple of things. First, it clarifies to your team member that they’ll have co-ownership of and a stake in making the one-on-one useful. After all, your team’s agenda is prioritized first over your agenda and the most time is allocated to your team’s agenda. Second, many of the greener employees skew their agenda items towards task-oriented conversations. By timeboxing the employee’s agenda to 15 minutes, it allows for conversations to go beyond a checklist of work tasks and progress. As your team members become more seasoned, they’ll expand beyond their task-oriented agenda. Until then, you’ll have to “lead climb” and cover non-task-oriented topics during your time.&lt;/p&gt;
+
+&lt;p&gt;Another popular way to timebox one-on-ones is called 10/10/10 structure: 10 minutes for employees, 10 minutes for managers, and 10 minutes to align on forward-looking plans. I’m not a big fan of allocating a third of my time towards task planning and assignments. That said, this is an effective structure when someone is starting out their career or starting a new job. The key takeaway is that one isn’t better than the other, and teams will discover what suits them best as they start developing their one-on-ones.&lt;/p&gt;
+
+&lt;p&gt;For me and my direct reports, we prefer 60-minute one-on-ones so there’s ample amount of time and flexibility to cover breadth and some depth. It typically looks like the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10 minutes for water cooler chats, follow-ups, and action item assignment;&lt;/li&gt;
+  &lt;li&gt;30 minutes for my direct report; then&lt;/li&gt;
+  &lt;li&gt;20 minutes for me.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+&lt;p&gt;Below are two examples of how to start a one-on-one doc. First, I create a document for each direct report. This is then shared between just us two. For quick and easy implementation, I prefer creating a Google doc. The running agenda includes my direct report’s agenda item above mine. For the data nerd in me, I’ve also opted to use Google sheets in the past.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSnph29xdjOf2s_NstAW5_80fgmFahn_AqvBdJvaceuRgEVREcvV8M1TK0IJzL7Yw_TTuGCJMZJ2S-s/pub&quot; target=&quot;_blank&quot;&gt;Example doc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vRSWkk9rYEM-xitrmZDHK9yjCVC-IhShwWPocn22s8PTnH4_2EpQpnh-J-hF8sKgO703-H7u5-S3djE/pubhtml&quot; target=&quot;_blank&quot;&gt;Example sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/one-on-one-with-examples</link>
+        <guid isPermaLink="true">https://kimbarros.com/one-on-one-with-examples</guid>
+        
+        <category>How-to</category>
+        
+        <category>Communication</category>
+        
+        <category>Relationships</category>
+        
+        
+        <category>How-to</category>
+        
+      </item>
+    
+      <item>
+        <title>How to hold your first one-on-one meeting (with templates)</title>
+        <description>&lt;p&gt;When you feel overwhelmed with meetings and you’ve got the case of zoom fatigue, you may be tempted to dismiss the 1:1 meetings with your teams. I’d like to make a case for why they belong in your work day. I’ll first share why and how you should hold your very first 1:1 and explore how to hold recurring 1:1s. If you’re still not convinced, &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;reach out&lt;/a&gt;. I’d love to understand more.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-the-purpose-of-a-one-on-one&quot;&gt;What’s the purpose of a one-on-one?&lt;/h2&gt;
+&lt;p&gt;A 1:1 meeting (one-on-one? one-to-one?) is for coaching, alignment, and increasing mutual understanding. One-on-ones can take many shapes. Sometimes, it’s a helpline. Other times, it’s a vent session. One shape isn’t better than the other. After all, who’s to say an octagon is better than a dodecahedron?&lt;/p&gt;
+
+&lt;p&gt;A word to the wise: If you’re feeling indifferent about a one-on-one, then your direct report is either equally indifferent or &lt;em&gt;dreading&lt;/em&gt; it. Having to force a relationship with someone who doesn’t care about you is hell. But feeling stuck in having no choice but to force the relationship because they seem to hold all the power is a special kind of hell. So shape it with some satisfying arcs and edges. As an example of what to do (and what not to do), &lt;a href=&quot;/why-have-one-on-one-meetings&quot; target=&quot;_blank&quot;&gt;read about my experience with former managers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So when should you have your first one-on-one with your direct report?&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The day you start managing the direct report.&lt;/li&gt;
+  &lt;li&gt;This week if you already have a direct report you’ve managed for weeks/months/years.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;what-are-the-goals-for-your-first-one-on-one-with-a-direct-report&quot;&gt;What are the goals for your first one-on-one with a direct report?&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Learning more about each other.&lt;/li&gt;
+  &lt;li&gt;Establishing norms and expectations.&lt;/li&gt;
+  &lt;li&gt;Understanding and setting forward-looking goals.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ll elaborate on each goal below before jumping into action steps.&lt;/p&gt;
+
+&lt;h3 id=&quot;learning-more-about-each-other&quot;&gt;Learning more about each other&lt;/h3&gt;
+&lt;p&gt;No, you don’t have to be friends with your direct report. I repeat: you do not have to be friends with your direct report. &lt;strong&gt;But you need a good relationship with your direct report to be a good manager.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Learning more about each other includes getting to know someone’s work and life views. We aren’t that great at keeping our personas separated. So you need to have &lt;em&gt;enough&lt;/em&gt; understanding so you have an insider’s look at each other’s instruction manuals. Otherwise, how are you going to know what you’re working towards?&lt;/p&gt;
+
+&lt;p&gt;As an introvert, I’ve found that a strategic order arrangement helps. It’s comically simple. Mine is as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Share something about myself &lt;strong&gt;first&lt;/strong&gt;. Start with benign, surface-level information (e.g., your favorite cuisine).&lt;/li&gt;
+  &lt;li&gt;Ask your direct report about the same information you spilled (e.g., their favorite cuisine).&lt;/li&gt;
+  &lt;li&gt;Rinse and repeat with deeper, more nuanced information.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Why should you share first? Because you can help ease into the conversation by being vulnerable and open first. But beware: do not misconstrue this as an excuse to control the conversation flow. It’s about vulnerability and openness. Not control and ego. In fact, as you get to know one another, the order should become irrelevant. It’s like any other relationship: The more comfortable you are with each other, the more the conversations zig, zag, tiki, and taka. I pat myself on the back when I reach this level with my direct reports.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Here’s a conversation I had with my new direct report, loosely from my memory:&lt;/p&gt;
+
+&lt;p&gt;Yeji: “I recently started playing squash because I’m wildly out of shape. What do you do for fun?”&lt;/p&gt;
+
+&lt;p&gt;Laura: “I play Ultimate on the weekends and I like to play board games.”&lt;/p&gt;
+
+&lt;p&gt;Yeji: (&lt;em&gt;Trying to suppress excitement at a shared hobby so I don’t come across too eager&lt;/em&gt;) “I am obsessed with board games. Tell me more. What’s your favorite?”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This topic went on for ages so I’ll do you a favor and omit the middle bits.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yeji: “I would love to have a game night with the team! I wonder what else we could do together as a team. What helps you bond with people at work?”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;establishing-norms-and-expectations&quot;&gt;Establishing norms and expectations&lt;/h3&gt;
+&lt;p&gt;I’m cheating a little bit. One could argue that establishing norms and expectations is an extension of getting to know one another. I agree. But it’s too important not to call extra attention to it.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing more frustrating than trying to read someone’s mind. Here is a quick exercise to help illustrate how difficult mind reading is.&lt;/p&gt;
+
+&lt;p&gt;Close your eyes for a few seconds and think of what a gunslinging, western outlaw would look like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Without&lt;/strong&gt; adding any details to the outlaw you’ve created in your head, answer the following questions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What’s their eye color?&lt;/li&gt;
+  &lt;li&gt;How many buttons are on their shirt?&lt;/li&gt;
+  &lt;li&gt;Which side is the holster on?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Chances are, you couldn’t answer all the questions. This mysterious outlaw only exists inside your head. You are its creator. And yet, here you are with unanswered questions. You’re having trouble with your mind’s eye even with a backstage pass. Other people don’t even have a ticket to the show.&lt;/p&gt;
+
+&lt;p&gt;What may be obvious to you may not be as obvious as you think. I thought everyone knew you could get a library card for free. I used to think buffalos actually had vestigial wings. Make things explicit.&lt;/p&gt;
+
+&lt;h3 id=&quot;understanding-and-setting-forward-looking-goals&quot;&gt;Understanding and setting forward looking goals.&lt;/h3&gt;
+&lt;p&gt;It’s never too late to have a mutual understanding of how to achieve something together. There’s a cascade of goals, all intertwined into a mess. Your job is to collaborate with your direct report and help make sense of this beautiful mess.&lt;/p&gt;
+
+&lt;p&gt;First, there’s the company goal. Most organizations have something, even if it’s not always a good goal. And by not good I mean Reese’s Puffs cereal: a saccharine, non-nutritional substance. Puff, fluff, faff. I’m not going to talk about the goodness of a company goal here (that’s a whole other subject). For now, I’m going to assume the company you chose to work for has a good goal. Clarify what this goal is with your direct report first.&lt;/p&gt;
+
+&lt;p&gt;Second, there’s the team goal. Your job is to help connect the dots between the company and the team goal(s). We all have parts we play in the jazz ensemble. What are we responsible for? Are we the percussion section that helps to keep the rhythm? Are we the woodwinds section that adds airy textures to the sound?&lt;/p&gt;
+
+&lt;p&gt;Third, there’s the individual goal. Another connection you’re responsible for. You need to articulate how your direct report’s role, goals, and achievements fit with those of the rest of the team and the company. Got a new bass clarinetist in the woodwinds section for your jazz ensemble? Great. Emphasize how the low, earthy notes they produce will juxtapose with the zesty, brassy notes to create a complex, contrasting vibe for the ensemble.&lt;/p&gt;
+
+&lt;p&gt;Finally, there’s the &lt;em&gt;individual&lt;/em&gt; goal. Not a typo: I meant to repeat.&lt;/p&gt;
+
+&lt;p&gt;Recall that we’re all bad mind readers. My gunslinging outlaw from the previous exercise is a Chinese man who migrated to the U.S. during the gold rush, got swindled, and vowed to exact revenge on all who wronged him. The point is my outlaw is different from your outlaw.&lt;/p&gt;
+
+&lt;p&gt;Your direct report’s goals on what they want to achieve, what they hope their legacy will be, and how they’ll make an impact at the company will differ from your interpretation. That might even differ from the goals the company has for the individual. Your job is to help marry them all together. Steer your direct report towards the most optimal way of satisfying company, team, and individual goals in a way that works for the company, the team, and the individual.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparation-for-the-first-one-on-one&quot;&gt;Preparation for the first one-on-one&lt;/h2&gt;
+&lt;p&gt;There’s a common saying that one-on-ones are times reserved for the employees. “It’s their time to share what they’ve got on their minds.” I agree, but this doesn’t mean you shouldn’t prepare. There’s another common saying in the U.S.—a wedding day is the bride’s special day. Imagine if your partner used this to get away from co-planning? Here, you dropped this: 🚩&lt;/p&gt;
+
+&lt;p&gt;To prepare:&lt;/p&gt;
+
+&lt;p&gt;First, &lt;strong&gt;write your agenda ahead of time.&lt;/strong&gt; The agenda needs to include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A short description of its purpose;&lt;/li&gt;
+  &lt;li&gt;Bullet points of what will be covered;&lt;/li&gt;
+  &lt;li&gt;Goals and/or outcomes at the end of the meeting;&lt;/li&gt;
+  &lt;li&gt;Materials distributed ahead of time, if necessary; and&lt;/li&gt;
+  &lt;li&gt;Expectations on any pre-work to be done ahead of time, if necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Second, &lt;strong&gt;make one-on-one notes a living, collaborative artifact.&lt;/strong&gt; This allows for the relationship to grow with mutual effort–relationships strengthen through collaboration. It also makes it easy to see the progress of the growth, which is especially helpful when you have to recollect your thoughts while you write your performance review.&lt;/p&gt;
+
+&lt;p&gt;I’ve found success in keeping my one-on-one notes in software like Google Doc, Microsoft Word on Office 365 (so the link is shareable instead of exchanging updated attachments every time), Notion, or Coda.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;share your questions ahead of time.&lt;/strong&gt; This becomes especially useful if the questions merit more time for introspection. “Where do you want to be 5 years from now?” is pretty difficult to answer adequately when you’re on the spot.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-one-on-one-template&quot;&gt;First one-on-one template&lt;/h2&gt;
+&lt;p&gt;For the very first one-on-one, I like to share a slide deck and a prepared agenda to kick things off. As Elle Woods once said, “I think it gives it a little something extra.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First one-on-one template on &lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSOj5skPaUt-qMDRjKxDPg8sv1OwQyPNg-qUhiB2I6f1Rvx5E_3YMBSwWyNEpvr6SkN1k7-3w7trzjH/pub&quot; target=&quot;_blank&quot;&gt;Google Doc&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;First one-on-one slide deck on &lt;a href=&quot;https://docs.google.com/presentation/d/1xWoD1YTaRZ6D0Izc8ljUrEmRDPi6cMtC4ppdE3CE37U/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;Google Slide&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQL8cn_aaUuVCGFpG6Uv-XhLn6WUIvVENxl90Swve38Eq5c0Nrwl2YDDB7CyWAqHiN8LQbtuDIkrlKz/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;after-the-first-one-on-one&quot;&gt;After the first one-on-one&lt;/h2&gt;
+&lt;p&gt;Huzzah! With the first one-on-one under your belt, the next step is to keep going. I’ve found that more frequent check-ins are beneficial at the onset. Check with your direct report to see how they’re feeling and adjust the recurrence accordingly. I’ve found weekly or bi-weekly check-ins should suffice once people feel settled in.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re holding your first or your hundredth one-on-one, the key to success is curiosity and openness: Share and care. Question and listen.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/first-one-on-one-with-templates</link>
+        <guid isPermaLink="true">https://kimbarros.com/first-one-on-one-with-templates</guid>
+        
+        <category>How-to</category>
+        
+        <category>Communication</category>
+        
+        <category>Relationships</category>
+        
+        
+        <category>How-to</category>
+        
+      </item>
+    
+      <item>
+        <title>What is the point of one-on-one meetings?</title>
+        <description>&lt;p&gt;I used to think one-on-one meetings were tedious and ineffective. I used to shout into the void, “send it to me in an email! Or in slack! Stop wasting my time!” That is until I had two one-on-ones within a span of a month that made me reconsider.&lt;/p&gt;
+
+&lt;p&gt;The first revelation came after my manager, let’s call him “Kenny,” submitted his notice. My project wasn’t going well and team attrition and morale were dismal. I was miserable.&lt;/p&gt;
+
+&lt;p&gt;I was puzzled as I headed into my final one-on-one with Kenny. Our usual agenda of status updates and silent head nods didn’t seem like a good use of our time. But having some parting thoughts from an outgoing manager seemed beneficial.&lt;/p&gt;
+
+&lt;p&gt;Kenny kicked it off. “The stakeholders don’t like you. As a product manager, you need to be the glue for the project. You should be more personable. If I were you, I’d take them out for drinks. Hope all goes well with your future endeavors.”&lt;/p&gt;
+
+&lt;p&gt;I was speechless. I ended our relationship with a curt, “okay, I’ll think about it.”&lt;/p&gt;
+
+&lt;p&gt;At the time, I realized the following: First, one-one-ones are tedious, ineffective, &lt;em&gt;and cruel&lt;/em&gt;. Second, it’s better to have one-on-ones without a paper trail. This way, you’ve got plausible deniability of your cruelty.&lt;/p&gt;
+
+&lt;p&gt;My new boss, let’s call him “Neal,” came in and started holding meet-and-greets with his teams and stakeholders. Bitter, broken, and dejected, I put off talking to Neal alone for as long as I could. I thought, “He heard the feedback already. He’s gonna hear what I have to say as a pathetic excuse. I need to have a win to debunk the hearsay. I’ll avoid him until then.”&lt;/p&gt;
+
+&lt;p&gt;This maneuver only lasted a few weeks after he settled in. He scheduled a one-on-one with me which threw me into full panic mode. Days leading up to the meeting, I penned what I would say so I wouldn’t sound defensive. I also repeated to myself how I wouldn’t bring up the elephant in the room unless he broached it first.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Head Game:&lt;/strong&gt; Your anxiety and paranoia are steering you in the right direction. People &lt;em&gt;are&lt;/em&gt; easily swayed into believing everything they hear &lt;em&gt;and&lt;/em&gt; they talk badly about you. Always. &lt;br /&gt;
+&lt;strong&gt;&lt;mark&gt;Reality:&lt;/mark&gt;&lt;/strong&gt; Pronia is when you feel like people are conspiring to cheer you on and help you succeed. The fact of the matter is, the world isn’t quite black and white. No good or bad. But for every awful person setting off your paranoia, there’s someone who’s in your court. Seek those people out instead. &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“What’s going on?” he said.&lt;/p&gt;
+
+&lt;p&gt;I launched into a project status update, per usual. I can’t remember the exact word-vomit, but it was something like, “The project is behind schedule. We’ve hit unforeseen complexities with…”&lt;/p&gt;
+
+&lt;p&gt;“No. I heard what others had to say. What’s going on?” I went off script. “Stakeholders don’t like me. This project isn’t going well.” At that moment, I thought, “Screw it. I can find another job.”&lt;/p&gt;
+
+&lt;p&gt;“How are you feeling?”&lt;/p&gt;
+
+&lt;p&gt;“What?” This was a foreign question to me, and I didn’t know how to answer it. At the time I thought, “I’m wiping away tears like a schoolgirl. In front of a new boss. Who only knows me through negative feedback. And I all but confirmed it to be true. He’s either dumb or satisfying some weird power move. I feel like utter shit. What do you think?” He glanced at me, waited for a beat, and started to speak.&lt;/p&gt;
+
+&lt;p&gt;“If one person can cause a project to spiral, then it’s not set up very well, is it?”&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Head Game:&lt;/strong&gt; If you drop the ball, the team will fail. People will blame you. That’s why 8-hour work day isn’t enough, and you have to be a team player. &lt;br /&gt;
+&lt;strong&gt;&lt;mark&gt;Reality:&lt;/mark&gt;&lt;/strong&gt; It’s a team effort. From those who are executing to those who manage and lead. Everyone has a role to play, but the burden and responsibility must be shared. If it isn’t, it’s an organizational issue. So a be a team player, sign off, and prioritize your mental health. &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Neal glossed over his rhetorical question, got up to the whiteboard, and motioned me to do the same. He asked me to draw concentric circles of stakeholders. The most vocal stakeholders went in the center circle. The least vocal individuals occupied the outer edges. He tasked himself with the same exercise. With his circles, the most influential individuals—the decision makers, the one who controls the budget—made up the core. The least influential members surrounded the outer rim.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/concentric.jpg&quot; alt=&quot;Notes on concentric circles of influence and voice in an organization&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He explained that comparing our two sets of concentric circles will help us understand if we are listening to the right people. Neal also informed me that the chart should identify who should be talking with whom. “We can visualize actual versus perceived influence. Then you and I can divide and conquer to win people over at different levels of the organization. That’s how we’ll get our project in a better state.”&lt;/p&gt;
+
+&lt;p&gt;The one-on-ones following our meet-and-greet mirrored this format. He would first ask me what was going on. Then he would ask how I was feeling. We would then jump to constructive brainstorming followed by action items assigned to both of us. Often, Neal would check his notes and follow up on where we last left off.&lt;/p&gt;
+
+&lt;p&gt;A few weeks in, he brought up how “work is no different than high school with cliques and bullies sometimes. It would help to get to know the people you’re working with outside of work. Only if you’re comfortable.”&lt;/p&gt;
+
+&lt;p&gt;“I’m not.”&lt;/p&gt;
+
+&lt;p&gt;“Then don’t. That’s fine.”&lt;/p&gt;
+
+&lt;p&gt;It was the same suggestion that Kenny had brought up mere weeks ago. Only, with Neal, it didn’t seem so dissatisfying. I didn’t feel indignant. He respected the boundaries I set for myself without judgment.&lt;/p&gt;
+
+&lt;p&gt;After a conversation with Kenny, who I thought knew me well, I felt alone and worthless. But after a conversation with Neal, who didn’t know me at all, I felt supported, cared for, and respected. With Neal, I learned that you don’t have to know the individual personally to support and coach them. Compassion and care is all you need to get going.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Head Game:&lt;/strong&gt; You need to know your direct report personally in order to best support, help, and coach. &lt;br /&gt;
+&lt;strong&gt;&lt;mark&gt;Reality:&lt;/mark&gt;&lt;/strong&gt; You don’t need to know someone personally to want the best for them. You just have to care. This also means you don’t have to be friends with your direct reports or colleagues to wish them the best and help them grow. &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As I reclaimed my time, voice, and confidence in one-on-ones with Neal, we seldom had tactical “shop” talk. Status updates became irrelevant; he trusted me to make the right day-to-day decisions. Instead, our time together became a chance to exchange, expand, and align on our thoughts about the team vision, strategy, and our roadmap.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, &lt;em&gt;just send it to me in an email&lt;/em&gt; is still very much my de facto sentiment for most meetings. Email, Slack, and Team messages help winnow the simple exchanges. One-on-ones are then left with private, thought-provoking conversations. Or serve as a much-needed intermission to catch a breath and chat about something silly. With the right approach, one-on-ones can be the best opportunity for both parties to learn, grow, and care for one another.&lt;/p&gt;
+
+&lt;p&gt;Do you have a story about a one-on-one gone right? Or wrong? &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;Reach out and share&lt;/a&gt; them with me. I’d love to hear it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/why-have-one-on-one-meetings</link>
+        <guid isPermaLink="true">https://kimbarros.com/why-have-one-on-one-meetings</guid>
+        
+        <category>Personal-essay</category>
+        
+        <category>Relationships</category>
+        
+        
+        <category>Personal-essay</category>
+        
+      </item>
+    
+      <item>
+        <title>How to be a first-time manager</title>
+        <description>&lt;p&gt;Your hard work has paid off, and you’re now a first-time manager. Hurray! It’s an exciting, nerve-racking transition. It’s also mired with uncertainty and doubt as you navigate this journey. And chances are, you haven’t received formal training.&lt;/p&gt;
+
+&lt;p&gt;So how can you become a good first-time manager? Here are seven tips based on my experience. If you have any other helpful tips, &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;please reach out&lt;/a&gt;. I’d love to exchange thoughts and chat.&lt;/p&gt;
+
+&lt;h2 id=&quot;really-listen&quot;&gt;&lt;em&gt;Really&lt;/em&gt; listen&lt;/h2&gt;
+
+&lt;p&gt;Meetings have always bombarded my schedule, and I typically hear enough to engage. It’s low effort but it works because people love hearing themselves. Don’t do this with your direct reports.&lt;/p&gt;
+
+&lt;p&gt;Hearing is passive. Listening is active. Take the words at face value. Pause before interpreting, judging, or evaluating. Stop letting your mind run towards what you’ll say in response. Stop hearing, start listening.&lt;/p&gt;
+
+&lt;p&gt;My direct report once told me they were stressed from my micromanagement. I had a ton of thoughts scurry past me at 100 mph: “What the hell? I hate micromanagers. I’ve never asked them what they do with their day. Have they even met other micromanagers? I’ll respond with, ‘I hear you, but I don’t understand,’ so they don’t feel like I’m dismissing this completely. Wonder what they’re actually unhappy with instead.”&lt;/p&gt;
+
+&lt;p&gt;Turns out, I micromanaged. I would’ve known sooner if I listened. It took their leave and another year for me to realize I messed up.&lt;/p&gt;
+
+&lt;h2 id=&quot;ask-exploratory-questions&quot;&gt;Ask exploratory questions&lt;/h2&gt;
+
+&lt;p&gt;Asking questions pairs so well with active listening. Ask questions to better understand your direct reports’ intentions. Be a fact-finder. Be an investigator.&lt;/p&gt;
+
+&lt;p&gt;Being a good investigator is a great way to find customer problems to solve as a product manager. Being a good investigator allows for greater understanding and empathy.&lt;/p&gt;
+
+&lt;p&gt;The same applies to being a people manager. Probe to understand motives and thought processes instead of actions and execution processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; Instead of asking “What are you prioritizing?” ask: “How are you thinking through prioritization?” This provides you with informative data points and opportunities for more dialogues:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;How they prioritize tasks.&lt;/li&gt;
+  &lt;li&gt;How they perceive their contribution.&lt;/li&gt;
+  &lt;li&gt;How well you’ve conveyed your expectations, goals, and the vision.&lt;/li&gt;
+  &lt;li&gt;Segue to align on prioritization.&lt;/li&gt;
+  &lt;li&gt;Check and balance workload and care for your direct reports’ mental health.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;convey-your-thoughts-simply&quot;&gt;Convey your thoughts simply&lt;/h2&gt;
+&lt;p&gt;When I had to read Ernest Hemingway in high school, I found it a chore. How did he become a respected writer? By stitching together common words into short sentences? Balderdash! A complete gobbledygook! A disparaging example of American literature! The inner critic in me thought he had zero flourish and bland rhetoric. Wrong.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Any damn fool can make something complex; it takes a genius to make something simple.” &lt;cite&gt;― Pete Seeger ―&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s much more difficult to be concise and profound.&lt;/p&gt;
+
+&lt;p&gt;Stop practicing the art of bullshitting. Use short sentences to introduce and share your thoughts. Make it easy to skim your writing. Consider the key pieces of information you want to convey before you communicate. It’s okay to say “I need to think about this more.” That’s a complete thought. There’s no reason to improvise in hopes you stumble into brilliant prose.&lt;/p&gt;
+
+&lt;h2 id=&quot;stop-trying-to-keep-score&quot;&gt;Stop trying to keep score&lt;/h2&gt;
+
+&lt;p&gt;Read any relationship article on tallying up and you’ll get the same answer: Stop. Stop tallying up when you were right and they were wrong. Stop tallying up when they’ve made mistakes. Stop tallying up all the late nights you’ve put in and they didn’t.&lt;/p&gt;
+
+&lt;p&gt;It’s natural to notice and compare. It’s human to keep score for the nonsensical game you’re playing in your head. For me, it’s an act of self preservation. I’m the hero in my story. And I can prove my title is well-deserved. Look at my scoreboard!&lt;/p&gt;
+
+&lt;p&gt;But with people management, it’s not about you. It’s certainly not you versus your direct report. What do you get by having a higher score than your direct report? You can bask in the fact that you’re right and they’re wrong. What a shoddy employee, you think. Who is their lousy manager? Well done. You played yourself.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-your-job-to-make-their-job-easier&quot;&gt;Do &lt;em&gt;your&lt;/em&gt; job to make &lt;em&gt;their&lt;/em&gt; job easier&lt;/h2&gt;
+
+&lt;p&gt;In my experience, managers often promote high performing individual contributors. Those contributors becoming first-time managers need to be extra cautious. Excelling at your old job doesn’t mean you’ll excel at managing others who now do that job.&lt;/p&gt;
+
+&lt;p&gt;Being a good chef doesn’t guarantee that you’ll run a restaurant well. In fact, &lt;em&gt;only&lt;/em&gt; being a good chef may be a restaurateur’s downfall. So if you’re like me and you’ve thought about running a food truck because you make mean braised short ribs, you may want to reconsider. For one, I hate driving big cars.&lt;/p&gt;
+
+&lt;p&gt;When you go from contributor to manager, your job is no longer confined to what you used to do.&lt;/p&gt;
+
+&lt;p&gt;For example: As a software developer, you need to produce quality code. As a manager, you need to help software developers produce quality code. Your job as a manager isn’t exclusive to reviewing their lines of code. You need to figure out how to unblock and foster creativity in your team. You need to make sure the team understands what they’re working towards and why. You need to speak up on your team’s behalf to ensure they feel heard if their work looks risky ahead.&lt;/p&gt;
+
+&lt;h2 id=&quot;hold-yourself-accountable-first&quot;&gt;Hold yourself accountable first&lt;/h2&gt;
+
+&lt;p&gt;“I was wrong. I’m sorry.” Do these statements stir a visceral reaction? They do for me. One of my high school coaches once told me “It’s sad and funny to see you deny how wrong you are.” He was a jerk. But he was right.&lt;/p&gt;
+
+&lt;p&gt;I eventually got used to saying these phrases for all the wrong reasons. They were a Get Out of Jail Free Card. I could maintain a veneer of humility by raising my hand and taking responsibility. Afterwards, I would slither away from the situation and receive praise for being open, honest, and brave. They were my ultimate deus ex machina.&lt;/p&gt;
+
+&lt;p&gt;But this is plain manipulation. What you do &lt;em&gt;after&lt;/em&gt; your words carries greater weight.&lt;/p&gt;
+
+&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; The team made a mistake? Complete an introspection with yourself before demanding to know what happened. Here are some questions to help you get started.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Where were you?&lt;/li&gt;
+  &lt;li&gt;What was your participation like?&lt;/li&gt;
+  &lt;li&gt;How did the team feel during the project?&lt;/li&gt;
+  &lt;li&gt;What was your pulse on the progress leading up to the mistake&lt;/li&gt;
+  &lt;li&gt;How can you help set the next project up for success?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One way to breed distrust as a first-time manager is blowing sycophantic, apologetic kisses upward and throwing “bring me solutions, not problems” accountability punches downward. It’s &lt;em&gt;your&lt;/em&gt; team. Help them navigate out of the storm.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-be-a-jerk&quot;&gt;Don’t be a jerk&lt;/h2&gt;
+
+&lt;p&gt;I saved the most obvious for last.&lt;/p&gt;
+
+&lt;p&gt;Being a first-time manager is like cultivating any relationship. You don’t want to be friends with an Arrogant Adam who doesn’t listen, Talkative Tanner who talks &lt;em&gt;at&lt;/em&gt; you, or Forgetful Frank who says, “Sorry, I thought I already gave you money for the bill we split” after drinking 3 more drinks than you (Every. Week. And &lt;em&gt;still&lt;/em&gt; no Venmo).&lt;/p&gt;
+
+&lt;p&gt;Likewise, you don’t want to be managed by an Arrogant Adam who tells you how to do it his way and never accepts new ideas, Talkative Tanner who still insists on talking at you, or Forgetful Frank who says, “Sorry, I thought that you would be happy with this expanded responsibility and we agreed you aren’t yet ready for the next level” after 3 glowing performance reviews without tangible, actionable feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; My self-assessment on whether I’m a jerk manager is as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How will this meeting/project/email/presentation help me?&lt;/li&gt;
+  &lt;li&gt;How will this meeting/project/email/presentation help my team?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have an easier time coming up with answers to question 1 versus 2, you &lt;em&gt;might&lt;/em&gt; be acting like a jerk.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Mar 2022 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/how-to-be-a-first-time-manager</link>
+        <guid isPermaLink="true">https://kimbarros.com/how-to-be-a-first-time-manager</guid>
+        
+        <category>How-to</category>
+        
+        <category>Communication</category>
+        
+        <category>Relationships</category>
+        
+        
+        <category>How-to</category>
+        
+      </item>
+    
+  </channel>
+</rss>

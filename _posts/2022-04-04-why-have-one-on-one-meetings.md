@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'What is the point of one-on-one meetings?'
-tags: [Story, Relationships]
-categories: Story
+tags: [Personal-essay, Relationships]
+categories: Personal-essay
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/growth.jpg
 featured: false
