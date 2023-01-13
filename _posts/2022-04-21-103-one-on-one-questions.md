@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '103 One-on-one questions'
-tags: [Manager-toolkit, Communication, Relationships]
-categories: Manager-toolkit
+tags: [How-to]
+categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/question.jpg
 featured: false

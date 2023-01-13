@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'What is the point of one-on-one meetings?'
-tags: [Personal-essay, Relationships]
-categories: Personal-essay
+tags: [Personal-essay]
+categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/growth.jpg
 featured: false
@@ -76,5 +76,3 @@ After a conversation with Kenny, who I thought knew me well, I felt alone and wo
 As I reclaimed my time, voice, and confidence in one-on-ones with Neal, we seldom had tactical "shop" talk. Status updates became irrelevant; he trusted me to make the right day-to-day decisions. Instead, our time together became a chance to exchange, expand, and align on our thoughts about the team vision, strategy, and our roadmap.
 
 Don’t get me wrong, *just send it to me in an email* is still very much my de facto sentiment for most meetings. Email, Slack, and Team messages help winnow the simple exchanges. One-on-ones are then left with private, thought-provoking conversations. Or serve as a much-needed intermission to catch a breath and chat about something silly. With the right approach, one-on-ones can be the best opportunity for both parties to learn, grow, and care for one another.
-
-Do you have a story about a one-on-one gone right? Or wrong? [Reach out and share]({% link contact.html %}){:target="_blank"} them with me. I'd love to hear it.

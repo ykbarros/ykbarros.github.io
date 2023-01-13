@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'How to hold your first one-on-one meeting (with templates)'
-tags: [How-to, Communication, Relationships]
-categories: How-to
+tags: [How-to]
+categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/one-on-one.jpg
 featured: false

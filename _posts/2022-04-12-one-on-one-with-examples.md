@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'How to hold regular one-on-ones (with examples)'
-tags: [How-to, Communication, Relationships]
-categories: How-to
+tags: [How-to]
+categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/recurring-one-on-ones.jpg
 featured: false

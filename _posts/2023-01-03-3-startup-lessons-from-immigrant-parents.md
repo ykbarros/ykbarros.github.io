@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '3 Startup lessons from immigrant parents'
-tags: [Mental-model, Startup]
-categories: Mental-model
+tags: [Personal-essay, Founder]
+categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/learning-from-family.jpg
 featured: false
