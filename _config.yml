@@ -11,10 +11,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'AuthorImage.png'
-  greetings: "- **How to guides** detailed with steps for success or templates;
-  - Applicable **frameworks** with an explanation of when to use them with an example;
-  - **Case studies** that illustrate usability and value, with suggestions for improvement; and
-  - **Personal essays** to jot my thoughts down further."
+  greetings: "For how to guides, frameworks, case studies, and personal essays related to product management and startup creation."
 favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
