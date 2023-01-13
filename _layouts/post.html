@@ -34,6 +34,9 @@ post_class: post-template
             {% endif %}
             <div class="post-content">
                 {{content}}
+                <p><i>If you found my blog helpful, <b>please consider adding to my book fund.</b> You can also make requests on what I should read next!</i></p>
+                <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="yejikimbarros" data-color="#40DCA5" data-emoji="📖" data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+                <p></p>
             </div>
             <footer class="post-footer">
                 <div class="post-share">
@@ -47,7 +50,7 @@ post_class: post-template
         {% if site.mailchimp_url %}
             {% include newsletter-box.html %}
         {% endif %}
-        <!--Insert include mvp-newsletter-box.html here if you want MVP vers. from AirTable--> 
+        <!--Insert include mvp-newsletter-box.html here if you want MVP vers. from AirTable-->
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
             {% if page.previous.url %}

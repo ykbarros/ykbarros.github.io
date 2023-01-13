@@ -1,7 +1,7 @@
 # Site setings
 name: 'Yeji Kim-Barros'
-description: 'Product Thoughts'
-meta_description: 'Product management journaling'
+description: 'the Product Person'
+meta_description: 'Product management essays and guides'
 baseurl: "" # the subpath of your site, e.g. /blog/
 production_url: "https://kimbarros.com" # the base hostname & protocol for your site
 url: "https://kimbarros.com"
@@ -11,7 +11,10 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'AuthorImage.png'
-  greetings: "I've left graveyards of wiki pages at my old jobs on product discovery and validation. But I don't want graveyards anymore. Instead, I'm growing a garden."
+  greetings: "- **How to guides** detailed with steps for success or templates;
+  - Applicable **frameworks** with an explanation of when to use them with an example;
+  - **Case studies** that illustrate usability and value, with suggestions for improvement; and
+  - **Personal essays** to jot my thoughts down further."
 favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'

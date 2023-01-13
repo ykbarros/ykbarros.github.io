@@ -4,10 +4,8 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Hello world. My name is Yeji Kim-Barros (pronounced *yay-jee*, like you're ecstatic then disappointed). I stumbled into product management after a stint as a consultant about 10 years ago. I've had the pleasure of collaborating on B2B, B2C, internal products, and 0 to 1 products. In this time, I noticed that paths to success in this role are varied and opaque.  
+Hello world. My name is Yeji Kim-Barros (pronounced *yay-jee*, like you're ecstatic then mildly shocked). I spent the past 10+ years working in tech and product management.
 
-I consider myself a forever student. I plan to fill this space as I take on new challenges with a side project I'm working on. The hope is that the vignettes serve as examples of what to do (or what not to do). You'll find help, compassion, and relatable tidbits for your product journey.
+In the early days of my career, I *frankensteined* a .NET application. I built an everything-*and*-the-kitchen-sink on the front page of an internal product. I've evolved since then. So has the philosophy behind delivering product value and usability.
 
-I can't wait to exchange my stories, mishaps, successes, and learnings with you.
-
-*Thanks for reading and investing your time with my writing and thoughts!*
+**This blog is meant to serve as a guide** for anyone who's presently cosplaying as Dr. Frankenstein, a Zookeeper feeding HiPPOs, a border collie trying to herd, Professor X trying to read minds, the imposter who's acting real sussy...I hope you find it useful, and thanks for reading and investing your time with my writing and thoughts.
