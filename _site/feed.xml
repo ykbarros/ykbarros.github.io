@@ -3,10 +3,10 @@
   <channel>
     <title>Yeji Kim-Barros</title>
     <description>the Product Person</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 04:29:51 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 04:29:51 -0500</lastBuildDate>
+    <link>https://kimbarros.com/</link>
+    <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 13 Jan 2023 04:31:29 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2023 04:31:29 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -50,8 +50,8 @@
 &lt;p&gt;If anything, it should be more like find out if they want it built first, then they might come. The great news is that this is a much lighter load to bear than building something, hoping for the best, and folding. More on that later.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/if-you-build-it-they-will-not-come</link>
-        <guid isPermaLink="true">http://localhost:4000/if-you-build-it-they-will-not-come</guid>
+        <link>https://kimbarros.com/if-you-build-it-they-will-not-come</link>
+        <guid isPermaLink="true">https://kimbarros.com/if-you-build-it-they-will-not-come</guid>
         
         <category>Startup</category>
         
@@ -103,8 +103,8 @@
 &lt;p&gt;I know this chart isn’t perfect or complete. That’s not the point. What I was able to visualize are the different crafts that must come together for me to dare, hope, and dream. And if I get lucky, maybe I’ll get to remove my name off the boxes on the chart.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/why-orgcharts-matter-at-startups</link>
-        <guid isPermaLink="true">http://localhost:4000/why-orgcharts-matter-at-startups</guid>
+        <link>https://kimbarros.com/why-orgcharts-matter-at-startups</link>
+        <guid isPermaLink="true">https://kimbarros.com/why-orgcharts-matter-at-startups</guid>
         
         <category>Startup</category>
         
@@ -142,8 +142,8 @@
 &lt;p&gt;I’ll have to give more thought on how I can network, reduce risk, and sustainably wear a lot of hats.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/3-startup-lessons-from-immigrant-parents</link>
-        <guid isPermaLink="true">http://localhost:4000/3-startup-lessons-from-immigrant-parents</guid>
+        <link>https://kimbarros.com/3-startup-lessons-from-immigrant-parents</link>
+        <guid isPermaLink="true">https://kimbarros.com/3-startup-lessons-from-immigrant-parents</guid>
         
         <category>Startup</category>
         
@@ -183,8 +183,8 @@
 &lt;p&gt;Second, I’ve only ever managed digital product. The extra side dish I’m whipping up is a physical product. It’ll be interesting to explore how product validations compare and contrast between physical and digital product management. And the shininess of the new challenge also intrigues me, too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/avoiding-the-shiny-object-syndrome</link>
-        <guid isPermaLink="true">http://localhost:4000/avoiding-the-shiny-object-syndrome</guid>
+        <link>https://kimbarros.com/avoiding-the-shiny-object-syndrome</link>
+        <guid isPermaLink="true">https://kimbarros.com/avoiding-the-shiny-object-syndrome</guid>
         
         <category>Startup</category>
         
@@ -296,8 +296,8 @@
 &lt;p&gt;🚩 &lt;em&gt;Too sarcastic. May not take things seriously enough.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/pivoting-towards-0-1-product</link>
-        <guid isPermaLink="true">http://localhost:4000/pivoting-towards-0-1-product</guid>
+        <link>https://kimbarros.com/pivoting-towards-0-1-product</link>
+        <guid isPermaLink="true">https://kimbarros.com/pivoting-towards-0-1-product</guid>
         
         <category>Management</category>
         
@@ -512,8 +512,8 @@
 
 </description>
         <pubDate>Thu, 21 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/103-one-on-one-questions</link>
-        <guid isPermaLink="true">http://localhost:4000/103-one-on-one-questions</guid>
+        <link>https://kimbarros.com/103-one-on-one-questions</link>
+        <guid isPermaLink="true">https://kimbarros.com/103-one-on-one-questions</guid>
         
         <category>Management</category>
         
@@ -640,8 +640,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/one-on-one-with-examples</link>
-        <guid isPermaLink="true">http://localhost:4000/one-on-one-with-examples</guid>
+        <link>https://kimbarros.com/one-on-one-with-examples</link>
+        <guid isPermaLink="true">https://kimbarros.com/one-on-one-with-examples</guid>
         
         <category>Management</category>
         
@@ -777,8 +777,8 @@
 &lt;p&gt;Whether you’re holding your first or your hundredth one-on-one, the key to success is curiosity and openness: Share and care. Question and listen.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/first-one-on-one-with-templates</link>
-        <guid isPermaLink="true">http://localhost:4000/first-one-on-one-with-templates</guid>
+        <link>https://kimbarros.com/first-one-on-one-with-templates</link>
+        <guid isPermaLink="true">https://kimbarros.com/first-one-on-one-with-templates</guid>
         
         <category>Management</category>
         
@@ -860,8 +860,8 @@
 &lt;p&gt;Don’t get me wrong, &lt;em&gt;just send it to me in an email&lt;/em&gt; is still very much my de facto sentiment for most meetings. Email, Slack, and Team messages help winnow the simple exchanges. One-on-ones are then left with private, thought-provoking conversations. Or serve as a much-needed intermission to catch a breath and chat about something silly. With the right approach, one-on-ones can be the best opportunity for both parties to learn, grow, and care for one another.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/why-have-one-on-one-meetings</link>
-        <guid isPermaLink="true">http://localhost:4000/why-have-one-on-one-meetings</guid>
+        <link>https://kimbarros.com/why-have-one-on-one-meetings</link>
+        <guid isPermaLink="true">https://kimbarros.com/why-have-one-on-one-meetings</guid>
         
         <category>Management</category>
         
@@ -972,8 +972,8 @@
 &lt;p&gt;If you have an easier time coming up with answers to question 1 versus 2, you &lt;em&gt;might&lt;/em&gt; be acting like a jerk.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Mar 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/how-to-be-a-first-time-manager</link>
-        <guid isPermaLink="true">http://localhost:4000/how-to-be-a-first-time-manager</guid>
+        <link>https://kimbarros.com/how-to-be-a-first-time-manager</link>
+        <guid isPermaLink="true">https://kimbarros.com/how-to-be-a-first-time-manager</guid>
         
         <category>Management</category>
         
