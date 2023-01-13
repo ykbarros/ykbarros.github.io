@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pivoting my blog'
-tags: [Personal-essay]
+tags: [Management, Personal-essay]
 categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/pivot.jpg

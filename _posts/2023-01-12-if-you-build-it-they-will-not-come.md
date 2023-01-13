@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If you build it, they will not come'
-tags: [Personal-essay, Founder]
+tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/empty-parking-lot.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to be a first-time manager'
-tags: [How-to]
+tags: [Management, How-to]
 categories: Management
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/graph.jpg

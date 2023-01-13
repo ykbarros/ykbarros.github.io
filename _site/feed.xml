@@ -5,8 +5,8 @@
     <description>the Product Person</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 04:25:57 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 04:25:57 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2023 04:29:51 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2023 04:29:51 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -52,6 +52,8 @@
         <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/if-you-build-it-they-will-not-come</link>
         <guid isPermaLink="true">http://localhost:4000/if-you-build-it-they-will-not-come</guid>
+        
+        <category>Startup</category>
         
         <category>Personal-essay</category>
         
@@ -104,6 +106,8 @@
         <link>http://localhost:4000/why-orgcharts-matter-at-startups</link>
         <guid isPermaLink="true">http://localhost:4000/why-orgcharts-matter-at-startups</guid>
         
+        <category>Startup</category>
+        
         <category>Personal-essay</category>
         
         <category>Founder</category>
@@ -140,6 +144,8 @@
         <pubDate>Tue, 03 Jan 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/3-startup-lessons-from-immigrant-parents</link>
         <guid isPermaLink="true">http://localhost:4000/3-startup-lessons-from-immigrant-parents</guid>
+        
+        <category>Startup</category>
         
         <category>Personal-essay</category>
         
@@ -179,6 +185,10 @@
         <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/avoiding-the-shiny-object-syndrome</link>
         <guid isPermaLink="true">http://localhost:4000/avoiding-the-shiny-object-syndrome</guid>
+        
+        <category>Startup</category>
+        
+        <category>Framework</category>
         
         <category>Founder</category>
         
@@ -288,6 +298,8 @@
         <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/pivoting-towards-0-1-product</link>
         <guid isPermaLink="true">http://localhost:4000/pivoting-towards-0-1-product</guid>
+        
+        <category>Management</category>
         
         <category>Personal-essay</category>
         
@@ -503,6 +515,8 @@
         <link>http://localhost:4000/103-one-on-one-questions</link>
         <guid isPermaLink="true">http://localhost:4000/103-one-on-one-questions</guid>
         
+        <category>Management</category>
+        
         <category>How-to</category>
         
         
@@ -628,6 +642,8 @@
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/one-on-one-with-examples</link>
         <guid isPermaLink="true">http://localhost:4000/one-on-one-with-examples</guid>
+        
+        <category>Management</category>
         
         <category>How-to</category>
         
@@ -764,6 +780,8 @@
         <link>http://localhost:4000/first-one-on-one-with-templates</link>
         <guid isPermaLink="true">http://localhost:4000/first-one-on-one-with-templates</guid>
         
+        <category>Management</category>
+        
         <category>How-to</category>
         
         
@@ -844,6 +862,8 @@
         <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/why-have-one-on-one-meetings</link>
         <guid isPermaLink="true">http://localhost:4000/why-have-one-on-one-meetings</guid>
+        
+        <category>Management</category>
         
         <category>Personal-essay</category>
         
@@ -954,6 +974,8 @@
         <pubDate>Tue, 22 Mar 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/how-to-be-a-first-time-manager</link>
         <guid isPermaLink="true">http://localhost:4000/how-to-be-a-first-time-manager</guid>
+        
+        <category>Management</category>
         
         <category>How-to</category>
         

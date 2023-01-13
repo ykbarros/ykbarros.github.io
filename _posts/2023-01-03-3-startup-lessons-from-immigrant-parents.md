@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3 Startup lessons from immigrant parents'
-tags: [Personal-essay, Founder]
+tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/learning-from-family.jpg

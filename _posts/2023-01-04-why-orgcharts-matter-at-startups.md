@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why orgcharts matter at startups'
-tags: [Personal-essay, Founder]
+tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/orgchart-draft.png
