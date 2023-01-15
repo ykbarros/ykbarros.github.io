@@ -5,7 +5,7 @@ tags: [Startup, Framework, Founder, Project-management]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2022/shiny.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
