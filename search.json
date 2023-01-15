@@ -1,10 +1,18 @@
 [
   
     {
-      "title"    : "If you build it, they will not come",
+      "title"    : "How to avoid startup pitfalls",
       "category" : "",
       "tags"     : "Startup, Personal-essay, Founder",
-      "url"      : "/if-you-build-it-they-will-not-come",
+      "url"      : "/how-to-avoid-startup-pitfalls",
+      "date"     : "January 15, 2023"
+    } ,
+  
+    {
+      "title"    : "How traditional product plans kill startups",
+      "category" : "",
+      "tags"     : "Startup, Personal-essay, Founder",
+      "url"      : "/traditional-product-plans-kll-startups",
       "date"     : "January 12, 2023"
     } ,
   
