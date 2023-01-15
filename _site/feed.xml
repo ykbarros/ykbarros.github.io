@@ -3,17 +3,103 @@
   <channel>
     <title>Yeji Kim-Barros</title>
     <description>the Product Person</description>
-    <link>https://kimbarros.com/</link>
-    <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 04:31:29 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 04:31:29 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Jan 2023 07:32:07 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2023 07:32:07 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
-        <title>If you build it, they will not come</title>
-        <description>&lt;p&gt;“If you build it, they will come” is a disastrous trap. I didn’t use Google+ or Google Lively, and I won’t go to a meeting in the Metaverse. According to the &lt;a href=&quot;https://www.bls.gov/bdm/us_age_naics_00_table7.txt&quot;&gt;Bureau of Labor Statistics&lt;/a&gt;, as of March 2022, only about &lt;strong&gt;80%&lt;/strong&gt; of businesses survived after &lt;strong&gt;one year&lt;/strong&gt;. In this writeup, I’m going to dive into two traditional ways of product development and why they doom budding projects.&lt;/p&gt;
+        <title>How to avoid startup pitfalls</title>
+        <description>&lt;p&gt;I stumbled upon several cognitive biases and made some poor decisions about what I needed to do next for my startup project in the past two weeks. I’ll share what happened and how you (and I) can avoid the pitfalls.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-is-product-development&quot;&gt;What is product development?&lt;/h2&gt;
+&lt;h2 id=&quot;what-did-i-do&quot;&gt;What did I do?&lt;/h2&gt;
+&lt;p&gt;I’ve wanted to work on accessible means of self-care, so I prioritized talking to people to better understand what I needed to solve. I reached out to my penpals and asked what they do for self-care; 19 people responded, and &lt;em&gt;all&lt;/em&gt; of them mentioned journaling as a means of self-care.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t stop thinking about what kind of journaling app I will build after that.&lt;/p&gt;
+
+&lt;p&gt;I brainstormed reasons why someone would want to have my journaling app over another. From this exercise, I produced a list of what my users will receive by using my journal.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make peace with my inner voice by letting me express my thoughts and feelings without the pressure or judgment.&lt;/li&gt;
+  &lt;li&gt;Help me build emotional resilience by embracing vulnerability; labeling my fear, worry, and anxiety; and making small changes to handle them.&lt;/li&gt;
+  &lt;li&gt;Allow myself to feel more hopeful, connected, and grateful by taking the time to recognize the small moments of joy and positive energy, no matter how trivial they may seem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From there on, I did a user journey exercise to see what kind of experience I should initially build. I turned the user journey flow into a low-fidelity sketch. Then I turned the low-fidelity into a high-fidelity one in Figma.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/hi-fi-mocks.png&quot; alt=&quot;My high fidelity design mocks in Figma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To ensure that I’m headed in the right direction, I sent out the prototype flow to get feedback. I’ve received positive responses, and started looking into a no-code/low-code solution so I can launch an MVP for validation. Some people told me that they prefer pen and paper, but I’m assumed they weren’t my target customer.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-many-cognitive-biases-did-i-fall-prey-to&quot;&gt;How many cognitive biases did I fall prey to?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I instantly &lt;em&gt;latched onto my idea&lt;/em&gt; after a &lt;em&gt;single&lt;/em&gt; question.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anchoring&lt;/strong&gt; is the tendency to rely too heavily on the first piece of information encountered when making a decision. I gravitated to the first pattern I was able to discern and made my decision on what to build.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Availability heuristic&lt;/strong&gt; is the tendency to base decisions on the most recent information without being relying on a comprehensive analysis of all available information. I asked one question: “how do you self-care?” Despite receiving numerous other ways that people listed for self-caring, I chose to ignore all of them and only look at journaling as a viable means.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;I got a way too invested in the idea and started doing a lot of work.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Escalation of commitment&lt;/strong&gt; is the tendency to invest more resource, time, or energy in a decision though nothing is indicating that you should. What I really got from my conversation is that people who write letters to me also like to write in a journal. Instead, I took it as some sort of sign and really ran with it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Overconfidence effect&lt;/strong&gt; is the tendency to have excessive confidence in one’s own answers to questions. All the brainstorming and flowcharting exercises I did were solo activities. I posed the questions, and I answered them. I was satisfied I was on the right track, and kept pushing forward.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;I carried on with people who reacted positively to my prototype and dismissed the others.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Confirmation bias&lt;/strong&gt; is the tendency to seek out and interpret information that confirms your beliefs while disregarding the contraction. It’s a classic; what more can I say?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-avoid-cognitive-biases&quot;&gt;How to avoid cognitive biases&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Create checkpoints&lt;/strong&gt; &lt;br /&gt;
+Before you continue down a rabbit hole and further invest what precious time you’ve got, create frequent checkpoints. A checkpoint should include the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Listing assumptions you’re making with where you are and where you’re going.&lt;/li&gt;
+  &lt;li&gt;Coming up with questions that can validate your assumptions to be true or false.&lt;/li&gt;
+  &lt;li&gt;Reaching out to diverse perspectives and asking them questions for validation purposes.&lt;/li&gt;
+  &lt;li&gt;Based on the responses, evaluating what steps to take next.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Just like in video games, this helps make meaningful progress and it makes turning back to a last, good save easier (before you got absolutely ambushed because you killed too many cows for profit).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Check your ego and don’t take things personally&lt;/strong&gt; &lt;br /&gt;
+When I was doing this discovery work as my job, I took all the feedback in stride. But because I got so rapidly hooked on the idea &lt;em&gt;and&lt;/em&gt; I felt like I had the momentum &lt;em&gt;and&lt;/em&gt; I had all this flurry of activity to show what I’ve done, I got very emotionally attached to what I produced. Here’s what I did:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I stepped away from the mess I made for a few days so that I can be more detached from the situation in order to better observe and evaluate what happened.&lt;/li&gt;
+  &lt;li&gt;I reframed the situation in order to learn from the experience. Instead of feeling hurt by people who weren’t raving about my idea or feeling embarrassed that I derailed two weeks on this, I decided that it was a good learning experience I can write about so I can help others avoid the same mistake.&lt;/li&gt;
+  &lt;li&gt;I kept reminding myself failure is okay and expected. I agree it’s not the sexiest words of affirmation. But a consistent, stern, sobering self-reminder that I’ll fail more than get it right has been helpful to keep my ego in check.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Stop being a doer&lt;/strong&gt; &lt;br /&gt;
+“If you build it, they will come” is a disastrous trap. I didn’t use Google+ or Google Lively, and I won’t go to a meeting in the Metaverse. According to the &lt;a href=&quot;https://www.bls.gov/bdm/us_age_naics_00_table7.txt&quot;&gt;Bureau of Labor Statistics&lt;/a&gt;, as of March 2022, only about &lt;strong&gt;80%&lt;/strong&gt; of businesses survived after &lt;strong&gt;one year&lt;/strong&gt;. So why do so many businesses fail?&lt;/p&gt;
+
+&lt;p&gt;The answer is simple: it’s because businesses were selling something that not many people wanted. So stop being so eager to build a solution.&lt;/p&gt;
+
+&lt;p&gt;You may think, “But I need to go &lt;em&gt;fast.&lt;/em&gt; And what about the first-mover advantage? I need to launch my idea ASAP!” The first-mover advantage is an advantage gained by first introducing a novel product or service to the market. Examples include Gillette, Amazon and eBay. And Vine, MySpace, and AltaVista. While the first-mover advantage may create a sense of false urgency to “just build it,” this advantage means nothing if no one is interested in what you have to sell.&lt;/p&gt;
+
+&lt;p&gt;Instead, &lt;strong&gt;find out if people want it built first. Then they &lt;em&gt;might&lt;/em&gt; come.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jan 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/how-to-avoid-startup-pitfalls</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-avoid-startup-pitfalls</guid>
+        
+        <category>Startup</category>
+        
+        <category>Personal-essay</category>
+        
+        <category>Founder</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
+    
+      <item>
+        <title>How traditional product plans kill startups</title>
+        <description>&lt;p&gt;Product managers love methodologies, frameworks, mental models, processes, graphs, charts, infographic. You name it, I’ve likely used it. In established organizations, having definitions around what needs to be done and documentation that is agreed upon by everyone involved helps to get the product built. But those familiar ways of doing things can damage a budding startup opportunity.&lt;/p&gt;
+
+&lt;p&gt;I’ll name two commonly used ways of how product people work and why it doesn’t work for a startup.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-product-development-process-and-planning&quot;&gt;1. Product development process and planning&lt;/h2&gt;
 &lt;p&gt;Product development is often described as a series of steps taken in order to launch a product or a service. The development process takes a methodical approach in order to come up with ideas that work for customers and generate profit.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/prod-dev-proc.jpg&quot; alt=&quot;Product development process&quot; /&gt;&lt;/p&gt;
@@ -27,7 +113,7 @@
   &lt;li&gt;&lt;strong&gt;roadmap&lt;/strong&gt;: This may include a list of milestones and goals to hit, like go-live dates, as well as a breakdown of how the work will get done across multiple goals (or sprint planning against the epics if you’re inclined to use scrum terminology).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;following-the-business-model-canvas&quot;&gt;Following “The Business Model Canvas”&lt;/h2&gt;
+&lt;h2 id=&quot;2-the-business-model-canvas&quot;&gt;2. The Business Model Canvas&lt;/h2&gt;
 &lt;p&gt;A product plan may be too much information to zoom in on. One of the popular one-pager templates that’s often suggested to entrepreneurs is The Business Model Canvas. This allows you or your stakeholders to have a quick glimpse at the viability of your business based on your idea. It’s a well-loved framework; so much so that popular ideation tools like Mural and Miro have it as a built-in template.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/miro-biz-model-canvas.png&quot; alt=&quot;Miro&apos;s business model canvas&quot; /&gt;&lt;/p&gt;
@@ -43,15 +129,15 @@
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;why-product-development-plans-and-the-canvas-dont-work-for-startups&quot;&gt;Why product development plans and the canvas don’t work for startups&lt;/h2&gt;
-&lt;p&gt;Both methods assume something huge: There’s a market segment that has a problem and wants a solution. &lt;em&gt;Your solution.&lt;/em&gt; This is a dangerous assumption to make even for established businesses trying to introduce a new offering to their existing, captured market. Nevermind a new business trying to build a new product.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“But what about the first-mover advantage? I need to launch now!”&lt;/strong&gt; The first-mover advantage is an advantage gained by first introducing a novel product or service to the market. Examples include Gillette, Amazon and eBay. And Vine, MySpace, and AltaVista. While the first-mover advantage may create a sense of false urgency to “just build it,” this advantage means nothing if no one is interested in what you have to sell.&lt;/p&gt;
-
-&lt;p&gt;If anything, it should be more like find out if they want it built first, then they might come. The great news is that this is a much lighter load to bear than building something, hoping for the best, and folding. More on that later.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;There’s too much uncertainty and the environment radically changes from day to day.&lt;/li&gt;
+  &lt;li&gt;Startups often have limited resources in time and money. So it’s imperative to validate your business model and product as soon as possible. The traditional ways of product launching is often rigid and time-consuming.&lt;/li&gt;
+  &lt;li&gt;You’ll end up spending a lot of your energy, attention, and effort towards guesstimating. A business model of a startup is often in flux as you try to find the right product-market fit. If you think your local weatherman is bad at forecasting, try coming up with your customer acquisition steps and the path to monetization. If you can do that accurately, please send me the numbers to the next Powerball drawing; please and thank you.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/if-you-build-it-they-will-not-come</link>
-        <guid isPermaLink="true">https://kimbarros.com/if-you-build-it-they-will-not-come</guid>
+        <link>http://localhost:4000/traditional-product-plans-kll-startups</link>
+        <guid isPermaLink="true">http://localhost:4000/traditional-product-plans-kll-startups</guid>
         
         <category>Startup</category>
         
@@ -103,8 +189,8 @@
 &lt;p&gt;I know this chart isn’t perfect or complete. That’s not the point. What I was able to visualize are the different crafts that must come together for me to dare, hope, and dream. And if I get lucky, maybe I’ll get to remove my name off the boxes on the chart.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/why-orgcharts-matter-at-startups</link>
-        <guid isPermaLink="true">https://kimbarros.com/why-orgcharts-matter-at-startups</guid>
+        <link>http://localhost:4000/why-orgcharts-matter-at-startups</link>
+        <guid isPermaLink="true">http://localhost:4000/why-orgcharts-matter-at-startups</guid>
         
         <category>Startup</category>
         
@@ -142,8 +228,8 @@
 &lt;p&gt;I’ll have to give more thought on how I can network, reduce risk, and sustainably wear a lot of hats.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/3-startup-lessons-from-immigrant-parents</link>
-        <guid isPermaLink="true">https://kimbarros.com/3-startup-lessons-from-immigrant-parents</guid>
+        <link>http://localhost:4000/3-startup-lessons-from-immigrant-parents</link>
+        <guid isPermaLink="true">http://localhost:4000/3-startup-lessons-from-immigrant-parents</guid>
         
         <category>Startup</category>
         
@@ -183,8 +269,8 @@
 &lt;p&gt;Second, I’ve only ever managed digital product. The extra side dish I’m whipping up is a physical product. It’ll be interesting to explore how product validations compare and contrast between physical and digital product management. And the shininess of the new challenge also intrigues me, too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/avoiding-the-shiny-object-syndrome</link>
-        <guid isPermaLink="true">https://kimbarros.com/avoiding-the-shiny-object-syndrome</guid>
+        <link>http://localhost:4000/avoiding-the-shiny-object-syndrome</link>
+        <guid isPermaLink="true">http://localhost:4000/avoiding-the-shiny-object-syndrome</guid>
         
         <category>Startup</category>
         
@@ -296,8 +382,8 @@
 &lt;p&gt;🚩 &lt;em&gt;Too sarcastic. May not take things seriously enough.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/pivoting-towards-0-1-product</link>
-        <guid isPermaLink="true">https://kimbarros.com/pivoting-towards-0-1-product</guid>
+        <link>http://localhost:4000/pivoting-towards-0-1-product</link>
+        <guid isPermaLink="true">http://localhost:4000/pivoting-towards-0-1-product</guid>
         
         <category>Management</category>
         
@@ -512,8 +598,8 @@
 
 </description>
         <pubDate>Thu, 21 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/103-one-on-one-questions</link>
-        <guid isPermaLink="true">https://kimbarros.com/103-one-on-one-questions</guid>
+        <link>http://localhost:4000/103-one-on-one-questions</link>
+        <guid isPermaLink="true">http://localhost:4000/103-one-on-one-questions</guid>
         
         <category>Management</category>
         
@@ -640,8 +726,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/one-on-one-with-examples</link>
-        <guid isPermaLink="true">https://kimbarros.com/one-on-one-with-examples</guid>
+        <link>http://localhost:4000/one-on-one-with-examples</link>
+        <guid isPermaLink="true">http://localhost:4000/one-on-one-with-examples</guid>
         
         <category>Management</category>
         
@@ -777,8 +863,8 @@
 &lt;p&gt;Whether you’re holding your first or your hundredth one-on-one, the key to success is curiosity and openness: Share and care. Question and listen.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/first-one-on-one-with-templates</link>
-        <guid isPermaLink="true">https://kimbarros.com/first-one-on-one-with-templates</guid>
+        <link>http://localhost:4000/first-one-on-one-with-templates</link>
+        <guid isPermaLink="true">http://localhost:4000/first-one-on-one-with-templates</guid>
         
         <category>Management</category>
         
@@ -860,124 +946,12 @@
 &lt;p&gt;Don’t get me wrong, &lt;em&gt;just send it to me in an email&lt;/em&gt; is still very much my de facto sentiment for most meetings. Email, Slack, and Team messages help winnow the simple exchanges. One-on-ones are then left with private, thought-provoking conversations. Or serve as a much-needed intermission to catch a breath and chat about something silly. With the right approach, one-on-ones can be the best opportunity for both parties to learn, grow, and care for one another.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/why-have-one-on-one-meetings</link>
-        <guid isPermaLink="true">https://kimbarros.com/why-have-one-on-one-meetings</guid>
+        <link>http://localhost:4000/why-have-one-on-one-meetings</link>
+        <guid isPermaLink="true">http://localhost:4000/why-have-one-on-one-meetings</guid>
         
         <category>Management</category>
         
         <category>Personal-essay</category>
-        
-        
-        <category>Management</category>
-        
-      </item>
-    
-      <item>
-        <title>How to be a first-time manager</title>
-        <description>&lt;p&gt;Your hard work has paid off, and you’re now a first-time manager. Hurray! It’s an exciting, nerve-racking transition. It’s also mired with uncertainty and doubt as you navigate this journey. And chances are, you haven’t received formal training.&lt;/p&gt;
-
-&lt;p&gt;So how can you become a good first-time manager? Here are seven tips based on my experience. If you have any other helpful tips, &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;please reach out&lt;/a&gt;. I’d love to exchange thoughts and chat.&lt;/p&gt;
-
-&lt;h2 id=&quot;really-listen&quot;&gt;&lt;em&gt;Really&lt;/em&gt; listen&lt;/h2&gt;
-
-&lt;p&gt;Meetings have always bombarded my schedule, and I typically hear enough to engage. It’s low effort but it works because people love hearing themselves. Don’t do this with your direct reports.&lt;/p&gt;
-
-&lt;p&gt;Hearing is passive. Listening is active. Take the words at face value. Pause before interpreting, judging, or evaluating. Stop letting your mind run towards what you’ll say in response. Stop hearing, start listening.&lt;/p&gt;
-
-&lt;p&gt;My direct report once told me they were stressed from my micromanagement. I had a ton of thoughts scurry past me at 100 mph: “What the hell? I hate micromanagers. I’ve never asked them what they do with their day. Have they even met other micromanagers? I’ll respond with, ‘I hear you, but I don’t understand,’ so they don’t feel like I’m dismissing this completely. Wonder what they’re actually unhappy with instead.”&lt;/p&gt;
-
-&lt;p&gt;Turns out, I micromanaged. I would’ve known sooner if I listened. It took their leave and another year for me to realize I messed up.&lt;/p&gt;
-
-&lt;h2 id=&quot;ask-exploratory-questions&quot;&gt;Ask exploratory questions&lt;/h2&gt;
-
-&lt;p&gt;Asking questions pairs so well with active listening. Ask questions to better understand your direct reports’ intentions. Be a fact-finder. Be an investigator.&lt;/p&gt;
-
-&lt;p&gt;Being a good investigator is a great way to find customer problems to solve as a product manager. Being a good investigator allows for greater understanding and empathy.&lt;/p&gt;
-
-&lt;p&gt;The same applies to being a people manager. Probe to understand motives and thought processes instead of actions and execution processes.&lt;/p&gt;
-
-&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; Instead of asking “What are you prioritizing?” ask: “How are you thinking through prioritization?” This provides you with informative data points and opportunities for more dialogues:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;How they prioritize tasks.&lt;/li&gt;
-  &lt;li&gt;How they perceive their contribution.&lt;/li&gt;
-  &lt;li&gt;How well you’ve conveyed your expectations, goals, and the vision.&lt;/li&gt;
-  &lt;li&gt;Segue to align on prioritization.&lt;/li&gt;
-  &lt;li&gt;Check and balance workload and care for your direct reports’ mental health.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;convey-your-thoughts-simply&quot;&gt;Convey your thoughts simply&lt;/h2&gt;
-&lt;p&gt;When I had to read Ernest Hemingway in high school, I found it a chore. How did he become a respected writer? By stitching together common words into short sentences? Balderdash! A complete gobbledygook! A disparaging example of American literature! The inner critic in me thought he had zero flourish and bland rhetoric. Wrong.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Any damn fool can make something complex; it takes a genius to make something simple.” &lt;cite&gt;― Pete Seeger ―&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s much more difficult to be concise and profound.&lt;/p&gt;
-
-&lt;p&gt;Stop practicing the art of bullshitting. Use short sentences to introduce and share your thoughts. Make it easy to skim your writing. Consider the key pieces of information you want to convey before you communicate. It’s okay to say “I need to think about this more.” That’s a complete thought. There’s no reason to improvise in hopes you stumble into brilliant prose.&lt;/p&gt;
-
-&lt;h2 id=&quot;stop-trying-to-keep-score&quot;&gt;Stop trying to keep score&lt;/h2&gt;
-
-&lt;p&gt;Read any relationship article on tallying up and you’ll get the same answer: Stop. Stop tallying up when you were right and they were wrong. Stop tallying up when they’ve made mistakes. Stop tallying up all the late nights you’ve put in and they didn’t.&lt;/p&gt;
-
-&lt;p&gt;It’s natural to notice and compare. It’s human to keep score for the nonsensical game you’re playing in your head. For me, it’s an act of self preservation. I’m the hero in my story. And I can prove my title is well-deserved. Look at my scoreboard!&lt;/p&gt;
-
-&lt;p&gt;But with people management, it’s not about you. It’s certainly not you versus your direct report. What do you get by having a higher score than your direct report? You can bask in the fact that you’re right and they’re wrong. What a shoddy employee, you think. Who is their lousy manager? Well done. You played yourself.&lt;/p&gt;
-
-&lt;h2 id=&quot;do-your-job-to-make-their-job-easier&quot;&gt;Do &lt;em&gt;your&lt;/em&gt; job to make &lt;em&gt;their&lt;/em&gt; job easier&lt;/h2&gt;
-
-&lt;p&gt;In my experience, managers often promote high performing individual contributors. Those contributors becoming first-time managers need to be extra cautious. Excelling at your old job doesn’t mean you’ll excel at managing others who now do that job.&lt;/p&gt;
-
-&lt;p&gt;Being a good chef doesn’t guarantee that you’ll run a restaurant well. In fact, &lt;em&gt;only&lt;/em&gt; being a good chef may be a restaurateur’s downfall. So if you’re like me and you’ve thought about running a food truck because you make mean braised short ribs, you may want to reconsider. For one, I hate driving big cars.&lt;/p&gt;
-
-&lt;p&gt;When you go from contributor to manager, your job is no longer confined to what you used to do.&lt;/p&gt;
-
-&lt;p&gt;For example: As a software developer, you need to produce quality code. As a manager, you need to help software developers produce quality code. Your job as a manager isn’t exclusive to reviewing their lines of code. You need to figure out how to unblock and foster creativity in your team. You need to make sure the team understands what they’re working towards and why. You need to speak up on your team’s behalf to ensure they feel heard if their work looks risky ahead.&lt;/p&gt;
-
-&lt;h2 id=&quot;hold-yourself-accountable-first&quot;&gt;Hold yourself accountable first&lt;/h2&gt;
-
-&lt;p&gt;“I was wrong. I’m sorry.” Do these statements stir a visceral reaction? They do for me. One of my high school coaches once told me “It’s sad and funny to see you deny how wrong you are.” He was a jerk. But he was right.&lt;/p&gt;
-
-&lt;p&gt;I eventually got used to saying these phrases for all the wrong reasons. They were a Get Out of Jail Free Card. I could maintain a veneer of humility by raising my hand and taking responsibility. Afterwards, I would slither away from the situation and receive praise for being open, honest, and brave. They were my ultimate deus ex machina.&lt;/p&gt;
-
-&lt;p&gt;But this is plain manipulation. What you do &lt;em&gt;after&lt;/em&gt; your words carries greater weight.&lt;/p&gt;
-
-&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; The team made a mistake? Complete an introspection with yourself before demanding to know what happened. Here are some questions to help you get started.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Where were you?&lt;/li&gt;
-  &lt;li&gt;What was your participation like?&lt;/li&gt;
-  &lt;li&gt;How did the team feel during the project?&lt;/li&gt;
-  &lt;li&gt;What was your pulse on the progress leading up to the mistake&lt;/li&gt;
-  &lt;li&gt;How can you help set the next project up for success?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;One way to breed distrust as a first-time manager is blowing sycophantic, apologetic kisses upward and throwing “bring me solutions, not problems” accountability punches downward. It’s &lt;em&gt;your&lt;/em&gt; team. Help them navigate out of the storm.&lt;/p&gt;
-
-&lt;h2 id=&quot;dont-be-a-jerk&quot;&gt;Don’t be a jerk&lt;/h2&gt;
-
-&lt;p&gt;I saved the most obvious for last.&lt;/p&gt;
-
-&lt;p&gt;Being a first-time manager is like cultivating any relationship. You don’t want to be friends with an Arrogant Adam who doesn’t listen, Talkative Tanner who talks &lt;em&gt;at&lt;/em&gt; you, or Forgetful Frank who says, “Sorry, I thought I already gave you money for the bill we split” after drinking 3 more drinks than you (Every. Week. And &lt;em&gt;still&lt;/em&gt; no Venmo).&lt;/p&gt;
-
-&lt;p&gt;Likewise, you don’t want to be managed by an Arrogant Adam who tells you how to do it his way and never accepts new ideas, Talkative Tanner who still insists on talking at you, or Forgetful Frank who says, “Sorry, I thought that you would be happy with this expanded responsibility and we agreed you aren’t yet ready for the next level” after 3 glowing performance reviews without tangible, actionable feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;mark&gt;Try this:&lt;/mark&gt; My self-assessment on whether I’m a jerk manager is as follows:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;How will this meeting/project/email/presentation help me?&lt;/li&gt;
-  &lt;li&gt;How will this meeting/project/email/presentation help my team?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If you have an easier time coming up with answers to question 1 versus 2, you &lt;em&gt;might&lt;/em&gt; be acting like a jerk.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Mar 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/how-to-be-a-first-time-manager</link>
-        <guid isPermaLink="true">https://kimbarros.com/how-to-be-a-first-time-manager</guid>
-        
-        <category>Management</category>
-        
-        <category>How-to</category>
         
         
         <category>Management</category>
