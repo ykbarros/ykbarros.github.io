@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'How traditional product plans kill startups'
+title: 'How traditional product plans ruin startups'
 tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/product-roadmap.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
