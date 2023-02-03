@@ -85,6 +85,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagsgenerator
   tzinfo-data
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.9
