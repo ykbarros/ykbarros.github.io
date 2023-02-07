@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discovering hidden user insights through undercover user research (Part 1)'
+title: 'Discovering hidden user insights (Part 1: undercover user research)'
 tags: [Startup, How-to, Founder, Product-design]
 categories: Startup
 featured_image_thumbnail:
