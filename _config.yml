@@ -54,12 +54,12 @@ quora: #'username'
 navigation:
   - text: Home
     url: /
+  - text: Search
+    url: /search
   - text: About
     url: /about
   - text: Contact Me
     url: /contact
-  - text: Search
-    url: /search
 
 # Required Plugins
 plugins_dir:
