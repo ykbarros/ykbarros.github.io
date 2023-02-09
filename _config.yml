@@ -11,7 +11,9 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'AuthorImage.png'
-  greetings: "Build product with me: no frills guides, frameworks, case studies, and personal essays that chronicle my product creation process from 0 to 1."
+  greetings: "🖋️ No frills guides, frameworks,
+  case studies, and personal essays that chronicle my product creation process from 0 to 1<br><br>
+  🚀 Product consulting and coaching for scaleups"
 favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
@@ -23,21 +25,10 @@ google:
     container_id: GTM-WM9PWMJ
 # Contact form settings
 email: yeji@kimbarros.com
-contact_page_description: "Want to <b>accelerate</b> your experiment and learning cycle <b>without a product org?</b><br>
-At the cusp of bringing on a product team but <b>don't know where to begin?</b><br><br>
+contact_page_description: "Want to know how I can help with your emerging product team? Or dropping by to say hello?
+Fill out the contact form or email yeji @ kimbarros.com. I'll get back to you within 24 hours."
 
-I can be the multiplier for your team. <br><br>
-
-I can offer:<br>
-🕵🏻 <b>User research</b> to discover problem-solution gaps and validate assumptions.<br>
-🚩 <b>Usability analysis</b> to ensure you're building a usable, valuable customer experience.<br>
-🗺️ <b>Strategy and roadmap</b> delivery to inspire the team behind your vision.<br>
-👩‍🏫 <b>Team setup and coaching</b> to build an empowered product team.<br>
-🐻 <b>Product process development and improvement</b> plans that's just right for your organization.<br><br>
-
-If I'm the right fit for you, or if you simply want to say hello, please reach out."
-
-thankyou_page_description: "Thanks for your message. I'll get back to you shortly. Cheers!"
+thankyou_page_description: "Thanks for your message. I'll get back to you within 24 hours. Cheers!"
 # Social links
 twitter: #''
 facebook: #''
@@ -54,6 +45,8 @@ quora: #'username'
 navigation:
   - text: Home
     url: /
+  - text: Services
+    url: /services
   - text: Search
     url: /search
   - text: About

@@ -53,6 +53,7 @@ h2 {
 h3 {
   font-size: 1.66667rem;
   margin: 1em 0 0.5em;
+  font-weight: normal;
 }
 
 h4 {
@@ -267,7 +268,7 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 a.button {
-  background: $gray-darkest;
+  background: $color-accent;
   border: 0;
   box-sizing: border-box;
   color: #fff;
@@ -295,7 +296,7 @@ input[type="reset"]:focus,
 input[type="reset"]:active,
 a.button:hover,
 a.button:focus {
-  background: $color-accent;
+  background: $gray-darkest;
   outline: 0;
 }
 
