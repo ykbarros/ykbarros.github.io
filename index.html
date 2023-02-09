@@ -6,7 +6,9 @@ layout: default
 {% if page.url == "/" %}
 <div class="hero inner">
     <p class="hero-text">{{ site.author.greetings }}</p><br>
-    <button name="button" onclick="http://kimbarros.com/contact">Get in touch with me</button>
+    <form action="https://kimbarros.com/contact">
+    <input type="submit" value="Get in touch with me" />
+    </form>
 </div>
 {% endif %}
 

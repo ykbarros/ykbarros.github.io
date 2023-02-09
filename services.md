@@ -4,7 +4,7 @@ title: Product consultant and coach for companies with recently established prod
 ---
 ### I work with business owners and product managers to help them become a more confident and fearless product team.
 
-<button name="button" onclick="http://kimbarros.com/contact">Get in touch with me</button>
+[Get in touch with me](https://kimbarros.com/contact){: .button}
 
 ![image to introduce my services](assets/images/pages/service-intro.jpg)
 
@@ -94,4 +94,4 @@ Your team will gain fresh perspectives and insights on how to work together. By 
  </tbody>
 </table>
 
-<button name="button" onclick="http://kimbarros.com/contact">Get in touch with me</button>
+[Get in touch with me](https://kimbarros.com/contact){: .button}
