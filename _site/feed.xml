@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yeji Kim-Barros</title>
-    <description>the Product Person</description>
-    <link>https://kimbarros.com/</link>
-    <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2023 01:03:18 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2023 01:03:18 -0500</lastBuildDate>
+    <description>Product Manager</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Mar 2023 16:52:04 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2023 16:52:04 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -59,8 +59,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 07 Feb 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/conversation-skills-for-user-research</link>
-        <guid isPermaLink="true">https://kimbarros.com/conversation-skills-for-user-research</guid>
+        <link>http://localhost:4000/conversation-skills-for-user-research</link>
+        <guid isPermaLink="true">http://localhost:4000/conversation-skills-for-user-research</guid>
         
         <category>Startup</category>
         
@@ -104,8 +104,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 30 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/discovering-insights-through-user-research</link>
-        <guid isPermaLink="true">https://kimbarros.com/discovering-insights-through-user-research</guid>
+        <link>http://localhost:4000/discovering-insights-through-user-research</link>
+        <guid isPermaLink="true">http://localhost:4000/discovering-insights-through-user-research</guid>
         
         <category>Startup</category>
         
@@ -144,8 +144,8 @@
 &lt;p&gt;So this week, I’ll talk to at least five different strangers about themselves, their problems, and their needs.&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/conceptualizing-products-without-a-good-idea</link>
-        <guid isPermaLink="true">https://kimbarros.com/conceptualizing-products-without-a-good-idea</guid>
+        <link>http://localhost:4000/conceptualizing-products-without-a-good-idea</link>
+        <guid isPermaLink="true">http://localhost:4000/conceptualizing-products-without-a-good-idea</guid>
         
         <category>Startup</category>
         
@@ -228,8 +228,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;p&gt;Instead, &lt;strong&gt;find out if people want it built first. Then they &lt;em&gt;might&lt;/em&gt; come.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/how-to-avoid-startup-pitfalls</link>
-        <guid isPermaLink="true">https://kimbarros.com/how-to-avoid-startup-pitfalls</guid>
+        <link>http://localhost:4000/how-to-avoid-startup-pitfalls</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-avoid-startup-pitfalls</guid>
         
         <category>Startup</category>
         
@@ -285,8 +285,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/traditional-product-plans-ruin-startups</link>
-        <guid isPermaLink="true">https://kimbarros.com/traditional-product-plans-ruin-startups</guid>
+        <link>http://localhost:4000/traditional-product-plans-ruin-startups</link>
+        <guid isPermaLink="true">http://localhost:4000/traditional-product-plans-ruin-startups</guid>
         
         <category>Startup</category>
         
@@ -338,8 +338,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;p&gt;I know this chart isn’t perfect or complete. That’s not the point. What I was able to visualize are the different crafts that must come together for me to dare, hope, and dream. And if I get lucky, maybe I’ll get to remove my name off the boxes on the chart.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/why-orgcharts-matter-at-startups</link>
-        <guid isPermaLink="true">https://kimbarros.com/why-orgcharts-matter-at-startups</guid>
+        <link>http://localhost:4000/why-orgcharts-matter-at-startups</link>
+        <guid isPermaLink="true">http://localhost:4000/why-orgcharts-matter-at-startups</guid>
         
         <category>Startup</category>
         
@@ -377,8 +377,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;p&gt;I’ll have to give more thought on how I can network, reduce risk, and sustainably wear a lot of hats.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/3-startup-lessons-from-immigrant-parents</link>
-        <guid isPermaLink="true">https://kimbarros.com/3-startup-lessons-from-immigrant-parents</guid>
+        <link>http://localhost:4000/3-startup-lessons-from-immigrant-parents</link>
+        <guid isPermaLink="true">http://localhost:4000/3-startup-lessons-from-immigrant-parents</guid>
         
         <category>Startup</category>
         
@@ -418,8 +418,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;p&gt;Second, I’ve only ever managed digital product. The extra side dish I’m whipping up is a physical product. It’ll be interesting to explore how product validations compare and contrast between physical and digital product management. And the shininess of the new challenge also intrigues me, too.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/avoiding-the-shiny-object-syndrome</link>
-        <guid isPermaLink="true">https://kimbarros.com/avoiding-the-shiny-object-syndrome</guid>
+        <link>http://localhost:4000/avoiding-the-shiny-object-syndrome</link>
+        <guid isPermaLink="true">http://localhost:4000/avoiding-the-shiny-object-syndrome</guid>
         
         <category>Startup</category>
         
@@ -531,8 +531,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 &lt;p&gt;🚩 &lt;em&gt;Too sarcastic. May not take things seriously enough.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/pivoting-towards-0-1-product</link>
-        <guid isPermaLink="true">https://kimbarros.com/pivoting-towards-0-1-product</guid>
+        <link>http://localhost:4000/pivoting-towards-0-1-product</link>
+        <guid isPermaLink="true">http://localhost:4000/pivoting-towards-0-1-product</guid>
         
         <category>Management</category>
         
@@ -747,8 +747,8 @@ When I was doing this discovery work as my job, I took all the feedback in strid
 
 </description>
         <pubDate>Thu, 21 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/103-one-on-one-questions</link>
-        <guid isPermaLink="true">https://kimbarros.com/103-one-on-one-questions</guid>
+        <link>http://localhost:4000/103-one-on-one-questions</link>
+        <guid isPermaLink="true">http://localhost:4000/103-one-on-one-questions</guid>
         
         <category>Management</category>
         
