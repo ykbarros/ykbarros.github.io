@@ -2,12 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yeji Kim-Barros</title>
-    <description>the Product Person</description>
+    <description>The Product Person</description>
     <link>https://kimbarros.com/</link>
     <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2023 00:34:39 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2023 00:34:39 -0500</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2023 13:27:56 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2023 13:27:56 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Case study on a 4-step process towards problem discovery</title>
+        <description>&lt;p&gt;My goal is to help people practice self-care in a meaningful way. However, before diving into product ideas, I needed to address several unknowns and assumptions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What exactly is self-care?&lt;/li&gt;
+  &lt;li&gt;How do people define self-care, both broadly and for themselves?&lt;/li&gt;
+  &lt;li&gt;Do people explicitly practice self-care?&lt;/li&gt;
+  &lt;li&gt;Is there a significance in “meaningful” self-care?&lt;/li&gt;
+  &lt;li&gt;How can we practice self-care meaningfully?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To answer these questions, I sought to understand self-care from other people’s perspectives. I followed four steps: research, define, chat, and refine.&lt;/p&gt;
+
+&lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;I started out with very simple search terms on &lt;a href=&quot;http://scholar.google.com&quot;&gt;Google Scholar&lt;/a&gt; to find more comprehensive, specialized information, primary and secondary sources, and related research.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/google-scholar-search.png&quot; alt=&quot;My first Google Scholar search term was &amp;quot;self care&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Through this exercise, I discovered many studies completed on self-care. For example, I found a &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0885392422004699&quot;&gt;recent study from Journal of Pain and Symptom Management&lt;/a&gt; that examined the correlations among self-care, emotion regulation, social support, and well-being among young adults during the COVID pandemic.&lt;/p&gt;
+
+&lt;p&gt;The biggest challenge was knowing when to stop this step and move to the next one. To mitigate, I gave myself a maximum of two days to explore and research before moving to the next step.&lt;/p&gt;
+
+&lt;h2 id=&quot;define&quot;&gt;Define&lt;/h2&gt;
+
+&lt;p&gt;I identified recurring themes as I read academic journals and books on the topic. To keep track of my findings, I kept a research repository using Notion, where I recorded my takeaways, more details on the findings, and “key terms,” or words that frequently appeared in my readings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/research-repo.png&quot; alt=&quot;My research repository in Notion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest challenge was avoiding jumping to conclusions too soon. With reputable sources presenting multiple convincing findings, it was all too easy to get sidetracked and end up with numerous product ideas sprouting in every direction like dandelions in springtime.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/mind-map.png&quot; alt=&quot;My mind map of ideas&quot; /&gt;
+&lt;small&gt;My haphazard web of self-care ideas during the process.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;In this step, I gathered up my write ups and key terms, noted key observations and reactions, and defined my hypothesis statements. This exercise led me to some unexpected realizations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;While I expected self-care to be strongly linked to mindfulness, self-reflection, and stress management, I found that routines and habits played a more significant role than I anticipated.&lt;/li&gt;
+  &lt;li&gt;Contrary to my assumption that self-esteem would play a significant role in self-care, I discovered that self-compassion was a more common theme.&lt;/li&gt;
+  &lt;li&gt;Social support and prosocial activities also emerged as important means of caring for oneself, which reminded me of the Southern African philosophy of ubuntu: “a person is a person through other persons” or &lt;em&gt;umuntu ngumuntu ngabantu.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/word-cloud.png&quot; alt=&quot;Word cloud of frequent &amp;quot;key terms&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With these realizations, I formed several hypotheses and assumptions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Practicing routine self-care activities are more impactful than one-off “abortive treatments.”&lt;/li&gt;
+  &lt;li&gt;When it comes to self-care, people are more attuned to “abortive treatments” to stop feeling bad as negative emotions are happening instead of “routine treatments” to become more resilient.&lt;/li&gt;
+  &lt;li&gt;Practicing self-compassion is a key component in practicing self-care.&lt;/li&gt;
+  &lt;li&gt;Practicing care for others can facilitate self-care.&lt;/li&gt;
+  &lt;li&gt;People want a sense of connection and fulfillment, but they might not perceive this as a form of self-compassion or self-care.
+    &lt;ul&gt;
+      &lt;li&gt;How someone defines a sense of fulfillment can vary wildly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;People want to practice self-care. But they don’t know how and are employing different ways to “feel good.”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;chat&quot;&gt;Chat&lt;/h2&gt;
+
+&lt;p&gt;After developing initial hypotheses, I sought out people through channels like Meetup, Reddit, Discord, Lunchclub, local networking events, and speed friending events. Before each conversation, I defined 2-3 things I wanted to learn.&lt;/p&gt;
+
+&lt;p&gt;I started with these two:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How do people improve their emotional well-being in their daily lives?&lt;/li&gt;
+  &lt;li&gt;How do people start and maintain meaningful connections with others?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To prevent myself from making premature assumptions, I made a conscious effort to jot down direct quotes from my conversations with others and organized them on sticky notes in my Miro board. This was much more difficult with in-person conversations. I took multiple pauses to jot down notes during in-person conversations by saying, “Do you mind if I quickly write this down? I want to think more about what you just said,” before rapidly scribbling.&lt;/p&gt;
+
+&lt;p&gt;Overall, the “chat” step was the most difficult for me. You need to find an audience. You need to ask the right questions. You need to listen. You need to be open-minded. You need a little chutzpah to approach people and ask them personal questions–which means you need to be  vulnerable, too. It would be wildly unfair to go into these conversations as an interrogator.&lt;/p&gt;
+
+&lt;p&gt;The least obvious challenge was knowing when I had sufficient enough data to progress to the subsequent stage. To address this, I set up two criteria for myself. The first was when I began to hear similar responses from various individuals. The second was speaking with six people. Whichever condition I achieved first was a cue for me to move on. I made six the cutoff because having fewer participants would not offer a wide enough range of perspectives. On the other hand, talking to more people would require a significant investment of effort and time while providing diminishing returns on insights gained.&lt;/p&gt;
+
+&lt;h2 id=&quot;refine&quot;&gt;Refine&lt;/h2&gt;
+
+&lt;p&gt;During this step, I refined my understanding and hypotheses by gathering takeaways from my conversations with people, just like the “define” step where I gathered takeaways from my readings.&lt;/p&gt;
+
+&lt;p&gt;In this initial cycle of research-define-chat-refine, I had conversations with five people and gained valuable insights. These conversations highlighted that people crave “genuine, authentic, and meaningful” connections in their lives, but it’s challenging to find and sustain them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/findings.png&quot; alt=&quot;Snippet of my findings from conversations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Using these insights, I was able to discover a problem and validate some of my hypotheses. For example, I started with the hypothesis that “people want a sense of connection and fulfillment, but they might not perceive this as a form of self-compassion or self-care.” This evolved into “Interconnectivity can improve self-compassion, fulfillment, and actualization. But people are afraid and ashamed of connecting and maintaining connection.”&lt;/p&gt;
+
+&lt;h2 id=&quot;where-am-i-now&quot;&gt;Where am I now?&lt;/h2&gt;
+
+&lt;p&gt;I established a weekly cadence of research-define-chat-refine, dedicating 1-2 days to each step. I documented my findings on separate Miro boards for each week, resulting in a total of five boards encompassing my problem discovery efforts.&lt;/p&gt;
+
+&lt;p&gt;Through this iteration, I identified two key problems to further explore and develop solutions for. The first is how people can find interconnectivity while working a remote job so they don’t feel isolated and lonely. The second is how people can address the fear of rejection and shame often associated with forming and maintaining bonds.&lt;/p&gt;
+
+&lt;p&gt;Time to go make another Miro board!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Mar 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/case-study-on-problem-discovery</link>
+        <guid isPermaLink="true">https://kimbarros.com/case-study-on-problem-discovery</guid>
+        
+        <category>Startup</category>
+        
+        <category>Case-study</category>
+        
+        <category>Founder</category>
+        
+        <category>Product-management</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
+    
+      <item>
+        <title>Reasons why I am hesitant to share my ideas</title>
+        <description>&lt;p&gt;Lately, I found myself scrolling through startup forums and noticed a common theme. People are notoriously protective of their ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“My current concern is protecting my idea.”&lt;/li&gt;
+  &lt;li&gt;“I have a really unique product idea, but I’m worried the big players will steal the product.”&lt;/li&gt;
+  &lt;li&gt;“Should I copyright my idea before I approach investors?”&lt;/li&gt;
+  &lt;li&gt;“Can I get people to sign an NDA before I start talking about my ideas?”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I get it. I am, too.&lt;/p&gt;
+
+&lt;p&gt;If you’ve read any of my previous blog posts, you’ll find something suspiciously missing in my journey through problem discovery. I don’t mention the product ideas I’m currently pursuing. Why? Fear.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fear or rejection: what if someone thinks my idea is terrible and shoots it down?&lt;/li&gt;
+  &lt;li&gt;Fear of failure: what if my idea doesn’t work out and I look like an idiot?&lt;/li&gt;
+  &lt;li&gt;Fear of judgment: what if someone tears my idea apart and thinks less of my skills and expertise?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Despite the lizard brain and my defense kicking in, I know sharing ideas early and frequently is incredibly beneficial. By talking to other people, you can gain valuable insights and feedback that can help shape your idea into something more tangible.&lt;/p&gt;
+
+&lt;p&gt;As for idea thefts? Sure, you may be sitting on a revolutionarily unique idea (personally, this isn’t the case for me). But clever ideas still end up maturing in different forms. Ideas are a dime a dozen. Execution is everything.&lt;/p&gt;
+
+&lt;p&gt;So as a means of talking the talk and walking the walk, I’ll lead by example and share my own hypotheses and problem discovery work from the past month as a case study.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Mar 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/protecting-new-ideas</link>
+        <guid isPermaLink="true">https://kimbarros.com/protecting-new-ideas</guid>
+        
+        <category>Startup</category>
+        
+        <category>Personal-essay</category>
+        
+        <category>Founder</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
     
       <item>
         <title>Discovering hidden user insights (Part 2: how to talk to people)</title>
@@ -431,331 +585,6 @@ When I was doing this discovery work as my job, I took all the feedback in strid
         
         
         <category>Startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Pivoting my blog</title>
-        <description>&lt;p&gt;As soon as I started writing, I took a hiatus from contributing to my blog. Short story: I’m going to shelf my original intentions for this blog and shift my focus towards a different problem.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-happened&quot;&gt;What happened?&lt;/h2&gt;
-
-&lt;p&gt;My posts got some traction; I was happy that some of the newsletter signups came from people I’ve never met. I was on cloud nine when I had a chance to speak to them (they weren’t bots signing up!). Then I was crushed.&lt;/p&gt;
-
-&lt;p&gt;I reached out to the subscribers and asked, “How did you get here? Why did you sign up?” I expected their answers to be something like: “I’m a first time manager and wanted to see how I can be better.”&lt;/p&gt;
-
-&lt;p&gt;Instead, what I got was:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;“My manager doesn’t know what they’re doing. I hate waking up in the morning to go to work. I’m so frustrated and I wanted to see if what they’re doing is legit.”&lt;/li&gt;
-  &lt;li&gt;“I thought I could learn to manage up and make my manager better so they stop micromanaging me.”&lt;/li&gt;
-  &lt;li&gt;“I’ve never had a good manager and I want to know what a good manager looks like.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Well, shit. That’s not the target audience I had in mind.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;No matter. With the user interviews behind me, I decided to double down and see if there was a way to solve a newfound problem: how do you turn a turd manager into gold?&lt;/p&gt;
-
-&lt;p&gt;This led to countless problem statements, questions, and HBR articles. And I didn’t even consider the implications of gender and race! Needless to say, it was quite the mental gymnastics with hours of mind mapping. I’ll narrate my thought process in three parts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/rabbit-hole.jpg&quot; alt=&quot;Alice in Wonderland rabbit hole picture&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;part-1-exploration-of-organizational-paradigms&quot;&gt;Part 1: Exploration of organizational paradigms&lt;/h2&gt;
-
-&lt;p&gt;I stopped researching the topic shortly before considering gender and race implications around leadership. This is because I felt that there are practices, irrespective of social inequities, that need paradigm shifts to turn a turd manager into gold. I’ll name just two for brevity.&lt;/p&gt;
-
-&lt;h3 id=&quot;promotion-into-management&quot;&gt;Promotion into management&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/en/Peter_principle&quot; target=&quot;_blank&quot;&gt;The Peter principle&lt;/a&gt; posits that people are promoted based on their success in their previous role until they arrive at a role where they are incompetent and are no longer promoted. People peak at their level of incompetence, and, eventually, roles are occupied by employees who are incompetent at their job.&lt;/p&gt;
-
-&lt;p&gt;The problem is that to maintain stasis, you need the right amount of incompetence. You can’t be too incompetent. You’ll be fired. But if you’re too competent, that’s not great either. Too efficient at your job because you created Excel macros to automate the work then went off to a yoga class? Let’s hope your manager doesn’t get insecure, goes on a power trip, and enforces presenteeism. Rocking the hierarchy boat happens at either end of competence.&lt;/p&gt;
-
-&lt;h3 id=&quot;leadership-development&quot;&gt;Leadership development&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bloomleaders.com/blog/2018/10/9/interesting-statistics-about-effective-leadership&quot; target=&quot;_blank&quot;&gt;Only 5% of businesses have implemented leadership development at all levels&lt;/a&gt;. Ever the optimist, I hope that this number is higher since this research was published in 2015. Even with a whopping 400% increase, that’s only 25% of businesses cultivating leaders within their organizations. I’m optimistic, but I’m not 400%-increase optimistic.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;My takeaway is that many people are promoted into a manager role and not equipped to perform well.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So how do we hire the right person in the first place? How do we onboard them? How do we set the right expectations? How do we convey company goals? How do we relate the company mission to the leaders? How do we allocate responsibilities? How do we hold people accountable?&lt;/p&gt;
-
-&lt;p&gt;But, more importantly for the organization: “how do all these questions help hit our targets we’ve got now? Or, generously, a year from now?”&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(Note: as someone who set out to take a year off from the corporate world to retreat into reflecting, reading, and writing, let me say: a year is wicked short.)&lt;/em&gt; And therein lies the good ole’ paradigm that need shifting.&lt;/p&gt;
-
-&lt;p&gt;Problems that call for commitment towards effective development require long-term thinking in a short-sighted world. We want immediate gratification. I don’t want Prime later. &lt;a href=&quot;https://www.youtube.com/watch?v=BGEAiUeiaKs&amp;amp;t=68s&quot; target=&quot;_blank&quot;&gt;I want Prime now&lt;/a&gt;. And I hit a brick wall. I don’t know how to subdivide and tackle these problems.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-2-who-cares&quot;&gt;Part 2: Who cares?&lt;/h2&gt;
-
-&lt;p&gt;Under this massive “problem tree” canopy, one more node of notion started propagating. I don’t think enough people care about this problem. Here, I’m defining care in two different ways.&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;(&lt;em&gt;noun&lt;/em&gt;) Conscientious: Are there &lt;em&gt;serious attention and consideration being applied&lt;/em&gt; towards solving this problem? (By the way, throwing money at the problem is &lt;strong&gt;not&lt;/strong&gt; it.)&lt;/li&gt;
-  &lt;li&gt;(&lt;em&gt;verb&lt;/em&gt;) Foster: Is this problem &lt;em&gt;being looked after and tended&lt;/em&gt; to its needs?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This led me down a neighboring rabbit hole as I pondered about what it means to practice care and be caring.&lt;/p&gt;
-
-&lt;p&gt;For instance, do people generally care much at all in their daily lives? How often do people take time to consider how they might apply their attention towards something or someone they value? And do they frequently look after something and someone they cherish? &lt;strong&gt;When was the last time &lt;em&gt;you&lt;/em&gt; did something that may not be ideal to do now, but would be good for you much later?&lt;/strong&gt; If people aren’t even doing that for their loved ones as a part of their ritual, I don’t blame them for not extending care anywhere else.&lt;/p&gt;
-
-&lt;p&gt;“But wait!” you may interject as you read this. “Self-care has really taken off recently. We want to make sure we look after ourselves, so we can look after others and be more empathetic.”&lt;/p&gt;
-
-&lt;h2 id=&quot;part-3-bastardization-of-how-people-care&quot;&gt;Part 3: Bastardization of how people care&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/google-trend-self-care.png&quot; alt=&quot;Google Trends graph that shows an upward trend for people searching the term self-care&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It is true. Self-care is a topic that has gathered more interest over time. You can see that from the &lt;a href=&quot;https://trends.google.com/trends/explore?date=all&amp;amp;q=%2Fm%2F0cs1l4&quot; target=&quot;_blank&quot;&gt;Google Trends&lt;/a&gt; data shown above. Maybe that &lt;em&gt;does&lt;/em&gt; mean we’re more willing to exercise self-care (and by extension, practice some of its “sister” activities like self-reflection and self-compassion). In fact, you can find ways to practice self-care in many blog posts these days. I’ll include some below.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Spa day with exfoliating scrub, face mask, and hair mask!&lt;/li&gt;
-  &lt;li&gt;Get mani-pedi to feel more put together!!&lt;/li&gt;
-  &lt;li&gt;Get a haircut!!!&lt;/li&gt;
-  &lt;li&gt;Take a long, hot shower!!!!&lt;/li&gt;
-  &lt;li&gt;Watch your favorite movie!!!!&lt;/li&gt;
-  &lt;li&gt;Do sudoku or a crossword puzzle!!!!!&lt;/li&gt;
-  &lt;li&gt;A bubble bath with a glass of wine!!!!!!&lt;/li&gt;
-  &lt;li&gt;Wear cozy sweaters!!!!!!!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/self-care-trending-pics.png&quot; alt=&quot;Collection of images that describe self-care&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m not vilifying these activities. &lt;strong&gt;It’s good to self-indulge.&lt;/strong&gt; I put on my face mask and watched clips of the &lt;em&gt;Twilight&lt;/em&gt; saga so I could mock the atrocities unfolding on the screen just last night. &lt;strong&gt;But self-indulge does not make for self-care.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Real self-care isn’t massages and green juices; it’s choosing to create a life that you don’t feel the need to regularly check out of.”
-&lt;cite&gt; -From &lt;a href=&quot;https://www.psychologytoday.com/us/blog/your-emotional-meter/202104/what-it-really-means-take-care-yourself&quot; target=&quot;_blank&quot;&gt;Psychology Today&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And so, after the months-long expedition down the rabbit holes, I finally reached my destination (maybe a layover? Because this may just be a connecting flight). &lt;strong&gt;I want to figure out how people can truly self-care.&lt;/strong&gt; Not the flashy Instagram story of someone mashing up avocados and putting kale into a blender with #selfcare. I mean figuring out &lt;em&gt;a way for people to take small moments in their day to intentionally, attentively, and consistently exercise self-care.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;With this new goal in mind, I’m also shifting the focus of my blog from its original focus to chronicle my process towards the new problem I plan on chasing. In doing so, I am hoping to kill two birds with one stone by adding one more job: There have been many times in my career when I wanted relatable and practical advice for product management. But so much product management literature is fluff. People don’t benefit from an aimless, self-promotional blurb posted on LinkedIn, Medium, or Twitter. Frameworks are nice to see, but seeing how it can apply in real life helps a heck of a lot more. So maybe my process, warts and all, may prove to be more applicable to some.&lt;/p&gt;
-
-&lt;p&gt;At the very least, the blog will prove to be an effective way for future employers to review my candidacy. I’ll be sure to drop these 🚩in the posts so you can just Ctrl-F for it. You’re welcome.&lt;/p&gt;
-
-&lt;p&gt;🚩 &lt;em&gt;Too sarcastic. May not take things seriously enough.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/pivoting-towards-0-1-product</link>
-        <guid isPermaLink="true">https://kimbarros.com/pivoting-towards-0-1-product</guid>
-        
-        <category>Management</category>
-        
-        <category>Personal-essay</category>
-        
-        
-        <category>Management</category>
-        
-      </item>
-    
-      <item>
-        <title>103 One-on-one questions</title>
-        <description>&lt;p&gt;In my &lt;a href=&quot;/one-on-one-with-examples&quot; target=&quot;_blank&quot;&gt;previous post on how to hold one-on-ones&lt;/a&gt;, I abstracted different conversations that may come up into categories and types. As a refresher, I’ve noted them again here.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Categories&lt;/th&gt;
-      &lt;th&gt;Types&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Check-in&lt;/td&gt;
-      &lt;td&gt;Work progress&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Check-in&lt;/td&gt;
-      &lt;td&gt;Employee engagement&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Check-in&lt;/td&gt;
-      &lt;td&gt;Mental and physical well-being&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Discussions&lt;/td&gt;
-      &lt;td&gt;Company and team goals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Discussions&lt;/td&gt;
-      &lt;td&gt;Relationship management&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Feedback&lt;/td&gt;
-      &lt;td&gt;Continued growth and development&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Feedback&lt;/td&gt;
-      &lt;td&gt;Performance goals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Feedback&lt;/td&gt;
-      &lt;td&gt;Upward to manager&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Feedback&lt;/td&gt;
-      &lt;td&gt;Upward to organization&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Based on this distillation, I’ve put together 103 questions that can be used in your one-on-ones with your direct report. If you’d like more actionable posts to add to your manager toolkit, &lt;a href=&quot;https://airtable.com/shrqyi0V7M1NZC58L&quot; target=&quot;_blank&quot;&gt;subscribe to receive notifications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;work-progress-check-in&quot;&gt;Work progress check-in&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How are you doing?&lt;/li&gt;
-  &lt;li&gt;How was the past week/2-weeks/month?&lt;/li&gt;
-  &lt;li&gt;What’s been the most exciting progress you’ve made?&lt;/li&gt;
-  &lt;li&gt;What’s been the most frustrating experience in the past week/2 weeks/month? How can I help? What can we start or stop doing to make it less frustrating?&lt;/li&gt;
-  &lt;li&gt;What are the roadblocks you’re stuck on?&lt;/li&gt;
-  &lt;li&gt;What’s getting in the way of making your work easier (e.g., clunky processes, too many tasks to juggle at once, slow decision making)?&lt;/li&gt;
-  &lt;li&gt;What’s your biggest time suck?&lt;/li&gt;
-  &lt;li&gt;Do you feel comfortable asking for help? Why or why not?&lt;/li&gt;
-  &lt;li&gt;When was the last time you wished you had some help, but didn’t get it? What happened?&lt;/li&gt;
-  &lt;li&gt;What can I do to help?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;engagement-check-in&quot;&gt;Engagement check-in&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;What do you least prefer doing? Why?&lt;/li&gt;
-  &lt;li&gt;What keeps you engaged and energized? Why?&lt;/li&gt;
-  &lt;li&gt;What do you do when you’re not as engaged or energized?&lt;/li&gt;
-  &lt;li&gt;Do you feel like you have enough agency to work independently? How can we empower you further?&lt;/li&gt;
-  &lt;li&gt;Do you feel like you have enough time to reflect on your work? Tell me more.&lt;/li&gt;
-  &lt;li&gt;Do you feel challenged at work? In what way? How do you feel about those challenges?&lt;/li&gt;
-  &lt;li&gt;Do you feel heard?&lt;/li&gt;
-  &lt;li&gt;When is the last time you’ve seen changes in the team/organization based on what you and others have voiced?&lt;/li&gt;
-  &lt;li&gt;Do you feel respected?&lt;/li&gt;
-  &lt;li&gt;Are there any discussions you feel you should be included in but are missing out on?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;well-being-check-in&quot;&gt;Well-being check-in&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Are you happy here?&lt;/li&gt;
-  &lt;li&gt;Are you happy with your current work?&lt;/li&gt;
-  &lt;li&gt;How would you rate your work/life balance right now?&lt;/li&gt;
-  &lt;li&gt;Is your current pace of work sustainable?&lt;/li&gt;
-  &lt;li&gt;What’s something we can change at work that would drastically improve your quality of life?&lt;/li&gt;
-  &lt;li&gt;Are you taking any time off soon to unwind?&lt;/li&gt;
-  &lt;li&gt;Do you have sufficient time blocked off in the day to work without distractions?&lt;/li&gt;
-  &lt;li&gt;Are there any meetings that I can take off your plate? Or remove entirely?&lt;/li&gt;
-  &lt;li&gt;What can I do to reduce Sunday scaries?&lt;/li&gt;
-  &lt;li&gt;Have you had enough down time to do something you enjoy outside of work?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;group-goals-discussion&quot;&gt;Group goals discussion&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How do you think our team is bringing value?&lt;/li&gt;
-  &lt;li&gt;Tell me how we’ve set our objectives. Does it make sense?&lt;/li&gt;
-  &lt;li&gt;How do you think our previous objectives went? Do you think we achieved what we set out to do?&lt;/li&gt;
-  &lt;li&gt;Let’s review the company and team roadmap, objectives, and priorities. (Okay, so this isn’t really a question, but important nonetheless!)&lt;/li&gt;
-  &lt;li&gt;Based on your understanding of the roadmap/objectives/priorities, what do you think are the next steps?&lt;/li&gt;
-  &lt;li&gt;Are you clear on how your role fits into the group goals?&lt;/li&gt;
-  &lt;li&gt;Are the expectations clear and realistic?&lt;/li&gt;
-  &lt;li&gt;What are your takeaways on the most important work our team must do?&lt;/li&gt;
-  &lt;li&gt;Do you feel connected to the company and team goals? How so?&lt;/li&gt;
-  &lt;li&gt;What are some things I can help clarify?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;relationship-management-discussion&quot;&gt;Relationship management discussion&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How do you feel about working with [teammates]?&lt;/li&gt;
-  &lt;li&gt;Who’s the most difficult to work with? Why?&lt;/li&gt;
-  &lt;li&gt;Who’s the easiest to work with? Why?&lt;/li&gt;
-  &lt;li&gt;How do you feel about collaboration with your teammates/stakeholders?&lt;/li&gt;
-  &lt;li&gt;Is everyone contributing to the work?&lt;/li&gt;
-  &lt;li&gt;Do you feel like you’re on the same page with your teammates?&lt;/li&gt;
-  &lt;li&gt;What’s the most difficult part of working with the team?&lt;/li&gt;
-  &lt;li&gt;What are some things I and/or the other managers can do to make this project easier for everyone involved?&lt;/li&gt;
-  &lt;li&gt;What do you need from your teammates/stakeholders to keep you motivated at work?&lt;/li&gt;
-  &lt;li&gt;Do you receive timely and clear feedback from your peers and stakeholders?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;continued-growth-and-development&quot;&gt;Continued growth and development&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;I’m curious about [an action or a decision taken]. Can you take me through your thought process?&lt;/li&gt;
-  &lt;li&gt;What are some other things you can do next time?&lt;/li&gt;
-  &lt;li&gt;How do you like to receive feedback?&lt;/li&gt;
-  &lt;li&gt;Do you feel like you’re receiving enough feedback?&lt;/li&gt;
-  &lt;li&gt;What is the last feedback you got from me that stuck with you? Why did it stick? What can I do to give you similar feedback going forward?&lt;/li&gt;
-  &lt;li&gt;Do you have any concerns when it comes to opportunities you have here?&lt;/li&gt;
-  &lt;li&gt;What are some skills you’d like to develop?&lt;/li&gt;
-  &lt;li&gt;What are some experiences you’d like to be exposed to?&lt;/li&gt;
-  &lt;li&gt;Do you feel like you’ve had enough time to upskill in the last week/month/quarter/year?&lt;/li&gt;
-  &lt;li&gt;When was the last time you had a chance to upskill?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;performance-goals&quot;&gt;Performance goals&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How are you tracking your goals?&lt;/li&gt;
-  &lt;li&gt;How are you progressing with your goals?&lt;/li&gt;
-  &lt;li&gt;Are there any roadblocks you’re facing with your goals?&lt;/li&gt;
-  &lt;li&gt;Do the short-term goals still seem reasonable?&lt;/li&gt;
-  &lt;li&gt;How do you feel about your long-term goals?&lt;/li&gt;
-  &lt;li&gt;What part of your current job is most relevant to your long-term goals?&lt;/li&gt;
-  &lt;li&gt;What kind of opportunities can we discuss that can bring you closer to your long-term goals?&lt;/li&gt;
-  &lt;li&gt;What are your goals for the next quarter/year?&lt;/li&gt;
-  &lt;li&gt;What outcomes do you want to realize in 2/5/10 years?&lt;/li&gt;
-  &lt;li&gt;What can we start, continue, or stop doing to help you achieve your long-term goals?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;manager-feedback&quot;&gt;Manager feedback&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How can I better support you?&lt;/li&gt;
-  &lt;li&gt;Tell me the last time I said something that didn’t make sense. What happened?&lt;/li&gt;
-  &lt;li&gt;Do you find my communication simple and easy to understand? If not, what can I improve?&lt;/li&gt;
-  &lt;li&gt;Do you feel that I’m providing you with enough context on our company and team’s vision, mission, and objectives?&lt;/li&gt;
-  &lt;li&gt;Have I made goals and expectations clear for you?&lt;/li&gt;
-  &lt;li&gt;Do you feel empowered?&lt;/li&gt;
-  &lt;li&gt;Do you feel like we’ve spent enough time discussing your career development?&lt;/li&gt;
-  &lt;li&gt;When was the last time you felt lost? What could I have done to help?&lt;/li&gt;
-  &lt;li&gt;What can I start, continue, and stop doing to improve our relationship?&lt;/li&gt;
-  &lt;li&gt;What is your ideal management style? What’s one thing I can do now to mirror your ideal style?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;organization-feedback&quot;&gt;Organization feedback&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How can the company better support you?&lt;/li&gt;
-  &lt;li&gt;Do you find the company town halls/all-hands to be inspiring? Do you leave with a clear understanding of where we’re going as an organization?&lt;/li&gt;
-  &lt;li&gt;Do you have the right equipment and support needed to succeed at your job?&lt;/li&gt;
-  &lt;li&gt;What are your favorite parts of our company culture? Team culture?&lt;/li&gt;
-  &lt;li&gt;Are there any “traditions” you’ve seen in other teams or companies that would be great to adopt here?&lt;/li&gt;
-  &lt;li&gt;What’s your biggest gripe about our company? Our team?&lt;/li&gt;
-  &lt;li&gt;Do you feel like the organization takes your opinion seriously?&lt;/li&gt;
-  &lt;li&gt;What can our team start/continue/stop doing to be more effective?&lt;/li&gt;
-  &lt;li&gt;What does your ideal company or team culture look like?&lt;/li&gt;
-  &lt;li&gt;What do you think is our biggest problem at this organization?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;water-cooler-chat&quot;&gt;Water cooler chat&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;How’s life?&lt;/li&gt;
-  &lt;li&gt;What’s the most exciting thing happening outside of work?&lt;/li&gt;
-  &lt;li&gt;When is your next vacation? What will you do? Or what do you want to do?&lt;/li&gt;
-  &lt;li&gt;What’s the last movie/book/podcast/song you enjoyed?&lt;/li&gt;
-  &lt;li&gt;How’s your fur/plant/human baby?&lt;/li&gt;
-  &lt;li&gt;How’s your [insert hobby] going?&lt;/li&gt;
-  &lt;li&gt;Is a hotdog a sandwich?&lt;/li&gt;
-  &lt;li&gt;What’s your opinion on Hawaiian pizza?&lt;/li&gt;
-  &lt;li&gt;Are fruits legitimate toppings for an ice cream sundae?&lt;/li&gt;
-  &lt;li&gt;What’s the best style of pizza?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I pulled these questions from old questions I’ve asked at work before. I’m seeing a pattern here: I love food and I like to sow mild discord.&lt;/p&gt;
-
-&lt;h2 id=&quot;recurring-questions&quot;&gt;Recurring questions&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Any follow-ups from our last one-on-one?&lt;/li&gt;
-  &lt;li&gt;What do I need to do before our next one-on-one?&lt;/li&gt;
-  &lt;li&gt;What do you need to do before our next one-on-one?&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Thu, 21 Apr 2022 00:00:00 -0400</pubDate>
-        <link>https://kimbarros.com/103-one-on-one-questions</link>
-        <guid isPermaLink="true">https://kimbarros.com/103-one-on-one-questions</guid>
-        
-        <category>Management</category>
-        
-        <category>How-to</category>
-        
-        
-        <category>Management</category>
         
       </item>
     
