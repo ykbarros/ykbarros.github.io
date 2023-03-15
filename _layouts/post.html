@@ -47,7 +47,7 @@ post_class: post-template
         {% if site.mailchimp_url %}
             {% include newsletter-box.html %}
         {% endif %}
-        <!--Insert include mvp-newsletter-box.html here if you want MVP vers. from AirTable-->
+        {% include mvp-newsletter-box.html %}
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
             {% if page.previous.url %}
