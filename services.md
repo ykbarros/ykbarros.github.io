@@ -2,7 +2,7 @@
 layout: page
 title: Product consultant and coach for companies looking to establish a product team
 ---
-### I help business leaders transition from fractional product management to building a confident and established product team.
+### I help businesses transition from fractional product management to building a confident and established product team.
 
 [Get in touch with me](https://kimbarros.com/contact){: .button}
 

@@ -32,6 +32,9 @@ post_class: post-template
                 <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
             </div>
             {% endif %}
+            <div class="post-content">
+                {{content}}
+            </div>
             <footer class="post-footer">
                 <div class="post-share">
                     <span class="post-share-title">Share this article:</span>
@@ -44,7 +47,6 @@ post_class: post-template
         {% if site.mailchimp_url %}
             {% include newsletter-box.html %}
         {% endif %}
-        {% include mvp-newsletter-box.html %}
         <!--Insert include mvp-newsletter-box.html here if you want MVP vers. from AirTable-->
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
