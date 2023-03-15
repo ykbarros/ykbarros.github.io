@@ -1,6 +1,6 @@
 # Site setings
 name: 'Yeji Kim-Barros'
-description: 'Product Manager'
+description: 'The Product Person'
 meta_description: 'Blog and services around product management'
 baseurl: "" # the subpath of your site, e.g. /blog/
 production_url: "https://kimbarros.com" # the base hostname & protocol for your site

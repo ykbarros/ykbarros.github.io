@@ -5,17 +5,17 @@ tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/dne-zone.jpg
-featured: true
+featured: false
 hidden: false
 ---
-Lately, I found myself scrolling through startup forums and noticed a common theme:
+Lately, I found myself scrolling through startup forums and noticed a common theme. People are notoriously protective of their ideas.
 
 - “My current concern is protecting my idea.”
 - “I have a really unique product idea, but I’m worried the big players will steal the product.”
 - “Should I copyright my idea before I approach investors?”
 - “Can I get people to sign an NDA before I start talking about my ideas?”
 
-I get it. People are notoriously protective of their ideas. I am, too.
+I get it. I am, too.
 
 If you’ve read any of my previous blog posts, you’ll find something suspiciously missing in my journey through problem discovery. I don’t mention the product ideas I’m currently pursuing. Why? Fear.
 
