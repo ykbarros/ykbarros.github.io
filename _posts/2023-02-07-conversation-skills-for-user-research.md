@@ -5,7 +5,7 @@ tags: [Startup, How-to, Founder, Product-design]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/networking-chatters.jpg
-featured: true
+featured: false
 hidden: false
 ---
 I attended a local networking event to meet new people for my undercover problem discovery work. My primary goal was to get people talking and learn about their current struggles and how they’re trying to solve them.

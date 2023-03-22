@@ -5,7 +5,7 @@ tags: [Startup, How-to, Founder, Product-design]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/undercover-outfit.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
