@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "I am going slow to go fast",
+      "category" : "",
+      "tags"     : "Startup, Personal-essay, Founder, Product-management",
+      "url"      : "/going-slow-to-go-fast",
+      "date"     : "March 22, 2023"
+    } ,
+  
+    {
       "title"    : "Case study on a 4-step process towards problem discovery",
       "category" : "",
       "tags"     : "Startup, Case-study, Founder, Product-management",
