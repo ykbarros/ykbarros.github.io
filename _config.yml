@@ -11,7 +11,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'AuthorImage.png'
-  greetings: "I help startups transition from founder-led product management to building a strong product team."
+  greetings: "Product Intuition Consultant & Coach"
 favicon: 'assets/images/favicon.ico'
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
@@ -23,7 +23,7 @@ google:
     container_id: GTM-WM9PWMJ
 # Contact form settings
 email: yeji@kimbarros.com
-contact_page_description: "Want to know how I can help with your emerging product team? Or dropping by to say hello?
+contact_page_description: "Want to know how I can help? Or dropping by to say hello?
 Fill out the contact form or email yeji @ kimbarros.com. I'll get back to you within 24 hours."
 
 thankyou_page_description: "Thanks for your message. I'll get back to you within 24 hours. Cheers!"
@@ -43,14 +43,12 @@ quora: #'username'
 navigation:
   - text: Home
     url: /
-  - text: Services
-    url: /services
-  - text: Search
-    url: /search
   - text: About
     url: /about
   - text: Contact Me
     url: /contact
+  - text: Search Posts
+    url: /search
 
 # Required Plugins
 plugins_dir:
