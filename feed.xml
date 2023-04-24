@@ -5,9 +5,69 @@
     <description>The Product Person</description>
     <link>https://kimbarros.com/</link>
     <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2023 13:27:56 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2023 13:27:56 -0400</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2023 16:23:04 -0400</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2023 16:23:04 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>I am going slow to go fast</title>
+        <description>&lt;p&gt;Going fast and breaking things has become a ubiquitous phrase in product management, akin to the widely adopted Agile Manifesto. In fact, there are so many variations of this mindset. Fail fast and learn faster. Speed is a currency. Time to market is everything. Iterate quickly. Rapid prototyping. And so it goes.&lt;/p&gt;
+
+&lt;p&gt;In this need for speed, I’ve seen a lot of shortcuts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“You don’t need to talk to the users. Our team is the voice of the customer, and we’ve collected NPS results already.”&lt;/li&gt;
+  &lt;li&gt;“We have to be agile. Start making some bets, build, and ship something so we can start learning.”&lt;/li&gt;
+  &lt;li&gt;“Our competitors have already built it this way. This is the industry standard, and we’re already behind. If we don’t have the resources, I’ll find consultants on UpWork.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These aren’t truly agile, nor are they failing fast in order to learn and iterate. They’re just failing. It just feels palatable because it’s justified with Silicon Valley phrases and complete disregard for the survivorship bias.&lt;/p&gt;
+
+&lt;p&gt;The temptations to justify and succumb to the shortcuts are high. Even as I work on my personal project, I need to intentionally suppress the urges to skip the discovery process and beeline to a conclusion to show the world I’ve made meaningful, impressive progress: a &lt;em&gt;visible, tangible&lt;/em&gt; progress.&lt;/p&gt;
+
+&lt;p&gt;My antidote to meaningfully slowing down and appreciating the process is to reflect on the frequent shortcuts that have plagued my product development processes in the past. By doing so, I can take proactive steps to prevent these skips from occurring and ensure a more successful outcome for my current project.&lt;/p&gt;
+
+&lt;p&gt;In my experience, these are the steps that are frequently cut in a product development process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Discovery&lt;/strong&gt;: research and understanding user problems.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;User testing and iterative design&lt;/strong&gt;: designing; testing through product validation with real users on the usability, functionality, and user experience; and refining the product in multiple iterations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;QA and testing&lt;/strong&gt;: testing the product for quality and ensuring that it meets requirements and specifications.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Documentation and postmortem analysis:&lt;/strong&gt; analyzing the iteration, identifying areas of learning and improvement, and documenting for reference.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For my current project, I’m straddling between the discovery, user testing, and iterative design phases. I’ve been feeling self-conscious when asked, “So you don’t have a concrete solution?” or, “So you’ve just been talking to people?”&lt;/p&gt;
+
+&lt;p&gt;Here’s my pep talk I give myself:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I chose not to skip the discovery phase despite being told that “building a product is all about making bets.” Making product bets isn’t a shorthand to forgo the discovery phase.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Making bets not about declaring, “This is my belief. It may or may not work, and I’m going to bet on it to find out.” Instead it’s, “Here are all the potential possibilities of how this might shake out, and based on some limited information I have, I’m going to go down this path.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The discovery phase allows me to take calculated risks. The discovery phase increases the odds of winning the bets I make.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is an invisible step to many, but it’s an important step for me.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Living up to a core set of values is difficult. I’m often struggling to stick to them. I’m tempted daily to dismiss and downplay the discovery work I’ve done over the past three months because I don’t have a tangible product to show for it. Perhaps you feel the same way as you build out your product or your business.&lt;/p&gt;
+
+&lt;p&gt;But I want to acknowledge and appreciate all the failed paper prototypes and ideas I’ve scrapped along the way, as they have refined my betting process and brought me closer to a viable solution: thank you, failures.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Mar 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/going-slow-to-go-fast</link>
+        <guid isPermaLink="true">https://kimbarros.com/going-slow-to-go-fast</guid>
+        
+        <category>Startup</category>
+        
+        <category>Personal-essay</category>
+        
+        <category>Founder</category>
+        
+        <category>Product-management</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
     
       <item>
         <title>Case study on a 4-step process towards problem discovery</title>
@@ -539,49 +599,6 @@ When I was doing this discovery work as my job, I took all the feedback in strid
         <category>Personal-essay</category>
         
         <category>Founder</category>
-        
-        
-        <category>Startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Avoiding the shiny object syndrome</title>
-        <description>&lt;p&gt;I have always said, “Ideas are easy. Execution is what matters,” countless times. When I was working as a product manager, I was good at ruthlessly prioritizing the minimum valuable product in spite of ambiguity. One of my big product practice crusades has been around scope creep. You can’t front load everything and chase every idea all at once. Because if everything is important, then nothing is important.&lt;/p&gt;
-
-&lt;p&gt;So why is it so hard right now? Never mind scope creep on one idea. I keep branching into multiple product ideas that are so disparate that I’ve found myself on WebMD and Psychology Today to check if I have adult-onset ADHD. I’m convinced I at least have a mild case of “I can’t get into a flow and do one thing for a long time because I threw discipline out the window after high school.” It doesn’t roll off the tongue like ADHD.&lt;/p&gt;
-
-&lt;p&gt;My theory on why I can’t follow through at the moment is as follows. Working as a product person at a company, I work with the company vision. No matter how ambiguous the product vision and roadmap might be, I have an inkling of where I need to get to eventually. Without this focus, I’m turning my attention towards every problem that I am passionate about.&lt;/p&gt;
-
-&lt;h2 id=&quot;heuristics-for-attention-prioritization&quot;&gt;Heuristics for attention prioritization&lt;/h2&gt;
-
-&lt;p&gt;To help focus, I spent some time thinking about how to prioritize my attention today. And I’ve decided to borrow some of my heuristics from the kitchen.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Front-burner&lt;/strong&gt;: This is the main meal I’m cooking right now. It’s the primary project that is receiving my attention because it’s on power boil.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Back-burner&lt;/strong&gt;: This is the side dish I’ve got on simmer. It’s a secondary project that may get my attention once in awhile because I gotta stir it occasionally.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pantry&lt;/strong&gt;: This stores anything and everything from pots and pans to my unopened tub of gochujang and my extra jar of cornichon. It’s miscellaneous references, fleeting ideas, inspirational podcasts, and any other random thoughts that may be used in my meal—or used to cook a whole new meal down the line.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Compost&lt;/strong&gt;: This is the disposal. In goes whatever that spoiled in the pantry or if I burnt the food. It’s abandoned ideas that I will choose not to pursue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2022/yejiwork-organization.png&quot; alt=&quot;My work prioritized and organized in notion&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With this mental model in mind, I was able to comb through a list of 70-something ideas that I had jotted down. Most have now been shelved in the pantry or chucked away into the compost bin. I’ve decided to add on side dish to the back-burner, though. I’ve always been passionate about all things analog; so I want to try making stationery. Yes, it’s a saturated market. Yes, it’ll likely lead to nowhere. So why am I toiling with this?&lt;/p&gt;
-
-&lt;p&gt;First, I want to use my time doing something I enjoy. Both as a product creator and as a user. I feel grateful that I’m currently in a weird limbo where I don’t feel &lt;em&gt;compelled&lt;/em&gt; to be productive and to produce outputs all the damn time. So I’ll capitalize on this moment. I’ll eventually have to figure out how to bring in income to live my life. But for now, I’ll happily work on my entrepreneurial discipline and routine by building something I enjoy.&lt;/p&gt;
-
-&lt;p&gt;Second, I’ve only ever managed digital product. The extra side dish I’m whipping up is a physical product. It’ll be interesting to explore how product validations compare and contrast between physical and digital product management. And the shininess of the new challenge also intrigues me, too.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Nov 2022 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/avoiding-the-shiny-object-syndrome</link>
-        <guid isPermaLink="true">https://kimbarros.com/avoiding-the-shiny-object-syndrome</guid>
-        
-        <category>Startup</category>
-        
-        <category>Framework</category>
-        
-        <category>Founder</category>
-        
-        <category>Project-management</category>
         
         
         <category>Startup</category>
