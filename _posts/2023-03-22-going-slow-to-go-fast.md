@@ -5,7 +5,7 @@ tags: [Startup, Personal-essay, Founder, Product-management]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/slow-for-fast.png
-featured: true
+featured: false
 hidden: false
 ---
 Going fast and breaking things has become a ubiquitous phrase in product management, akin to the widely adopted Agile Manifesto. In fact, there are so many variations of this mindset. Fail fast and learn faster. Speed is a currency. Time to market is everything. Iterate quickly. Rapid prototyping. And so it goes.
