@@ -5,9 +5,56 @@
     <description>The Product Person</description>
     <link>https://kimbarros.com/</link>
     <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 May 2023 15:27:43 -0400</pubDate>
-    <lastBuildDate>Sat, 06 May 2023 15:27:43 -0400</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 18:09:11 -0400</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 18:09:11 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Pivoting direction without a single line of code</title>
+        <description>&lt;p&gt;I was determined and inspired by the vision of creating meaningful connections and combating the pervasive issue of loneliness. Instead of building a solution, I defined the target audience and what problem I wanted to solve. This led me to conversations with potential early adopters to explore their needs and challenges.&lt;/p&gt;
+
+&lt;p&gt;To do this, I went old school: Markers, crayons, pen, and paper to create paper prototypes.&lt;/p&gt;
+
+&lt;p&gt;During the testing phase, I stumbled upon a different problem, leading me to reevaluate my original direction. I want to share my journey of product discovery, insights gained from my exploration, and why I made the decision to pivot away from my initial idea.&lt;/p&gt;
+
+&lt;h2 id=&quot;chasing-and-validating-my-north-star&quot;&gt;Chasing and validating my north star&lt;/h2&gt;
+
+&lt;p&gt;At the heart of my vision was the desire to build a platform that fostered authentic human connections and helped individuals combat the profound sense of loneliness prevalent in today’s digital age.&lt;/p&gt;
+
+&lt;p&gt;Initially, I believed that remote workers would be the ideal early adopters for my platform. With the increasing number of workers transitioning to remote setups, the traditional water cooler conversations that often foster friendships were fading away. I saw an opportunity to bridge the gap and create a sense of local connection among remote workers. However, as I engaged with potential users and tested my prototypes, I discovered a more pressing problem that most remote workers faced: the utility of networking for securing new job opportunities or acquiring clients.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-misalignment-and-the-decision-to-pivot&quot;&gt;The misalignment and the decision to pivot&lt;/h2&gt;
+
+&lt;p&gt;This revelation forced me to address the misalignment between the problem I uncovered and my vision of combating loneliness through meaningful relationships. While the networking issue was urgent and had its own merits, it didn’t directly address the deeper issue I initially set out to solve. This realization prompted me to reevaluate my direction and consider the insights from the references I had explored.&lt;/p&gt;
+
+&lt;p&gt;In light of the misalignment, I found myself at a crossroads: should I pivot towards the new, “hair on fire” problem or stay true to my original vision of combatting loneliness through meaningful connections?Ultimately, my true passion lies in authentic connections and addressing the core issue of loneliness; pursuing a different problem would dilute my purpose and impact. So I decided to pivot away from my idea to realign with my core mission.&lt;/p&gt;
+
+&lt;h2 id=&quot;giving-up-perseverance-and-staying-grounded&quot;&gt;Giving up, perseverance, and staying grounded&lt;/h2&gt;
+
+&lt;p&gt;This reads like an admission of defeat. After all, I’m left with receipts from Starbucks gift cards, paper prototypes, and a declaration that I’m putting an end to my current endeavor by pivoting away.&lt;/p&gt;
+
+&lt;p&gt;And I see this as a big win for me.&lt;/p&gt;
+
+&lt;p&gt;We love the hero’s journey who triumphs through it all. Their unwavering grit, tenacity, and perseverance against adversity. But spotting the unworkable that lies somewhere between your dreams, fears, and reality is a valuable trait.&lt;/p&gt;
+
+&lt;p&gt;So, as I conclude another chapter on what some may call failure, I’m going to embrace the valuable lessons learned, the insights gained, and the resilience that drives me forward. And remind myself: while it feels like I’m a failure now, this will lead to a different opportunity to create something truly impactful.&lt;/p&gt;
+
+&lt;p&gt;Failure isn’t a final destination. It’s just a stepping stone on the path to growth and discovery. And by letting go, I can open up and shape my journey in unexpected ways.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 May 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/pivoting-on-an-idea</link>
+        <guid isPermaLink="true">https://kimbarros.com/pivoting-on-an-idea</guid>
+        
+        <category>Startup</category>
+        
+        <category>Personal-essay</category>
+        
+        <category>Founder</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
     
       <item>
         <title>A story on differentiation gone wrong</title>
@@ -581,59 +628,6 @@ When I was doing this discovery work as my job, I took all the feedback in strid
         <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
         <link>https://kimbarros.com/traditional-product-plans-ruin-startups</link>
         <guid isPermaLink="true">https://kimbarros.com/traditional-product-plans-ruin-startups</guid>
-        
-        <category>Startup</category>
-        
-        <category>Personal-essay</category>
-        
-        <category>Founder</category>
-        
-        
-        <category>Startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Why orgcharts matter at startups</title>
-        <description>&lt;p&gt;Starting a new venture requires getting a lot of things done. This means spinning several plates on any given day. You may have to sketch your ideas on paper one minute and talk to friends and family for angel investments the next. Spinning plates is impressive but exhausting. Creating an organizational chart helps to bring order to the plate spinning.&lt;/p&gt;
-
-&lt;h2 id=&quot;in-the-early-stage-you-can-see-what-youre-getting-into&quot;&gt;In the early stage, you can see what you’re getting into&lt;/h2&gt;
-
-&lt;p&gt;One of the best ways to size up a task at hand is to think backwards. Visualize what the end state will be and consider what is necessary to get to it. Rinse and repeat the process until you get to a smaller, bite-sized task.&lt;/p&gt;
-
-&lt;p&gt;For example, if you’re going to host Friendsgiving, visualize what the event looks like. Eight friends gathered together, sharing a meal and playing games. For the meal, how much food is necessary? Once you have that figured out, how long will it take to prepare? If it’s too much on your own, then you can think of different solutions. Find a place that sells pre-made meal kits. Make it a potluck. Ask people to come earlier and help.&lt;/p&gt;
-
-&lt;p&gt;Thinking backwards show up in multiple places. When I practice where to put flourishes in my handwriting, I first write out the words and visualize where I will flourish first before jumping straight in.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/ty-calligraphy.jpg&quot; alt=&quot;My calligraphy practice page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Solutions and ideas open up once you know what you’re getting yourself into.&lt;/p&gt;
-
-&lt;p&gt;Drawing up the orgchart is an exercise that assists you in thinking backwards. By drawing boxes and lines, you are able to visualize the different plates that exist. Before you jump into the deep end, orgcharts allow you to size up your venture and ask “am I ready to take this on?”&lt;/p&gt;
-
-&lt;h2 id=&quot;in-the-growth-stage-you-can-scale-without-hiring-mind-readers&quot;&gt;In the growth stage, you can scale without hiring mind readers&lt;/h2&gt;
-
-&lt;p&gt;Let’s say diligence and luck pays off, and you’re in the growth stage. You can’t handle all the plates at this point. So which plate do you hand off? And how?&lt;/p&gt;
-
-&lt;p&gt;The need to be in control is no joke. I’ve had colleagues who refer to their products as their “baby.” Even as they move up the ladder, I’ve seen egos bruised as their baby grows without them. I imagine this is worse when it’s your own pet project.&lt;/p&gt;
-
-&lt;p&gt;With an organizational chart, you can remove yourself from the equation. First, you can look at the chart to identify areas bottlenecking growth. Second, you can define what kind of roles exist within those areas so you know who to hire. Third, you can define expectations for the roles so the new hires know what they’re expected to do.&lt;/p&gt;
-
-&lt;h2 id=&quot;my-orgchart&quot;&gt;My orgchart&lt;/h2&gt;
-
-&lt;p&gt;One of my former bosses said to me, “Orgcharts don’t matter. It’s just boxes and lines. People matter.” I disagree. People matter, so boxes and lines matter. Orgcharts shed light on how we fit together. Without them, accountability erodes.&lt;/p&gt;
-
-&lt;p&gt;So, even before I began to think about my product, I came up with an orgchart. For now, I hold as many titles as Tom Brady, Lebron James, and Stephen Curry combined.&lt;/p&gt;
-
-&lt;p&gt;Next, I noted responsibilities that exist within the departments. Finally, I highlighted key responsibilities that are imperative to do now. This exercise was to ensure that I can zero in on the most important work to get started.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/orgchart-v1.png&quot; alt=&quot;Picture of my OrgChart draft with highlights&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I know this chart isn’t perfect or complete. That’s not the point. What I was able to visualize are the different crafts that must come together for me to dare, hope, and dream. And if I get lucky, maybe I’ll get to remove my name off the boxes on the chart.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/why-orgcharts-matter-at-startups</link>
-        <guid isPermaLink="true">https://kimbarros.com/why-orgcharts-matter-at-startups</guid>
         
         <category>Startup</category>
         

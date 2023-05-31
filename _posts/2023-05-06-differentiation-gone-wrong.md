@@ -5,7 +5,7 @@ tags: [Startup, Personal-essay, Founder, Product-management]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/bg-differentiation.jpg
-featured: true
+featured: false
 hidden: false
 ---
 I’m something of a hobby collector. One of my hobbies includes a “product & design journal.” It includes product and design decisions I see in the wild, and I dissect them. I recently encountered an interesting situation involving an e-commerce store I frequently shop at, and I wanted to explore it in more detail.
