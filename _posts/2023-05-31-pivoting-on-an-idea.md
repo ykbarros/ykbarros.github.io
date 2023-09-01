@@ -5,7 +5,7 @@ tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/navigation.jpg
-featured: true
+featured: false
 hidden: false
 ---
 I was determined and inspired by the vision of creating meaningful connections and combating the pervasive issue of loneliness. Instead of building a solution, I defined the target audience and what problem I wanted to solve. This led me to conversations with potential early adopters to explore their needs and challenges.
@@ -24,7 +24,7 @@ Initially, I believed that remote workers would be the ideal early adopters for 
 
 This revelation forced me to address the misalignment between the problem I uncovered and my vision of combating loneliness through meaningful relationships. While the networking issue was urgent and had its own merits, it didn’t directly address the deeper issue I initially set out to solve. This realization prompted me to reevaluate my direction and consider the insights from the references I had explored.
 
-In light of the misalignment, I found myself at a crossroads: should I pivot towards the new, “hair on fire” problem or stay true to my original vision of combatting loneliness through meaningful connections?Ultimately, my true passion lies in authentic connections and addressing the core issue of loneliness; pursuing a different problem would dilute my purpose and impact. So I decided to pivot away from my idea to realign with my core mission.
+In light of the misalignment, I found myself at a crossroads: should I pivot towards the new, “hair on fire” problem or stay true to my original vision of combatting loneliness through meaningful connections? Ultimately, my true passion lies in authentic connections and addressing the core issue of loneliness; pursuing a different problem would dilute my purpose and impact. So I decided to pivot away from my idea to realign with my core mission.
 
 ## Giving up, perseverance, and staying grounded
 
