@@ -4,7 +4,7 @@ title: '"Mom Test" book summary'
 tags: [Startup, Book-summary, Founder]
 categories: Startup
 featured_image_thumbnail:
-featured_image: assets/images/posts/2023/wannapreneur-image.png
+featured_image: assets/images/posts/2023/mom-test-cover.png
 featured: true
 hidden: false
 ---

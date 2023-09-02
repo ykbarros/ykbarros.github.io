@@ -5,7 +5,7 @@ tags: [Startup, Personal-essay, Founder]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/wrong-way.jpg
-featured: false
+featured: true
 hidden: false
 ---
 

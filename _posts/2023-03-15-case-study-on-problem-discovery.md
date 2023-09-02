@@ -5,7 +5,7 @@ tags: [Startup, Case-study, Founder, Product-management]
 categories: Startup
 featured_image_thumbnail:
 featured_image: assets/images/posts/2023/investigator.png
-featured: true
+featured: false
 hidden: false
 ---
 
