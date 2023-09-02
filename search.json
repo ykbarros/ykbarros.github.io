@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "&quot;Mom Test&quot; book summary",
+      "category" : "",
+      "tags"     : "Startup, Book-summary, Founder",
+      "url"      : "/mom-test-book-summary",
+      "date"     : "September 1, 2023"
+    } ,
+  
+    {
+      "title"    : "I don&#39;t want to be a wannapreneur",
+      "category" : "",
+      "tags"     : "Startup, Personal-essay, Founder",
+      "url"      : "/avoiding-wannapreneurship",
+      "date"     : "August 31, 2023"
+    } ,
+  
+    {
       "title"    : "Pivoting direction without a single line of code",
       "category" : "",
       "tags"     : "Startup, Personal-essay, Founder",

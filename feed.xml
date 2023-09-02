@@ -5,9 +5,167 @@
     <description>The Product Person</description>
     <link>https://kimbarros.com/</link>
     <atom:link href="https://kimbarros.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 May 2023 18:09:11 -0400</pubDate>
-    <lastBuildDate>Wed, 31 May 2023 18:09:11 -0400</lastBuildDate>
+    <pubDate>Fri, 01 Sep 2023 23:22:22 -0400</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 23:22:22 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>&quot;Mom Test&quot; book summary</title>
+        <description>&lt;p&gt;&lt;em&gt;The Mom Test&lt;/em&gt; outlines rules for crafting good user conversations so that even your mom can give you objectively helpful insights about what you’re building.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good questions elicit answers that are grounded in concrete facts about our customers’ lives, world views, and actions.&lt;/li&gt;
+  &lt;li&gt;Bad questions do not. They can instead lead to false positives which lead you to build the wrong thing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-rules-for-good-conversations&quot;&gt;5 rules for good conversations&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Talk less and listen more.&lt;/li&gt;
+  &lt;li&gt;Talk about their life instead of your idea.&lt;/li&gt;
+  &lt;li&gt;Ask about the specifics from their past instead of generics, opinions, and hypotheticals about the future.&lt;/li&gt;
+  &lt;li&gt;Ask them to do a task to see where the problems really are.&lt;/li&gt;
+  &lt;li&gt;End every conversation with, “Who else should I talk to?” If someone doesn’t want to make intros, that’s cool, too. You’ve learned that you’re either screwing up the meeting (probably by being too formal, pitchy, or clingy) or they don’t actually care about the problem you’re solving.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;good-questions&quot;&gt;Good questions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why is this a problem for you?&lt;/li&gt;
+  &lt;li&gt;When is the last time this problem affected you?&lt;/li&gt;
+  &lt;li&gt;Talk to me through the last time this happened.&lt;/li&gt;
+  &lt;li&gt;How did you try to fix it then?&lt;/li&gt;
+  &lt;li&gt;Why did you bother doing it this way?&lt;/li&gt;
+  &lt;li&gt;How are you dealing with it now?&lt;/li&gt;
+  &lt;li&gt;What else have you tried?&lt;/li&gt;
+  &lt;li&gt;How much did you spend on solution X?&lt;/li&gt;
+  &lt;li&gt;What feature did you find most or least helpful from solution X?&lt;/li&gt;
+  &lt;li&gt;Why did you want the feature?&lt;/li&gt;
+  &lt;li&gt;If you’re no longer using solution X, how are you currently coping without the feature?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bad-questions-elicit&quot;&gt;Bad questions elicit…&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Niceties&lt;/strong&gt;. “What do you think about my product?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Opinions&lt;/strong&gt;. “What do you think about a product which does X?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypotheticals&lt;/strong&gt;. “Would you buy this?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Future promises&lt;/strong&gt;. “Will you sign up for the beta test when we launch?”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;take-these-with-a-grain-of-salt&quot;&gt;Take these with a grain of salt&lt;/h2&gt;
+
+&lt;p&gt;Generally, these are ego-boosting remarks that reaffirm your bias towards what you’re building without any concrete validations.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Compliments&lt;/strong&gt;. They’re the fool’s gold of customer learning.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fluffs&lt;/strong&gt;. These may lead to confirmation bias.
+    &lt;ul&gt;
+      &lt;li&gt;Generic: “I usually, always, or never…”&lt;/li&gt;
+      &lt;li&gt;Future-looking: “I would” or “I will”&lt;/li&gt;
+      &lt;li&gt;Hypothetical: “I could” or “I might”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ideas.&lt;/strong&gt; Some problems don’t actually matter. Some people are complainers, not customers; they want their petty annoyances of their day solved, but won’t have done anything to fix it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/mom-test.png&quot; alt=&quot;Mock conversation&quot; /&gt;
+&lt;small&gt;&lt;i&gt;This is a paraphrased exchange I had with someone. I didn’t pursue this problem further.&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-conversations&quot;&gt;Finding conversations&lt;/h2&gt;
+
+&lt;p&gt;You may start with cold calls, but the goal is to turn them into warm intros. Two ways of finding conversations include you going to them and bringing them to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Going to them:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cold calls&lt;/li&gt;
+  &lt;li&gt;Seizing the moment&lt;/li&gt;
+  &lt;li&gt;Through mutual friends and colleagues&lt;/li&gt;
+  &lt;li&gt;Finding a good excuse&lt;/li&gt;
+  &lt;li&gt;Being in the right place&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bringing them to you:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Organizing meetups&lt;/li&gt;
+  &lt;li&gt;Speaking and teaching&lt;/li&gt;
+  &lt;li&gt;Blogging&lt;/li&gt;
+  &lt;li&gt;Getting creative in attracting attention&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Example on getting creative: I love using my fountain pens and calligraphy pens for journaling my thoughts. I purposefully went into a co-working space, made ink swatches, and started journaling in the cafeteria until people started getting curious and asking why I’m watching my inks dry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/creative-bait.jpeg&quot; alt=&quot;My ink swatches&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/mom-test-book-summary</link>
+        <guid isPermaLink="true">https://kimbarros.com/mom-test-book-summary</guid>
+        
+        <category>Startup</category>
+        
+        <category>Book-summary</category>
+        
+        <category>Founder</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
+    
+      <item>
+        <title>I don&apos;t want to be a wannapreneur</title>
+        <description>&lt;p&gt;If I had a dollar for every time someone told me they wanted to break away from the corporate rat race to be their own boss, I would be able to afford a home &lt;em&gt;and&lt;/em&gt; an avocado toast for breakfast. If I had another dollar for every time someone told me they had a unicorn idea in their head that’s ready for takeoff, I would master the art of quiet luxury fashion completely from head to toe.&lt;/p&gt;
+
+&lt;p&gt;Not too long ago, I applied for a founder residency program at Antler, a “day zero investor.” For the interview preparation, I’ve spent most of my time thinking about my fit above all else.&lt;/p&gt;
+
+&lt;p&gt;My goal for 2023 was always twofold: establish a consistent stream of income and start working on an idea I’m passionate about. But as the sage Ron Swanson once said, you shouldn’t half ass two things and whole ass one thing instead.&lt;/p&gt;
+
+&lt;p&gt;So am I in the right frame of mind to actually commit to working on my idea wholly or is this a fleeting wannapreneurship fever dream? To evaluate myself, I completed a SWIL analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;swil-analysis&quot;&gt;SWIL analysis&lt;/h2&gt;
+
+&lt;p&gt;My SWIL analysis (stands for &lt;strong&gt;S&lt;/strong&gt;trengths, &lt;strong&gt;W&lt;/strong&gt;eaknesses, &lt;strong&gt;I&lt;/strong&gt;ncentives and &lt;strong&gt;L&lt;/strong&gt;imitations) borrows from the SWOT analysis framework. Unlike SWOT, where the analysis is done by identifying both internal and external factors, I used SWIL to look inwardly at myself to determine the impact I can make and the viability of me working on a new startup idea. As such, opportunities and threats are replaced with incentives and limitations, where:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Incentives describe my values and motivations, and&lt;/li&gt;
+  &lt;li&gt;Limitations describe my personal limitations and situations that may hinder my progress.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/swil-draft.jpeg&quot; alt=&quot;Brain dump&quot; /&gt;
+&lt;small&gt;&lt;i&gt;First draft was a brain dump&lt;i&gt;&lt;small&gt;&lt;/small&gt;&lt;/i&gt;&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/swil-analysis.png&quot; alt=&quot;My organized SWIL notes&quot; /&gt;
+&lt;small&gt;&lt;i&gt;This is my organized SWIL notes. You can read it in full &lt;a href=&quot;https://whimsical.com/swil-analysis-PQM4KFoVGxpC1AmMBEABmS@2Ux7TurymMx2YpkpxqR7&quot;&gt;here&lt;/a&gt;&lt;i&gt;&lt;small&gt;&lt;/small&gt;&lt;/i&gt;&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest challenge I had was defining my values. The process of introspection felt confusing; I often didn’t know how to differentiate between certain values. I’m still not sure I picked the right ones. To do this, I borrowed from &lt;a href=&quot;https://brenebrown.com/hubs/dare-to-lead/&quot;&gt;Dr. Brown’s body of work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;object data=&quot;assets/pdf/list-of-values.pdf&quot; width=&quot;1000&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
+
+&lt;h2 id=&quot;takeaway&quot;&gt;Takeaway&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, I recognized that my bias for action led to achieving consistent stream of income. But by exerting my time, energy, and focus towards this goal, I’ve shown two classic signs of a wannapreneur:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Constant idea generation with commitment issues&lt;/strong&gt; where I don’t stick with one idea for long. I keep brainstorming new concepts as I talk to people and it’s been awhile since I’ve taken steps towards execution beyond prototype testing.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No concrete plans with inconsistent efforts&lt;/strong&gt; around execution. All my executive functioning skills are used up for consulting and business development. Working on my idea has been too sporadic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So I’m going to take the first step to address this issue by going whole ass on executing against my idea; I’m joining Antler for their fall cohort. If you’re also interested in this thought exercise before you make the jump to something scary and exciting, try this and let me know how it goes.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 -0400</pubDate>
+        <link>https://kimbarros.com/avoiding-wannapreneurship</link>
+        <guid isPermaLink="true">https://kimbarros.com/avoiding-wannapreneurship</guid>
+        
+        <category>Startup</category>
+        
+        <category>Personal-essay</category>
+        
+        <category>Founder</category>
+        
+        
+        <category>Startup</category>
+        
+      </item>
     
       <item>
         <title>Pivoting direction without a single line of code</title>
@@ -27,7 +185,7 @@
 
 &lt;p&gt;This revelation forced me to address the misalignment between the problem I uncovered and my vision of combating loneliness through meaningful relationships. While the networking issue was urgent and had its own merits, it didn’t directly address the deeper issue I initially set out to solve. This realization prompted me to reevaluate my direction and consider the insights from the references I had explored.&lt;/p&gt;
 
-&lt;p&gt;In light of the misalignment, I found myself at a crossroads: should I pivot towards the new, “hair on fire” problem or stay true to my original vision of combatting loneliness through meaningful connections?Ultimately, my true passion lies in authentic connections and addressing the core issue of loneliness; pursuing a different problem would dilute my purpose and impact. So I decided to pivot away from my idea to realign with my core mission.&lt;/p&gt;
+&lt;p&gt;In light of the misalignment, I found myself at a crossroads: should I pivot towards the new, “hair on fire” problem or stay true to my original vision of combatting loneliness through meaningful connections? Ultimately, my true passion lies in authentic connections and addressing the core issue of loneliness; pursuing a different problem would dilute my purpose and impact. So I decided to pivot away from my idea to realign with my core mission.&lt;/p&gt;
 
 &lt;h2 id=&quot;giving-up-perseverance-and-staying-grounded&quot;&gt;Giving up, perseverance, and staying grounded&lt;/h2&gt;
 
@@ -487,147 +645,6 @@
         <pubDate>Tue, 24 Jan 2023 00:00:00 -0500</pubDate>
         <link>https://kimbarros.com/conceptualizing-products-without-a-good-idea</link>
         <guid isPermaLink="true">https://kimbarros.com/conceptualizing-products-without-a-good-idea</guid>
-        
-        <category>Startup</category>
-        
-        <category>Personal-essay</category>
-        
-        <category>Founder</category>
-        
-        
-        <category>Startup</category>
-        
-      </item>
-    
-      <item>
-        <title>How to avoid startup pitfalls</title>
-        <description>&lt;p&gt;I stumbled upon several cognitive biases and made some poor decisions about what I needed to do next for my startup project in the past two weeks. I’ll share what happened and how you (and I) can avoid the pitfalls.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-did-i-do&quot;&gt;What did I do?&lt;/h2&gt;
-&lt;p&gt;I’ve wanted to work on accessible means of self-care, so I prioritized talking to people to better understand what I needed to solve. I reached out to my penpals and asked what they do for self-care; 19 people responded, and &lt;em&gt;all&lt;/em&gt; of them mentioned journaling as a means of self-care.&lt;/p&gt;
-
-&lt;p&gt;I couldn’t stop thinking about what kind of journaling app I will build after that.&lt;/p&gt;
-
-&lt;p&gt;I brainstormed reasons why someone would want to have my journaling app over another. From this exercise, I produced a list of what my users will receive by using my journal.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Make peace with my inner voice by letting me express my thoughts and feelings without the pressure or judgment.&lt;/li&gt;
-  &lt;li&gt;Help me build emotional resilience by embracing vulnerability; labeling my fear, worry, and anxiety; and making small changes to handle them.&lt;/li&gt;
-  &lt;li&gt;Allow myself to feel more hopeful, connected, and grateful by taking the time to recognize the small moments of joy and positive energy, no matter how trivial they may seem.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;From there on, I did a user journey exercise to see what kind of experience I should initially build. I turned the user journey flow into a low-fidelity sketch. Then I turned the low-fidelity into a high-fidelity one in Figma.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/hi-fi-mocks.png&quot; alt=&quot;My high fidelity design mocks in Figma&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To ensure that I’m headed in the right direction, I sent out the prototype flow to get feedback. I’ve received positive responses, and started looking into a no-code/low-code solution so I can launch an MVP for validation. Some people told me that they prefer pen and paper, but I’m assumed they weren’t my target customer.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-many-cognitive-biases-did-i-fall-prey-to&quot;&gt;How many cognitive biases did I fall prey to?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;I instantly &lt;em&gt;latched onto my idea&lt;/em&gt; after a &lt;em&gt;single&lt;/em&gt; question.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Anchoring&lt;/strong&gt; is the tendency to rely too heavily on the first piece of information encountered when making a decision. I gravitated to the first pattern I was able to discern and made my decision on what to build.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Availability heuristic&lt;/strong&gt; is the tendency to base decisions on the most recent information without being relying on a comprehensive analysis of all available information. I asked one question: “how do you self-care?” Despite receiving numerous other ways that people listed for self-caring, I chose to ignore all of them and only look at journaling as a viable means.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;I got a way too invested in the idea and started doing a lot of work.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Escalation of commitment&lt;/strong&gt; is the tendency to invest more resource, time, or energy in a decision though nothing is indicating that you should. What I really got from my conversation is that people who write letters to me also like to write in a journal. Instead, I took it as some sort of sign and really ran with it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Overconfidence effect&lt;/strong&gt; is the tendency to have excessive confidence in one’s own answers to questions. All the brainstorming and flowcharting exercises I did were solo activities. I posed the questions, and I answered them. I was satisfied I was on the right track, and kept pushing forward.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;I carried on with people who reacted positively to my prototype and dismissed the others.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Confirmation bias&lt;/strong&gt; is the tendency to seek out and interpret information that confirms your beliefs while disregarding the contraction. It’s a classic; what more can I say?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-to-avoid-cognitive-biases&quot;&gt;How to avoid cognitive biases&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Create checkpoints&lt;/strong&gt; &lt;br /&gt;
-Before you continue down a rabbit hole and further invest what precious time you’ve got, create frequent checkpoints. A checkpoint should include the following:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Listing assumptions you’re making with where you are and where you’re going.&lt;/li&gt;
-  &lt;li&gt;Coming up with questions that can validate your assumptions to be true or false.&lt;/li&gt;
-  &lt;li&gt;Reaching out to diverse perspectives and asking them questions for validation purposes.&lt;/li&gt;
-  &lt;li&gt;Based on the responses, evaluating what steps to take next.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Just like in video games, this helps make meaningful progress and it makes turning back to a last, good save easier (before you got absolutely ambushed because you killed too many cows for profit).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Check your ego and don’t take things personally&lt;/strong&gt; &lt;br /&gt;
-When I was doing this discovery work as my job, I took all the feedback in stride. But because I got so rapidly hooked on the idea &lt;em&gt;and&lt;/em&gt; I felt like I had the momentum &lt;em&gt;and&lt;/em&gt; I had all this flurry of activity to show what I’ve done, I got very emotionally attached to what I produced. Here’s what I did:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;I stepped away from the mess I made for a few days so that I can be more detached from the situation in order to better observe and evaluate what happened.&lt;/li&gt;
-  &lt;li&gt;I reframed the situation in order to learn from the experience. Instead of feeling hurt by people who weren’t raving about my idea or feeling embarrassed that I derailed two weeks on this, I decided that it was a good learning experience I can write about so I can help others avoid the same mistake.&lt;/li&gt;
-  &lt;li&gt;I kept reminding myself failure is okay and expected. I agree it’s not the sexiest words of affirmation. But a consistent, stern, sobering self-reminder that I’ll fail more than get it right has been helpful to keep my ego in check.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Stop being a doer&lt;/strong&gt; &lt;br /&gt;
-“If you build it, they will come” is a disastrous trap. I didn’t use Google+ or Google Lively, and I won’t go to a meeting in the Metaverse. According to the &lt;a href=&quot;https://www.bls.gov/bdm/us_age_naics_00_table7.txt&quot;&gt;Bureau of Labor Statistics&lt;/a&gt;, as of March 2022, only about &lt;strong&gt;80%&lt;/strong&gt; of businesses survived after &lt;strong&gt;one year&lt;/strong&gt;. So why do so many businesses fail?&lt;/p&gt;
-
-&lt;p&gt;The answer is simple: it’s because businesses were selling something that not many people wanted. So stop being so eager to build a solution.&lt;/p&gt;
-
-&lt;p&gt;You may think, “But I need to go &lt;em&gt;fast.&lt;/em&gt; And what about the first-mover advantage? I need to launch my idea ASAP!” The first-mover advantage is an advantage gained by first introducing a novel product or service to the market. Examples include Gillette, Amazon and eBay. And Vine, MySpace, and AltaVista. While the first-mover advantage may create a sense of false urgency to “just build it,” this advantage means nothing if no one is interested in what you have to sell.&lt;/p&gt;
-
-&lt;p&gt;Instead, &lt;strong&gt;find out if people want it built first. Then they &lt;em&gt;might&lt;/em&gt; come.&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/how-to-avoid-startup-pitfalls</link>
-        <guid isPermaLink="true">https://kimbarros.com/how-to-avoid-startup-pitfalls</guid>
-        
-        <category>Startup</category>
-        
-        <category>Personal-essay</category>
-        
-        <category>Founder</category>
-        
-        
-        <category>Startup</category>
-        
-      </item>
-    
-      <item>
-        <title>How traditional product plans ruin startups</title>
-        <description>&lt;p&gt;Product managers love methodologies, frameworks, mental models, processes, graphs, charts, infographic. You name it, I’ve likely used it. In established organizations, having definitions around what needs to be done and documentation that is agreed upon by everyone involved helps to get the product built. But those familiar ways of doing things can damage a budding startup opportunity.&lt;/p&gt;
-
-&lt;p&gt;I’ll name two commonly used ways of how product people work and why it doesn’t work for a startup.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-product-development-process-and-planning&quot;&gt;1. Product development process and planning&lt;/h2&gt;
-&lt;p&gt;Product development is often described as a series of steps taken in order to launch a product or a service. The development process takes a methodical approach in order to come up with ideas that work for customers and generate profit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/prod-dev-proc.jpg&quot; alt=&quot;Product development process&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;creating-a-product-development-plan&quot;&gt;Creating a product development plan&lt;/h2&gt;
-&lt;p&gt;In the linear, systematic approach to developing a new product, a product development plan may emerge in order to bring more order to the chaos. A plan usually includes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;product vision&lt;/strong&gt;: This may include the purpose of the product, what the product should do, and the scope of the product.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;business case&lt;/strong&gt;: This may be explained using marketing surveys (e.g., NPS scores).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;roadmap&lt;/strong&gt;: This may include a list of milestones and goals to hit, like go-live dates, as well as a breakdown of how the work will get done across multiple goals (or sprint planning against the epics if you’re inclined to use scrum terminology).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;2-the-business-model-canvas&quot;&gt;2. The Business Model Canvas&lt;/h2&gt;
-&lt;p&gt;A product plan may be too much information to zoom in on. One of the popular one-pager templates that’s often suggested to entrepreneurs is The Business Model Canvas. This allows you or your stakeholders to have a quick glimpse at the viability of your business based on your idea. It’s a well-loved framework; so much so that popular ideation tools like Mural and Miro have it as a built-in template.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/2023/miro-biz-model-canvas.png&quot; alt=&quot;Miro&apos;s business model canvas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;To complete the canvas, you need to fill in each section with your go-to-market strategy by identifying the following:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Stakeholders and partners,&lt;/li&gt;
-  &lt;li&gt;Steps towards customer activation,&lt;/li&gt;
-  &lt;li&gt;Pricing and revenue,&lt;/li&gt;
-  &lt;li&gt;Customer segments&lt;/li&gt;
-  &lt;li&gt;Selling points for customers, and&lt;/li&gt;
-  &lt;li&gt;Engagement points for customers.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;why-product-development-plans-and-the-canvas-dont-work-for-startups&quot;&gt;Why product development plans and the canvas don’t work for startups&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;There’s too much uncertainty and the environment radically changes from day to day.&lt;/li&gt;
-  &lt;li&gt;Startups often have limited resources in time and money. So it’s imperative to validate your business model and product as soon as possible. The traditional ways of product launching is often rigid and time-consuming.&lt;/li&gt;
-  &lt;li&gt;You’ll end up spending a lot of your energy, attention, and effort towards guesstimating. A business model of a startup is often in flux as you try to find the right product-market fit. If you think your local weatherman is bad at forecasting, try coming up with your customer acquisition steps and the path to monetization. If you can do that accurately, please send me the numbers to the next Powerball drawing; please and thank you.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate>
-        <link>https://kimbarros.com/traditional-product-plans-ruin-startups</link>
-        <guid isPermaLink="true">https://kimbarros.com/traditional-product-plans-ruin-startups</guid>
         
         <category>Startup</category>
         
